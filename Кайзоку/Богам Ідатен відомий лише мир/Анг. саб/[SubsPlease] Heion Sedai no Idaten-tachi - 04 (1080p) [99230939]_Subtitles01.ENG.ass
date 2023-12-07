@@ -1,0 +1,389 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Default - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback_Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: OP_ED,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,2,2,10,10,18,0
+Style: Show_Title,Trebuchet MS,48,&H002901D4,&H000000FF,&H00881C84,&H00000000,-1,-1,0,0,100,100,0,0,1,3,0,8,10,10,13,1
+Style: Caption base,Arial,20,&H00060A07,&H000000FF,&H00F1F5F2,&H00560954,-1,0,0,0,100,100,0,0,3,2,2,2,10,10,100,1
+Style: sign_4605_28__1_Peacetime,Comic Sans MS,28,&H00071410,&H000000FF,&H005DFFFA,&H005FFFFA,-1,0,0,0,100,100,0,0,1,1,1,8,20,20,2,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:09.61,0:00:12.82,Main,Piscalat,0,0,0,,There were four Idaten present \Nat the scene of the battle,
+Dialogue: 0,0:00:12.82,0:00:17.28,Main,Piscalat,0,0,0,,one of which we had no data on\Nand was exceptionally strong.
+Dialogue: 0,0:00:17.28,0:00:20.65,Main,Piscalat,0,0,0,,She's also apparently a survivor\N from 800 years ago...
+Dialogue: 0,0:00:20.65,0:00:23.71,Main,Obami,0,0,0,,From before the demons were wiped out.
+Dialogue: 0,0:00:23.71,0:00:26.42,Main,Obami,0,0,0,,I never would've guessed \None of them was still alive.
+Dialogue: 0,0:00:26.42,0:00:31.84,Main,Obami,0,0,0,,Is Nickel's transmitter still functioning? \NIt was surgically implanted.
+Dialogue: 0,0:00:32.17,0:00:35.88,Main,Piscalat,0,0,0,,The audio feed went dead not long \Nafter G-Thirteen was eliminated.
+Dialogue: 0,0:00:35.88,0:00:39.85,Main,Piscalat,0,0,0,,I have to imagine someone noticed \Nand intentionally disabled it.
+Dialogue: 0,0:00:40.15,0:00:42.56,Italics,Ysley,0,0,0,,You can implant it internally\N to keep it hidden,
+Dialogue: 0,0:00:42.56,0:00:45.92,Italics,Ysley,0,0,0,,but you can't expect me to miss \Nthe actual signal coming out of it.
+Dialogue: 0,0:00:47.87,0:00:50.61,Main,Obami,0,0,0,,That means they knew all \Nabout the first transmitter
+Dialogue: 0,0:00:50.61,0:00:55.92,Main,Obami,0,0,0,,and left it partially functional \Nin order to gauge our response!
+Dialogue: 0,0:00:56.53,0:00:58.76,Main,Rank and File,0,0,0,,W-Wait, isn't this bad news?
+Dialogue: 0,0:00:58.76,0:01:00.99,Main,Rank and File,0,0,0,,If they attack us now...
+Dialogue: 0,0:01:00.99,0:01:03.65,Main,Rank and File,0,0,0,,B-B-Brandy-san, we're counting on you!
+Dialogue: 0,0:01:03.65,0:01:06.90,Main,Brandy,0,0,0,,Wh-What are you talking about?!\N I telling you I can win, either! No way!
+Dialogue: 0,0:01:06.90,0:01:09.35,Main,Brandy,0,0,0,,I think I still have a lot \Nof growing to do, y'know?
+Dialogue: 0,0:01:09.35,0:01:11.55,Main,Brandy,0,0,0,,Let's keep our expectations \Nin check, shall we?
+Dialogue: 0,0:01:11.55,0:01:16.03,Main,Miku,0,0,0,,Oh, my! Are we all going to be slaughtered?
+Dialogue: 0,0:01:16.03,0:01:19.57,Main,Miku,0,0,0,,Oh, I've always wondered what it'd \Nbe like to be on the receiving end...
+Dialogue: 0,0:01:16.28,0:01:21.47,Main,Sign,0,0,0,,{\fad(250,1)\fnArial\fs20\b1\an7\frz10\bord0\shad0\c&HEADBCB&}Throb
+Dialogue: 0,0:01:16.28,0:01:21.47,Main,Sign,0,0,0,,{\fad(250,1)\fnArial\fs20\b1\an4\frz-5\bord0\shad0\c&HEADBCB&}Throb
+Dialogue: 0,0:01:16.28,0:01:21.47,Main,Sign,0,0,0,,{\fad(250,1)\fnArial\fs20\b1\an9\frz-5\bord0\shad0\c&HEADBCB&}Throb
+Dialogue: 0,0:01:16.28,0:01:21.47,Main,Sign,0,0,0,,{\fad(250,1)\fnArial\fs20\b1\an6\frz10\bord0\shad0\c&HEADBCB&}Throb
+Dialogue: 0,0:01:19.57,0:01:21.47,Main,Brandy,0,0,0,,Why is this turning you on?!
+Dialogue: 0,0:01:21.47,0:01:22.84,Main,Arguing noise,0,0,0,,Rabble, rabble, rabble...
+Dialogue: 0,0:01:22.84,0:01:25.44,Main,Obami,0,0,0,,Enough! Would you all shut your traps?!
+Dialogue: 0,0:01:25.29,0:01:27.48,Main,Sign/Reaction Noise,0,0,0,,{\fad(460,1)\fnArial\b1\fs32\bord0\shad0\pos(328.667,172.667)\i1\c&HEADBCB&}Hush
+Dialogue: 0,0:01:25.44,0:01:27.48,Main,Sign/Reaction Noise,0,0,0,,Hush...
+Dialogue: 0,0:01:27.48,0:01:30.73,Main,Obami,0,0,0,,It's true enough that \Nwe can't win as things stand.
+Dialogue: 0,0:01:30.73,0:01:33.65,Main,Obami,0,0,0,,Nevertheless, we can't just \Nkeep our heads down.
+Dialogue: 0,0:01:33.65,0:01:35.64,Main,Obami,0,0,0,,If we ignore those three fledglings,
+Dialogue: 0,0:01:35.64,0:01:39.12,Main,Obami,0,0,0,,they could grow to become \Nmonsters in their own right.
+Dialogue: 0,0:01:39.12,0:01:41.66,Main,Obami,0,0,0,,Piscalat. Neput. Cory.
+Dialogue: 0,0:01:41.66,0:01:45.02,Main,Obami,0,0,0,,The three of you will be responsible \Nfor exterminating them!
+Dialogue: 0,0:01:45.02,0:01:47.46,Main,Obami,0,0,0,,Use the military to find and track them.
+Dialogue: 0,0:01:47.46,0:01:49.07,Main,Neput,0,0,0,,Human troops?
+Dialogue: 0,0:01:49.07,0:01:52.93,Main,Obami,0,0,0,,Exactly. They won't attack human soldiers.
+Dialogue: 0,0:01:52.93,0:01:55.23,Main,Obami,0,0,0,,We've infiltrated human society \Nin order to evade them...
+Dialogue: 0,0:01:55.23,0:01:58.84,Main,Obami,0,0,0,,We'll have to strike once they \Nsplit up and are isolated.
+Dialogue: 0,0:01:59.28,0:02:00.46,Italics,Piscalat,0,0,0,,Makes sense.
+Dialogue: 0,0:02:00.46,0:02:01.94,Italics,Piscalat,0,0,0,,We use the humans for intelligence,
+Dialogue: 0,0:02:01.94,0:02:04.71,Italics,Piscalat,0,0,0,,and when an opportunity \Npresents itself, we attack.
+Dialogue: 0,0:02:04.71,0:02:09.35,Italics,Piscalat,0,0,0,,That's the safest tactic, given that \Nthey're protecting the humans...
+Dialogue: 0,0:02:09.58,0:02:10.86,Main,Rin,0,0,0,,I'll kill them all.
+Dialogue: 0,0:02:11.18,0:02:13.41,Main,Rin,0,0,0,,If the demons are hiding in a human nation
+Dialogue: 0,0:02:13.41,0:02:15.36,Main,Rin,0,0,0,,and there's no way to tell the two apart,
+Dialogue: 0,0:02:15.36,0:02:17.61,Main,Rin,0,0,0,,then I'll blow the whole country off the map!
+Dialogue: 0,0:02:17.61,0:02:21.85,Italics,Ysley,0,0,0,,It's impressive that she'd suggest the most \Nbrutal solution without any hesitation...
+Dialogue: 0,0:02:22.49,0:02:25.10,Italics,Ysley,0,0,0,,I bet even the demons would be surprised.
+Dialogue: 0,0:02:33.19,0:02:39.08,Show_Title,,0,0,0,,{\fad(4409,938)\fscy140}The Idaten {\c&H21FCFB&}Dei{\c&H2601D4&}ties\N{\fs24\c&H19F7D8&\i0\3c&H3E679B&\fscy100}\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hKn{\c&HD6E1F9&}ow {\c&H19F7D8&}On{\c&HD6E1F9&}ly {\c&H19F7D8&}Pe{\c&HD6E1F9&}ac{\c&H19F7D8&}e
+Dialogue: 0,0:03:55.06,0:03:56.00,Show_Title,,0,0,0,,{\3c&H6C171A&}The Idaten {\c&H21FCFB&}Dei{\c&H2601D4&}ties\N{\c&H3FCC78&\fs24\i0\fscy100}\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hKn{\c&HC29AE7&}ow {\c&H3FCC78&}On{\c&HC29AE7&}ly {\c&H3FCC78&}Pe{\c&HC29AE7&}ac{\c&H3FCC78&}e
+Dialogue: 0,0:03:56.00,0:04:04.01,sign_4605_28__1_Peacetime,Eptitle sign,0,0,0,,{\be.25)\t(2000,3000,\c&HF4FEF5&\3c&HACFF62&\4c&HFDDCE8&)}#4\NYellow Sparrow
+Dialogue: 0,0:04:01.01,0:04:04.01,Main,Rin,0,0,0,,Ysley, tell me where this \NZoble place is right now!
+Dialogue: 0,0:04:04.26,0:04:06.70,Main,Rin,0,0,0,,I'm going to wipe it out as soon as possible!
+Dialogue: 0,0:04:06.70,0:04:09.01,Main,Ysley,0,0,0,,N-N-Now, let's take a second \Nto calm down here, Rin-san!
+Dialogue: 0,0:04:09.26,0:04:13.10,Main,Ysley,0,0,0,,We don't know how many demons there are,\Nor what kinds we're dealing with.
+Dialogue: 0,0:04:13.10,0:04:16.85,Main,Ysley,0,0,0,,To be on the safe side, \Nwhy don't we try bringing in Prontea-san?
+Dialogue: 0,0:04:16.85,0:04:18.15,Main,Rin,0,0,0,,Bring in Prontea?
+Dialogue: 0,0:04:20.16,0:04:22.90,Main,Rin,0,0,0,,I admit he {\i1}would{\i0} be a great help,
+Dialogue: 0,0:04:23.14,0:04:27.45,Main,Rin,0,0,0,,but I entrusted him with \Nmonitoring the entire world.
+Dialogue: 0,0:04:27.45,0:04:29.53,Main,Rin,0,0,0,,I wouldn't know where \Nto start looking for him.
+Dialogue: 0,0:04:29.53,0:04:31.87,Main,Paula,0,0,0,,Huh? But Prontea-san is—
+Dialogue: 0,0:04:31.87,0:04:35.06,Main,Ysley,0,0,0,,Right?! So we'll go and search him out!
+Dialogue: 0,0:04:35.06,0:04:37.84,Main,Ysley,0,0,0,,Could you wait a week before taking action?
+Dialogue: 0,0:04:38.91,0:04:40.80,Main,Ysley,0,0,0,,What are you talking about, Ysley?
+Dialogue: 0,0:04:40.80,0:04:43.84,Main,Ysley,0,0,0,,Prontea-san's going to be\N in Hotaena like always.
+Dialogue: 0,0:04:43.84,0:04:45.59,Main,Ysley,0,0,0,,I'll explain later!
+Dialogue: 0,0:04:45.59,0:04:48.10,Main,Rin,0,0,0,,A week it is, then. Find Prontea and—
+Dialogue: 0,0:04:49.41,0:04:51.05,Main,Hayato,0,0,0,,All right, Granny! I'm all healed up!
+Dialogue: 0,0:04:51.05,0:04:52.73,Main,Hayato,0,0,0,,Let's get this training started already!
+Dialogue: 0,0:04:53.18,0:04:55.66,Main,Rin,0,0,0,,I was talking, you fool!
+Dialogue: 0,0:04:57.53,0:04:59.29,Main,Rin,0,0,0,,That idiotic pupil of mine...
+Dialogue: 0,0:04:59.29,0:05:02.08,Italics,Ysley,0,0,0,,He was able to land an attack \Non Rin-san by himself...
+Dialogue: 0,0:05:02.08,0:05:04.13,Italics,Ysley,0,0,0,,And he managed to budge her?
+Dialogue: 0,0:05:08.49,0:05:10.70,Main,Hayato,0,0,0,,Come on, you old fart! That all you got?!
+Dialogue: 0,0:05:10.70,0:05:12.57,Main,Hayato,0,0,0,,Hurry up and bring it on!
+Dialogue: 0,0:05:12.57,0:05:14.09,Main,Rin,0,0,0,,What's gotten into him?
+Dialogue: 0,0:05:14.09,0:05:15.66,Main,Rin,0,0,0,,I'll have to shut him up the hard way...
+Dialogue: 0,0:05:15.96,0:05:18.03,Italics,Ysley,0,0,0,,He's recovering at an incredible rate, too.
+Dialogue: 0,0:05:18.03,0:05:19.47,Italics,Ysley,0,0,0,,Our bodies are corporealized thought.
+Dialogue: 0,0:05:19.47,0:05:21.95,Italics,Ysley,0,0,0,,It's natural that our state of mind\N affects our physiology...
+Dialogue: 0,0:05:22.97,0:05:26.02,Italics,Ysley,0,0,0,,But it seems his loss, and the earnest \Nhunger for strength that it inspired,
+Dialogue: 0,0:05:26.02,0:05:27.84,Italics,Ysley,0,0,0,,has powered him up a fair bit.
+Dialogue: 0,0:05:31.91,0:05:35.74,Main,Troops,0,0,0,,Damn it, why are we watching \Nsome rinky-dink island?
+Dialogue: 0,0:05:35.74,0:05:37.06,Main,Troops,0,0,0,,Quit complaining.
+Dialogue: 0,0:05:37.06,0:05:39.52,Main,Troops,0,0,0,,Are these three kids really \Nworth all the trouble?
+Dialogue: 0,0:05:39.52,0:05:41.50,Main,Troops,0,0,0,,Check out the one with the pigtails, though.
+Dialogue: 0,0:05:41.50,0:05:43.82,Main,Troops,0,0,0,,A little on the young side, \Nbut she's pretty cute!
+Dialogue: 0,0:05:43.82,0:05:47.28,Main,Troops,0,0,0,,Hey, that's a nice rack! \NWonder if we're allowed to mess her up...
+Dialogue: 0,0:05:47.28,0:05:49.71,Italics,Rin,0,0,0,,No one on these boats has noticed me.
+Dialogue: 0,0:05:47.54,0:05:50.77,Main,Troops,0,0,0,,{\an8}They said we're allowed to\N if we can pull this off.
+Dialogue: 0,0:05:49.71,0:05:52.05,Italics,Rin,0,0,0,,They're all human.
+Dialogue: 0,0:05:52.05,0:05:53.68,Italics,Rin,0,0,0,,But it's only been a half a day,
+Dialogue: 0,0:05:53.68,0:05:56.08,Italics,Rin,0,0,0,,and now tens of thousands \Nof troops are encircling the area...
+Dialogue: 0,0:05:58.84,0:06:02.57,Italics,Rin,0,0,0,,When I was young, the world population \Nnumbered in the thousands.
+Dialogue: 0,0:06:02.57,0:06:04.76,Italics,Rin,0,0,0,,There are almost too \Nmany humans at this point.
+Dialogue: 0,0:06:05.03,0:06:08.59,Italics,Rin,0,0,0,,I could try to kill them all, \Nbut some are bound to get away...
+Dialogue: 0,0:06:08.59,0:06:11.76,Italics,Rin,0,0,0,,It seems waiting for Prontea\N is the wise move after all.
+Dialogue: 0,0:06:12.05,0:06:15.60,Main,Monitor,0,0,0,,General Piscalat! It's that woman again.
+Dialogue: 0,0:06:15.61,0:06:19.81,Main,Monitor,0,0,0,,All of our naval troops' reports\N have been about her, too.
+Dialogue: 0,0:06:19.81,0:06:23.90,Italics,Piscalat,0,0,0,,Why is she the only one? \NHave they already gone separate ways?
+Dialogue: 0,0:06:22.50,0:06:24.83,Main,Monitor,0,0,0,,{\an8}Where does she keeping \Nappearing from, though?
+Dialogue: 0,0:06:23.90,0:06:27.07,Italics,Piscalat,0,0,0,,For them to split up immediately \Nafter the battle with Nickel...
+Dialogue: 0,0:06:26.11,0:06:29.00,Main,Monitor,0,0,0,,{\an8}She keeps popping in and \Nout from seemingly nowhere.
+Dialogue: 0,0:06:27.37,0:06:30.89,Italics,Piscalat,0,0,0,,Is this a trap to lure us in? \NOr something else?
+Dialogue: 0,0:06:33.84,0:06:39.14,Main,Ysley,0,0,0,,That's quite the armada. \NThey responded faster than I thought.
+Dialogue: 0,0:06:39.14,0:06:42.10,Main,Ysley,0,0,0,,We'll head to Hotaena \Nby traveling along the seafloor.
+Dialogue: 0,0:06:42.10,0:06:45.39,Main,Paula,0,0,0,,Hey, why didn't you just \Ncall Prontea-san over?
+Dialogue: 0,0:06:45.85,0:06:47.99,Main,Ysley,0,0,0,,Because if I did, he wouldn't show up.
+Dialogue: 0,0:06:47.99,0:06:50.10,Main,Ysley,0,0,0,,He's got an aversion to Rin-san.
+Dialogue: 0,0:06:50.10,0:06:52.40,Main,Ysley,0,0,0,,If she goes nuclear on Zoble right now,
+Dialogue: 0,0:06:52.40,0:06:54.43,Main,Ysley,0,0,0,,it'll be hard to ensure \Nall the demons are dead.
+Dialogue: 0,0:06:54.43,0:06:57.13,Main,Ysley,0,0,0,,There'd be no way to verify \Nthat we got them all.
+Dialogue: 0,0:06:57.13,0:06:59.35,Main,Ysley,0,0,0,,Besides, it's a good idea to make sure
+Dialogue: 0,0:06:59.35,0:07:02.60,Main,Ysley,0,0,0,,the two remaining superpowers won't start \Nfighting as soon as Zoble is wiped out.
+Dialogue: 0,0:07:03.29,0:07:05.31,Main,Ysley,0,0,0,,But if we can clear those obstacles,
+Dialogue: 0,0:07:05.31,0:07:09.56,Main,Ysley,0,0,0,,Rin-san and Prontea-san \Ncan take care of the rest.
+Dialogue: 0,0:07:09.56,0:07:11.85,Narration,Narration,0,0,0,,While his general outlook was correct,
+Dialogue: 0,0:07:11.85,0:07:15.16,Narration,Narration,0,0,0,,at the time, Ysley had no way of knowing
+Dialogue: 0,0:07:15.16,0:07:17.50,Narration,Narration,0,0,0,,that his assumptions about the demon lord
+Dialogue: 0,0:07:17.50,0:07:19.63,Narration,Narration,0,0,0,,were fundamentally off-base.
+Dialogue: 0,0:07:21.77,0:07:23.65,Main,Troops,0,0,0,,General Piscalat! It's terrible!
+Dialogue: 0,0:07:23.65,0:07:26.38,Main,Troops,0,0,0,,We've discovered the body \Nof Lieutenant G-Thirteen!
+Dialogue: 0,0:07:27.15,0:07:28.16,Main,Piscalat,0,0,0,,Oh, did you?
+Dialogue: 0,0:07:28.16,0:07:29.88,Italics,Troops,0,0,0,,{\i0}That's{\i1} her response?
+Dialogue: 0,0:07:30.93,0:07:33.09,Main,Piscalat,0,0,0,,Wait, something's not right here...
+Dialogue: 0,0:07:33.39,0:07:36.88,Italics,Piscalat,0,0,0,,Your Lordship, something \Nhas come to my attention.
+Dialogue: 0,0:07:36.88,0:07:39.50,Italics,Piscalat,0,0,0,,What became of Gyudo\N the demon beast's body?
+Dialogue: 0,0:07:40.23,0:07:43.33,Main,Obami,0,0,0,,Come to think of it, \NI wasn't able to retrieve it.
+Dialogue: 0,0:07:43.33,0:07:46.83,Italics,Piscalat,0,0,0,,We just recovered G-Thirteen's,
+Dialogue: 0,0:07:46.83,0:07:49.44,Italics,Piscalat,0,0,0,,but there's no sign of Nickel's.
+Dialogue: 0,0:07:50.13,0:07:55.42,Main,Piscalat,0,0,0,,I'm just speculating, but what if \Nthe Idaten have already collected Gyudo?
+Dialogue: 0,0:07:55.42,0:08:00.06,Italics,Obami,0,0,0,,You're suggesting that, wherever they took it,\Nthey took Nickel to the same place?
+Dialogue: 0,0:08:00.06,0:08:03.73,Main,Piscalat,0,0,0,,I would assume they mean to study\Nus demons in order to learn our secrets.
+Dialogue: 0,0:08:04.25,0:08:09.60,Main,Obami,0,0,0,,I see. And since they would \Nneed humans to expedite the study...
+Dialogue: 0,0:08:09.60,0:08:12.98,Main,Piscalat,0,0,0,,That makes our destination\N Hotaena, doesn't it?
+Dialogue: 0,0:08:28.82,0:08:30.78,Main,Judge,0,0,0,,Goal!
+Dialogue: 0,0:08:35.53,0:08:37.63,Italics,Host,0,0,0,,Damn, this dude's tall...
+Dialogue: 0,0:08:37.63,0:08:41.95,Main,Host,0,0,0,,I have to ask, new champ, \Nwhat's the secret to your speed?
+Dialogue: 0,0:08:42.22,0:08:45.71,Main,Prontea,0,0,0,,There's no need for special \Ncustomization or hardware.
+Dialogue: 0,0:08:45.71,0:08:48.90,Main,Prontea,0,0,0,,For me, it all comes down \Nto racing technique.
+Dialogue: 0,0:08:48.90,0:08:50.41,Main,Host,0,0,0,,I-I see...
+Dialogue: 0,0:08:50.41,0:08:53.39,Main,Host,0,0,0,,Now, do you have any future goals?
+Dialogue: 0,0:08:53.39,0:08:54.72,Main,Prontea,0,0,0,,I'm actually done with racing.
+Dialogue: 0,0:08:54.72,0:08:55.55,Main,,0,0,0,,Huh?
+Dialogue: 0,0:08:55.55,0:08:58.24,Main,Prontea,0,0,0,,I got a result I'm satisfied with...
+Dialogue: 0,0:08:58.24,0:09:00.71,Main,Prontea,0,0,0,,which means this experiment \Nhas come to an end.
+Dialogue: 0,0:09:03.74,0:09:05.83,Main,Prontea,0,0,0,,Hey, you again, Ysley-kun?
+Dialogue: 0,0:09:05.83,0:09:06.69,Main,Prontea,0,0,0,,What's up?
+Dialogue: 0,0:09:06.69,0:09:09.44,Main,Ysley,0,0,0,,Paula and I just arrived at the Zeyo Coast.
+Dialogue: 0,0:09:09.44,0:09:11.02,Main,Prontea,0,0,0,,Oh, Paula's with you?
+Dialogue: 0,0:09:11.02,0:09:12.49,Main,Prontea,0,0,0,,Okay, I'll be right there!
+Dialogue: 0,0:09:13.97,0:09:15.45,Main,Host,0,0,0,,Huh? He's gone...
+Dialogue: 0,0:09:18.25,0:09:19.88,Main,Ysley,0,0,0,,Good afternoon, Prontea-san.
+Dialogue: 0,0:09:20.56,0:09:22.80,Main,Paula,0,0,0,,It's been so long, Prontea-san!
+Dialogue: 0,0:09:24.20,0:09:26.04,Main,Prontea,0,0,0,,I really haven't seen you two in a while!
+Dialogue: 0,0:09:26.95,0:09:28.75,Main,Prontea,0,0,0,,Idaten...
+Dialogue: 0,0:09:29.50,0:09:30.89,Main,Prontea,0,0,0,,Fire!
+Dialogue: 0,0:09:37.61,0:09:40.55,Main,Prontea,0,0,0,,How's my magic power, Ysley-kun?
+Dialogue: 0,0:09:40.55,0:09:42.89,Main,Prontea,0,0,0,,I-It was pretty rude, for one thing.
+Dialogue: 0,0:09:42.89,0:09:46.89,Main,Prontea,0,0,0,,Was that the full intensity you can manifest?
+Dialogue: 0,0:09:47.81,0:09:49.00,Main,Prontea,0,0,0,,Well, yeah!
+Dialogue: 0,0:09:49.00,0:09:52.43,Main,Prontea,0,0,0,,It's hotter than any flamethrower, you'll find.
+Dialogue: 0,0:09:54.14,0:09:58.46,Main,Prontea,0,0,0,,Although, it looks like you're \Nnot actually here for fun...
+Dialogue: 0,0:09:59.05,0:10:00.41,Main,Prontea,0,0,0,,Let's hear the details.
+Dialogue: 0,0:10:02.35,0:10:04.66,Narration,Narrator,0,0,0,,The land of liberty, Hotaena.
+Dialogue: 0,0:10:04.66,0:10:06.86,Narration,Narrator,0,0,0,,Formed by the world's business interests,
+Dialogue: 0,0:10:06.86,0:10:08.84,Narration,Narrator,0,0,0,,it is a nation based \Non the idea of a free market.
+Dialogue: 0,0:10:09.29,0:10:10.75,Narration,Narrator,0,0,0,,For those with enough money,
+Dialogue: 0,0:10:10.75,0:10:14.00,Narration,Narrator,0,0,0,,it could be considered the most \Npeaceful place in the world...
+Dialogue: 0,0:10:14.00,0:10:15.94,Main,Kids,0,0,0,,Hey, it's the big guy!
+Dialogue: 0,0:10:15.94,0:10:18.26,Main,Kids,0,0,0,,Hey, hey! You've gotta tell us more tricks!
+Dialogue: 0,0:10:18.26,0:10:19.95,Main,Prontea,0,0,0,,I'm a little busy today.
+Dialogue: 0,0:10:19.95,0:10:21.76,Main,Paula,0,0,0,,You're really popular, Prontea-san.
+Dialogue: 0,0:10:21.76,0:10:23.90,Main,Kids,0,0,0,,That's because he's amazing!
+Dialogue: 0,0:10:23.90,0:10:27.93,Main,Kids,0,0,0,,He can find tricks that aren't \Neven in strategy guides!
+Dialogue: 0,0:10:27.93,0:10:29.27,Main,Kids,0,0,0,,He's totally on god mode!
+Dialogue: 0,0:10:29.67,0:10:31.77,Main,Ysley,0,0,0,,Tricks that aren't in strategy guides?
+Dialogue: 0,0:10:32.11,0:10:34.43,Main,Ysley,0,0,0,,Does that mean you've \Nfigured out how to do it?
+Dialogue: 0,0:10:34.43,0:10:39.69,Main,Prontea,0,0,0,,Well, yeah. I don't think it'll be as \Nhelpful as you imagined, though, Ysley-kun.
+Dialogue: 0,0:10:39.69,0:10:41.99,Main,Hayato,0,0,0,,Hey, Paula. Where the hell are we?
+Dialogue: 0,0:10:42.54,0:10:46.12,Main,Paula,0,0,0,,Settle down, Hayato! This is a human town.
+Dialogue: 0,0:10:46.12,0:10:49.21,Main,Hayato,0,0,0,,What? What am I doing here?!
+Dialogue: 0,0:10:49.21,0:10:50.95,Main,Hayato,0,0,0,,And where's the old bag?!
+Dialogue: 0,0:10:50.95,0:10:52.93,Main,Hayato,0,0,0,,{\an8}Granny! Hey, Granny!
+Dialogue: 0,0:10:50.95,0:10:52.93,Main,Prontea,0,0,0,,He's an Idaten?
+Dialogue: 0,0:10:52.93,0:10:54.43,Main,Hayato,0,0,0,,{\an8}You old bitch!
+Dialogue: 0,0:10:52.93,0:10:55.05,Main,Prontea,0,0,0,,Is the head in the box, too?
+Dialogue: 0,0:10:54.43,0:10:56.51,Main,Hayato,0,0,0,,{\an8}Where the hell are you?!
+Dialogue: 0,0:10:55.63,0:10:58.02,Main,Ysley,0,0,0,,Well, I'll explain in due time...
+Dialogue: 0,0:10:56.51,0:10:59.04,Main,Hayato,0,0,0,,{\an8}What happened to training, huh?!
+Dialogue: 0,0:10:58.02,0:10:59.99,Main,Prontea,0,0,0,,Who's the granny he keeps yelling about?
+Dialogue: 0,0:11:00.94,0:11:03.43,Main,Hayato,0,0,0,,{\an8}Get your wrinkly ass out here, Granny!
+Dialogue: 0,0:11:01.18,0:11:03.43,Main,Ysley,0,0,0,,That's going to have to wait, too...
+Dialogue: 0,0:11:04.75,0:11:07.36,Main,Neput,0,0,0,,So they're somewhere in this country...
+Dialogue: 0,0:11:07.36,0:11:11.98,Main,Cory,0,0,0,,How are we supposed to find them, though? \NThere are too many humans around.
+Dialogue: 0,0:11:11.98,0:11:17.00,Main,Piscalat,0,0,0,,I wouldn't worry. The Demon Lord will \Nbe utilizing the humans to locate them.
+Dialogue: 0,0:11:17.43,0:11:19.55,Main,Neput,0,0,0,,All we've gotta do is kill them.
+Dialogue: 0,0:11:25.53,0:11:28.70,Main,Paula,0,0,0,,You've really changed \Nthis room up a lot, huh?
+Dialogue: 0,0:11:28.70,0:11:34.13,Main,Prontea,0,0,0,,That's right. See, all of the footage from \Nthese monitors is linked directly to my mind.
+Dialogue: 0,0:11:34.13,0:11:40.09,Main,Prontea,0,0,0,,I've been making use of the potential Idaten \Nabilities that Ysley-kun hypothesized.
+Dialogue: 0,0:11:40.59,0:11:42.99,Main,Prontea,0,0,0,,This magic works the same way.
+Dialogue: 0,0:11:42.99,0:11:46.89,Main,Ysley,0,0,0,,I sadly don't have the technical ability \Nto experiment with my own theories.
+Dialogue: 0,0:11:47.26,0:11:48.61,Main,Ysley,0,0,0,,I'm grateful for your assistance.
+Dialogue: 0,0:11:48.92,0:11:51.63,Main,Hayato,0,0,0,,Hey, who gives a shit?!
+Dialogue: 0,0:11:51.63,0:11:54.86,Main,Hayato,0,0,0,,We're here to drag this guy\N back to Granny, right?
+Dialogue: 0,0:11:55.14,0:11:57.53,Main,Prontea,0,0,0,,Kind of a rude boy, isn't he?
+Dialogue: 0,0:11:57.53,0:11:59.12,Main,Prontea,0,0,0,,Who's this "Granny," anyway?
+Dialogue: 0,0:11:59.12,0:12:03.16,Main,Ysley,0,0,0,,Prontea-san, I need you to stay as \Ncalm as possible when I tell you this.
+Dialogue: 0,0:12:03.96,0:12:08.79,Main,Ysley,0,0,0,,The granny that Hayato \Nis referring to... is Rin-san.
+Dialogue: 0,0:12:13.98,0:12:15.39,Italics,Ysley,0,0,0,,I saw this coming...
+Dialogue: 0,0:12:17.31,0:12:18.85,Main,Prontea,0,0,0,,I'm sorry! I'm so sorry, Master!
+Dialogue: 0,0:12:18.85,0:12:20.90,Main,Prontea,0,0,0,,I'm sorry for playing video \Ngames at home all day!
+Dialogue: 0,0:12:20.90,0:12:24.88,Main,Prontea,0,0,0,,But they're gone, you know?! \NThere aren't any demons anywhere!
+Dialogue: 0,0:12:24.88,0:12:26.82,Main,Prontea,0,0,0,,Wait, what?! \NYou want me to bring them to you?!
+Dialogue: 0,0:12:26.82,0:12:29.77,Main,Prontea,0,0,0,,Is this— Are you mad at me?!\N You are, aren't you?!
+Dialogue: 0,0:12:29.77,0:12:32.28,Main,Prontea,0,0,0,,Game over, man! Game over!\NShe's gonna kill me!
+Dialogue: 0,0:12:32.28,0:12:35.01,Main,Prontea,0,0,0,,Please don't kill me! I'm begging you!\N I'm begging for mercy!
+Dialogue: 0,0:12:35.01,0:12:39.27,Main,Prontea,0,0,0,,It was all my fault!\NI'm so sorry, so just spare my life!
+Dialogue: 0,0:12:39.58,0:12:41.56,Main,Prontea,0,0,0,,Master!
+Dialogue: 0,0:12:41.56,0:12:45.17,Main,Ysley,0,0,0,,Sorry, but we're going to have to \Ngive him time to calm down.
+Dialogue: 0,0:12:45.17,0:12:46.79,Main,Ysley,0,0,0,,And it might be a while...
+Dialogue: 0,0:12:48.30,0:12:49.28,Main,Takeshita,0,0,0,,What's this?
+Dialogue: 0,0:12:49.28,0:12:52.08,Main,Brandy,0,0,0,,It's apparently footage from \Nevery camera in Hotaena.
+Dialogue: 0,0:12:52.08,0:12:57.54,Main,Brandy,0,0,0,,Everything from public security \Ncameras to home video recorders.
+Dialogue: 0,0:12:57.98,0:13:00.52,Main,Takeshita,0,0,0,,Is this that hacking thing?
+Dialogue: 0,0:13:00.87,0:13:03.64,Main,Takeshita,0,0,0,,How does that work for \Ncameras that aren't online
+Dialogue: 0,0:13:03.64,0:13:05.94,Main,Takeshita,0,0,0,,or aren't connected to anything at all?
+Dialogue: 0,0:13:05.94,0:13:10.72,Main,Brandy,0,0,0,,No clue. The Demon Lord's \Ntechnology is beyond any of us.
+Dialogue: 0,0:13:11.74,0:13:16.73,Main,Prontea,0,0,0,,So she's not mad? You promise?
+Dialogue: 0,0:13:16.73,0:13:18.93,Main,Ysley,0,0,0,,Yes. It's okay.
+Dialogue: 0,0:13:18.93,0:13:21.96,Main,Ysley,0,0,0,,We've been given a week of \Nfree time under the pretense
+Dialogue: 0,0:13:21.96,0:13:24.19,Main,Ysley,0,0,0,,of looking for you, Prontea-san.
+Dialogue: 0,0:13:24.19,0:13:25.95,Main,Ysley,0,0,0,,I was hoping to get your help
+Dialogue: 0,0:13:25.95,0:13:28.58,Main,Ysley,0,0,0,,performing a psychohack \Non Zoble's computer network
+Dialogue: 0,0:13:28.58,0:13:32.99,Main,Ysley,0,0,0,,in order to help ensure our demon hunt's \Nefficacy by verifying their numbers.
+Dialogue: 0,0:13:33.33,0:13:37.76,Main,Ysley,0,0,0,,That being said, since the task \Nitself won't take very long...
+Dialogue: 0,0:13:37.76,0:13:41.75,Main,Ysley,0,0,0,,How about it, Hayato? \NCare to train a bit with Prontea-san?
+Dialogue: 0,0:13:42.59,0:13:45.09,Main,Hayato,0,0,0,,With this dude who's \Nscared shitless of the old bag?
+Dialogue: 0,0:13:45.09,0:13:47.26,Main,Hayato,0,0,0,,Is he actually strong?
+Dialogue: 0,0:13:47.26,0:13:51.27,Main,Prontea,0,0,0,,You keep talking about her like that...\N Doesn't she scare you?
+Dialogue: 0,0:13:51.27,0:13:54.06,Main,Hayato,0,0,0,,Like she's {\i1}not{\i0} gonna kick my ass\N as hard if I'm nice to her?
+Dialogue: 0,0:13:54.06,0:13:55.98,Main,Hayato,0,0,0,,You can be polite or you can talk shit,
+Dialogue: 0,0:13:55.98,0:13:59.02,Main,Hayato,0,0,0,,either way, that psycho hag \Nwill mess you up all the same.
+Dialogue: 0,0:14:00.00,0:14:04.03,Main,Prontea,0,0,0,,Ysley-kun, how long has \Nhe been training with Master?
+Dialogue: 0,0:14:04.03,0:14:05.71,Main,Ysley,0,0,0,,Eighty years.
+Dialogue: 0,0:14:05.71,0:14:09.78,Main,Ysley,0,0,0,,And his spirit has never once broken.\NIt's impressive.
+Dialogue: 0,0:14:11.10,0:14:11.74,Main,Ysley,0,0,0,,Anyway...
+Dialogue: 0,0:14:14.08,0:14:18.51,Main,Ysley,0,0,0,,I need to start looking into this. \NI'll leave things here to you, Prontea-san.
+Dialogue: 0,0:14:20.21,0:14:23.68,Main,Prontea,0,0,0,,Okay, then, I believe \Nyour name is Hayato-kun?
+Dialogue: 0,0:14:23.68,0:14:27.22,Main,Prontea,0,0,0,,We'll do your training first \Nin lieu of an introduction.
+Dialogue: 0,0:14:28.07,0:14:29.28,Main,Prontea,0,0,0,,You, too, Paula.
+Dialogue: 0,0:14:33.70,0:14:37.60,Italics,Ysley,0,0,0,,If Hayato and Prontea-san go head to head, \Nthe demons are bound to notice.
+Dialogue: 0,0:14:38.00,0:14:40.80,Italics,Ysley,0,0,0,,But they won't be able to beat Prontea-san.
+Dialogue: 0,0:14:40.80,0:14:44.47,Italics,Ysley,0,0,0,,If we can capture one of them alive, \Nthings should proceed smoothly from there.
+Dialogue: 0,0:14:45.23,0:14:47.12,Main,Barcode,0,0,0,,Emperor Takeshita.
+Dialogue: 0,0:14:47.12,0:14:49.49,Main,Barcode,0,0,0,,On monitor 2034...
+Dialogue: 0,0:14:49.74,0:14:52.37,Main,Barcode,0,0,0,,could you rewind four seconds?
+Dialogue: 0,0:14:52.37,0:14:53.83,Main,Takeshita,0,0,0,,Oh, very well.
+Dialogue: 0,0:14:53.83,0:14:56.07,Main,Brandy,0,0,0,,Did you find them, Barcode?
+Dialogue: 0,0:14:56.07,0:14:59.44,Main,Barcode,0,0,0,,Sorting large amounts of data \Nis my specialty, after all.
+Dialogue: 0,0:14:59.90,0:15:01.29,Main,Barcode,0,0,0,,It's only for a second,
+Dialogue: 0,0:15:01.29,0:15:04.25,Main,Barcode,0,0,0,,but I imagine you and the emperor \Nwill be able to see him, too.
+Dialogue: 0,0:15:04.89,0:15:08.55,Main,Brandy,0,0,0,,I see now. Looks like the first one \Nwill be the little boy in glasses.
+Dialogue: 0,0:15:08.55,0:15:12.10,Italics,Brandy,0,0,0,,Piscalat, you're assigned \Nto deal with this one.
+Dialogue: 0,0:15:12.10,0:15:13.30,Main,Piscalat,0,0,0,,Copy that.
+Dialogue: 0,0:15:18.62,0:15:20.86,Main,Hayato,0,0,0,,Is this supposed to be your idea of fire?
+Dialogue: 0,0:15:20.86,0:15:23.01,Main,Hayato,0,0,0,,You think that's gonna work on me?!
+Dialogue: 0,0:15:31.53,0:15:33.62,Italics,Hayato,0,0,0,,What the hell? Ice?
+Dialogue: 0,0:15:36.76,0:15:39.70,Main,Prontea,0,0,0,,Self-Taught Explosion!
+Dialogue: 0,0:15:47.59,0:15:50.09,Main,Hayato,0,0,0,,What's your deal?
+Dialogue: 0,0:15:50.09,0:15:52.81,Main,Hayato,0,0,0,,You some kind of wizard or something?
+Dialogue: 0,0:15:52.81,0:15:54.92,Main,Hayato,0,0,0,,And is that the best you've got?
+Dialogue: 0,0:15:54.92,0:15:57.76,Main,Hayato,0,0,0,,Or are you screwing around \Nwith me and holding back?
+Dialogue: 0,0:15:58.15,0:16:00.48,Main,Hayato,0,0,0,,Either way, it's pissing me off.
+Dialogue: 0,0:16:00.48,0:16:02.90,Main,Prontea,0,0,0,,I hit you as hard as I could!
+Dialogue: 0,0:16:02.90,0:16:06.12,Main,Prontea,0,0,0,,It's just that I've only recently learned\N these magic-esque attacks, you see.
+Dialogue: 0,0:16:06.12,0:16:09.94,Italics,Prontea,0,0,0,,That was strong enough \Nto beat Ysley-kun and Paula...
+Dialogue: 0,0:16:09.94,0:16:13.20,Italics,Prontea,0,0,0,,He's as rugged as I'd expect \Nfrom training under Master.
+Dialogue: 0,0:16:16.08,0:16:18.90,Main,Prontea,0,0,0,,I haven't had much opportunity\Nfor practical exercises...
+Dialogue: 0,0:16:19.49,0:16:21.45,Main,Prontea,0,0,0,,so I appreciate your cooperation!
+Dialogue: 0,0:16:27.67,0:16:30.05,Main,Hayato,0,0,0,,I already told you that won't cut it!
+Dialogue: 0,0:16:31.88,0:16:33.34,Italics,Hayato,0,0,0,,Damn it, seriously?!
+Dialogue: 0,0:16:35.80,0:16:38.44,Italics,Hayato,0,0,0,,My attacks don't work on him, either?!
+Dialogue: 0,0:16:38.44,0:16:39.93,Italics,Prontea,0,0,0,,Ah, I see.
+Dialogue: 0,0:16:45.27,0:16:49.59,Main,Prontea,0,0,0,,Looks like it has an additive effect if \NI use it in combination with a normal attack.
+Dialogue: 0,0:16:50.41,0:16:54.59,Main,Prontea,0,0,0,,I understand why Ysley-kun \Nbrought you to see me now.
+Dialogue: 0,0:16:55.53,0:16:58.45,Main,Prontea,0,0,0,,Your strength is fundamentally \Nlacking something, Hayato-kun.
+Dialogue: 0,0:16:58.93,0:17:01.16,Main,Prontea,0,0,0,,Would you like me to teach you about it?
+Dialogue: 0,0:17:02.08,0:17:05.74,Main,Ysley,0,0,0,,Suppose this creature was alive\N and needed to be killed.
+Dialogue: 0,0:17:05.74,0:17:07.57,Main,Ysley,0,0,0,,How would you do it, Dr. Gachikama?
+Dialogue: 0,0:17:07.88,0:17:09.50,Main,Gachikama,0,0,0,,Well, let's see...
+Dialogue: 0,0:17:11.09,0:17:13.01,Main,Gachikama,0,0,0,,I have to think that poison would be
+Dialogue: 0,0:17:13.01,0:17:16.47,Main,Gachikama,0,0,0,,the simplest approach, like you\N originally suggested, Ysley-chan.
+Dialogue: 0,0:17:16.47,0:17:20.46,Main,Ysley,0,0,0,,And if you were going to poison him, \Nwhat would be the theoretical lethal dose?
+Dialogue: 0,0:17:20.46,0:17:24.46,Main,Gachikama,0,0,0,,Let's see... Tetrodotoxin seems to work,
+Dialogue: 0,0:17:24.46,0:17:28.26,Main,Gachikama,0,0,0,,so if we fed him 50,000 pufferfish,\N maybe that would kill him.
+Dialogue: 0,0:17:28.59,0:17:30.48,Main,Ysley,0,0,0,,I'm not sure I'd describe that as "simple."
+Dialogue: 0,0:17:31.27,0:17:35.24,Main,Gachikama,0,0,0,,Even military-grade chemical weapons \Nwould take more than half an hour.
+Dialogue: 0,0:17:35.65,0:17:38.63,Main,Gachikama,0,0,0,,Now, I've compiled the results of \Nour research for you like usual,
+Dialogue: 0,0:17:38.63,0:17:40.87,Main,Gachikama,0,0,0,,so be sure to take these with you.
+Dialogue: 0,0:17:41.23,0:17:42.01,Main,Gachikama,0,0,0,,Here.
+Dialogue: 0,0:17:42.99,0:17:47.04,Main,Ysley,0,0,0,,Well, knowing that poison is effective \Nat all is pretty convenient.
+Dialogue: 0,0:17:47.58,0:17:49.63,Main,Ysley,0,0,0,,Continue your research, Doctor.
+Dialogue: 0,0:17:52.06,0:17:55.88,Main,Ysley,0,0,0,,Did you know another doctor named \NObami during your time in Zoble?
+Dialogue: 0,0:17:56.16,0:17:57.44,Main,Gachikama,0,0,0,,Obami?
+Dialogue: 0,0:17:57.44,0:17:59.61,Main,Gachikama,0,0,0,,Oh, you couldn't {\i1}not{\i0} know him.
+Dialogue: 0,0:17:59.61,0:18:03.99,Main,Gachikama,0,0,0,,Zoble didn't care about research \Nunless that old guy was running it!
+Dialogue: 0,0:18:03.99,0:18:07.44,Main,Gachikama,0,0,0,,It was always something to do with \Ncloning some sort of strange organism
+Dialogue: 0,0:18:07.44,0:18:09.35,Main,Gachikama,0,0,0,,and in vitro fertilization...
+Dialogue: 0,0:18:10.81,0:18:16.56,Italics,Ysley,0,0,0,,I see. So the demons are trying\N to find a way to propagate.
+Dialogue: 0,0:18:18.86,0:18:21.01,Main,Assistant,0,0,0,,Ysley-sama! There's trouble!
+Dialogue: 0,0:18:29.21,0:18:31.66,Main,Ysley,0,0,0,,Did something happen in this storeroom?
+Dialogue: 0,0:18:34.20,0:18:37.59,Main,Assistant,0,0,0,,You'll... You'll spare my life now, right?
+Dialogue: 0,0:18:45.24,0:18:47.92,Main,Piscalat,0,0,0,,You might be weaker than the rest, \Nbut you're still an Idaten, I see.
+Dialogue: 0,0:18:49.17,0:18:52.03,Main,Piscalat,0,0,0,,If nothing else, you're quick on your feet.
+Dialogue: 0,0:18:52.03,0:18:54.79,Main,Piscalat,0,0,0,,But you're trapped like a rat in here,
+Dialogue: 0,0:18:55.10,0:18:58.02,Main,Piscalat,0,0,0,,so why don't we have a little fun?
+Dialogue: 0,0:18:58.02,0:19:01.03,Italics,Ysley,0,0,0,,That's Piscalat, one of Zoble's generals!
+Dialogue: 0,0:19:01.35,0:19:03.16,Main,Piscalat,0,0,0,,My ambush might not have worked,
+Dialogue: 0,0:19:03.67,0:19:06.91,Main,Piscalat,0,0,0,,but I have to wonder how long you'll be \Nable to evade me in a room like this.
+Dialogue: 0,0:19:14.94,0:19:17.59,Main,Piscalat,0,0,0,,Damn, I can't see a thing.
+Dialogue: 0,0:19:30.62,0:19:33.46,Italics,Piscalat,0,0,0,,Can he see in the dark?
+Dialogue: 0,0:19:33.46,0:19:37.34,Italics,Piscalat,0,0,0,,But as it stands, \NI can't risk making a move...
+Dialogue: 0,0:19:37.34,0:19:38.40,Italics,Ysley,0,0,0,,That's a relief.
+Dialogue: 0,0:19:38.90,0:19:43.21,Italics,Ysley,0,0,0,,The next question is if I can avoid \Nan attack from the entrance...
+Dialogue: 0,0:19:45.17,0:19:49.50,Italics,Piscalat,0,0,0,,It'll be a problem if I can't \Nland an attack from this range.
+Dialogue: 0,0:19:49.79,0:19:51.94,Italics,Piscalat,0,0,0,,This might be harder than I anticipated.
+Dialogue: 0,0:19:58.57,0:20:01.22,Main,Hayato,0,0,0,,What the hell? Did you start pulling \Nyour punches all of a sudden?
+Dialogue: 0,0:20:01.45,0:20:04.47,Main,Hayato,0,0,0,,Get serious, damn it!\N That doesn't hurt at all!
+Dialogue: 0,0:20:04.47,0:20:06.24,Main,Prontea,0,0,0,,It doesn't?
+Dialogue: 0,0:20:06.24,0:20:10.14,Main,Prontea,0,0,0,,But I was hitting about as \Nhard as you do, Hayato-kun.
+Dialogue: 0,0:20:10.14,0:20:12.15,Main,Hayato,0,0,0,,S-Say what?
+Dialogue: 0,0:20:12.15,0:20:14.90,Main,Prontea,0,0,0,,That's your weakness. Basically—
+Dialogue: 0,0:20:18.76,0:20:20.85,Main,Neput,0,0,0,,Did that smash them all?
+Dialogue: 0,0:20:20.85,0:20:25.05,Main,Cory,0,0,0,,Man, how dumb are these guys if we could\Nfind them without the Demon Lord's help?
+Dialogue: 0,0:20:26.62,0:20:30.69,Main,Prontea,0,0,0,,Well, it looks like the demons managed \Nto track down all the commotion...
+Dialogue: 0,0:20:30.69,0:20:33.53,Main,Prontea,0,0,0,,I suppose your lesson will have \Nto wait until we take care of them.
+Dialogue: 0,0:20:33.53,0:20:35.00,Main,Prontea,0,0,0,,Okay, Hayato-kun?
+Dialogue: 0,0:20:35.45,0:20:37.00,Main,Hayato,0,0,0,,Y-Yeah...
+Dialogue: 0,0:20:37.00,0:20:41.34,Italics,Hayato,0,0,0,,Damn, this guy's a freak of nature, too.
+Dialogue: 0,0:20:46.33,0:20:47.18,Main,Neput,0,0,0,,What the—?!
+Dialogue: 0,0:20:52.22,0:20:53.98,Main,Neput,0,0,0,,Too weak!
+Dialogue: 0,0:20:56.97,0:20:59.37,Italics,Prontea,0,0,0,,It seems magic doesn't \Nwork on demons, either.
+Dialogue: 0,0:20:59.37,0:21:01.06,Italics,Prontea,0,0,0,,This one is strong.
+Dialogue: 0,0:21:01.45,0:21:02.82,Italics,Prontea,0,0,0,,But this one...
+Dialogue: 0,0:21:03.03,0:21:03.65,Main,,0,0,0,,Hup!
+Dialogue: 0,0:21:09.39,0:21:13.89,Main,Prontea,0,0,0,,Paula, Hayato-kun! You two take\N that one. Go ahead and beat him.
+Dialogue: 0,0:21:15.30,0:21:16.66,Main,Cory,0,0,0,,Ow...
+Dialogue: 0,0:21:16.66,0:21:20.30,Main,Prontea,0,0,0,,Now that the matchups are decided...
+Dialogue: 0,0:21:17.44,0:21:19.04,Main,Sign,0,0,0,,{\fad(370,1)\fnArial\b1\fs40\shad0\c&H0316BE&\3c&H130031&\pos(302.666,68.667)}CORY
+Dialogue: 0,0:21:17.44,0:21:19.04,Main,Sign,0,0,0,,{\fad(370,1)\fnArial\b1\fs40\shad0\c&H0316BE&\3c&H130031&\pos(258.666,278.667)}HAYATO & PAULA
+Dialogue: 0,0:21:20.55,0:21:21.55,Main,Sign,0,0,0,,{\fad(140,1)\fnArial\b1\fs40\shad0\c&H51430D&\3c&H3B070E&\pos(185.999,60.666)}PRONTEA
+Dialogue: 0,0:21:20.55,0:21:21.55,Main,Sign,0,0,0,,{\fad(140,1)\fnArial\b1\fs40\shad0\c&H51430D&\3c&H3B070E&\pos(495.999,62)}NEPUT
+Dialogue: 0,0:21:21.55,0:21:23.30,Main,Prontea,0,0,0,,Let's get it on, shall we?
+Dialogue: 0,0:21:23.55,0:21:25.05,Main,Sign,0,0,0,,{\fad(140,1)\fnArial\b1\fs40\shad0\c&H889823&\3c&H380D11&\pos(520.666,218.667)}YSLEY
+Dialogue: 0,0:21:23.55,0:21:25.05,Main,Sign,0,0,0,,{\fad(140,1)\fnArial\b1\fs40\shad0\c&H889823&\3c&H213225&\pos(152.666,208)}PISCALAT

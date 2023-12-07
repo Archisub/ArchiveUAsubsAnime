@@ -1,0 +1,418 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback_Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: OP_ED,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,2,2,10,10,18,0
+Style: Default - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Show_Title,Trebuchet MS,48,&H002901D4,&H000000FF,&H00881C84,&H00000000,-1,-1,0,0,100,100,0,0,1,3,0,8,10,10,13,1
+Style: Caption base,Arial,20,&H00060A07,&H000000FF,&H00F1F5F2,&H00560954,-1,0,0,0,100,100,0,0,3,2,2,2,10,10,100,1
+Style: sign_4605_28__1_Peacetime,Comic Sans MS,24,&H00EEF8FE,&H000000FF,&H00121921,&H00C0BEBF,-1,0,0,0,100,100,0,0,1,0,0,8,60,20,15,1
+Style: Main - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.84,0:00:11.24,Main,Paula,0,0,0,,I wonder if Rin-san's will be okay.
+Dialogue: 0,0:00:11.24,0:00:16.87,Main,Gill,0,0,0,,I'm honestly more shocked that the missing \Nhalf of her body has already grown back...
+Dialogue: 0,0:00:16.87,0:00:21.25,Main,Paula,0,0,0,,Maybe that kind of damage \Nwas too much, even for her.
+Dialogue: 0,0:00:21.25,0:00:25.50,Main,Paula,0,0,0,,She's all healed up, \Nbut she's still completely out of it.
+Dialogue: 0,0:00:26.38,0:00:28.42,Main,Rin,0,0,0,,G-Grandfather...
+Dialogue: 0,0:00:36.22,0:00:42.11,Show_Title,,0,0,0,,{\fad(4409,938)\fscy140}The Idaten {\c&H21FCFB&}Dei{\c&H2601D4&}ties\N{\fs24\c&H19F7D8&\i0\3c&H3E679B&\fscy100}\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hKn{\c&HD6E1F9&}ow {\c&H19F7D8&}On{\c&HD6E1F9&}ly {\c&H19F7D8&}Pe{\c&HD6E1F9&}ac{\c&H19F7D8&}e
+Dialogue: 0,0:01:58.05,0:01:59.01,Show_Title,,0,0,0,,{\3c&H6C171A&}The Idaten {\c&H21FCFB&}Dei{\c&H2601D4&}ties\N{\c&H3FCC78&\fs24\i0\fscy100}\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hKn{\c&HC29AE7&}ow {\c&H3FCC78&}On{\c&HC29AE7&}ly {\c&H3FCC78&}Pe{\c&HC29AE7&}ac{\c&H3FCC78&}e
+Dialogue: 0,0:02:03.16,0:02:07.27,Narration,Narr,0,0,0,,One week ago, the Zoble Empire \Nwas overthrown by a military coup d'état
+Dialogue: 0,0:02:07.27,0:02:11.58,Narration,Narr,0,0,0,,organized by Imperial Army General Piscalat\N and Imperial Navy Admiral Neput.
+Dialogue: 0,0:02:11.58,0:02:14.77,Narration,Narr,0,0,0,,Their new weapons allowed them to \Neasily pierce the nation's defenses
+Dialogue: 0,0:02:14.77,0:02:16.24,Narration,Narr,0,0,0,,and occupy the capital.
+Dialogue: 0,0:02:16.63,0:02:20.32,Narration,Narr,0,0,0,,The bodies of Emperor Takeshita and \NEmpress Brandy were both discovered,
+Dialogue: 0,0:02:20.32,0:02:21.96,Narration,Narr,0,0,0,,and Prime Minister Biarov has since
+Dialogue: 0,0:02:21.96,0:02:25.10,Narration,Narr,0,0,0,,announced his intent to work \Nwith the occupying military.
+Dialogue: 0,0:02:25.46,0:02:30.71,Narration,Narr,0,0,0,,Thus the coup d'état was a success, \Ngiving rise to a reborn Zoble Empire.
+Dialogue: 0,0:02:30.71,0:02:34.67,Main,Ysley,0,0,0,,I suppose it's a rather \Nhappy ending on the surface, but...
+Dialogue: 0,0:02:34.91,0:02:36.75,Main,Ysley,0,0,0,,In reality, we've got a mountain of headaches.
+Dialogue: 0,0:02:36.75,0:02:39.68,Main,Ysley,0,0,0,,I'm honestly not sure where to start.
+Dialogue: 0,0:02:40.46,0:02:44.31,Main,Piscalat,0,0,0,,You've been going through documents for \Nthree days. Are you going to be all right?
+Dialogue: 0,0:02:44.31,0:02:47.39,Main,Ysley,0,0,0,,Idaten don't really suffer the kind of \Ndeterioration you're worried about.
+Dialogue: 0,0:02:47.39,0:02:49.26,Main,Ysley,0,0,0,,You, meanwhile, seem to be on the ropes.
+Dialogue: 0,0:02:49.26,0:02:51.44,Main,Ysley,0,0,0,,Is sleep deprivation an issue for demons?
+Dialogue: 0,0:02:51.44,0:02:57.28,sign_4605_28__1_Peacetime,Eptitle sign,0,0,0,,{\frx-50\fs40}#9 Shadows
+Dialogue: 0,0:02:51.70,0:02:55.52,Main,Piscalat,0,0,0,,My body is fine, but I think my human \Nbrain is approaching its limit...
+Dialogue: 0,0:02:55.52,0:02:57.28,Main,Ysley,0,0,0,,Barcode seems to be fine, though.
+Dialogue: 0,0:02:57.52,0:03:00.69,Main,Piscalat,0,0,0,,His demonic powers have a \Nstrong influence on his brain.
+Dialogue: 0,0:03:00.69,0:03:04.51,Main,Barcode,0,0,0,,I've finished my survey of all the bodies\N we've been able to confirm.
+Dialogue: 0,0:03:04.51,0:03:09.12,Main,Barcode,0,0,0,,Of those, thirteen demons and two babies\N remain unaccounted for.
+Dialogue: 0,0:03:09.48,0:03:11.12,Main,Barcode,0,0,0,,Kuraishi, Buzz, and Raki...
+Dialogue: 0,0:03:11.12,0:03:14.50,Main,Barcode,0,0,0,,These three are Takeshita \Nand Brandy's biological children.
+Dialogue: 0,0:03:15.10,0:03:18.26,Main,Barcode,0,0,0,,Then there's Miku, who fled \Nafter tricking the Demon Lord.
+Dialogue: 0,0:03:18.80,0:03:22.01,Main,Barcode,0,0,0,,Umeyo, inside of whom two \Ndemon children are gestating.
+Dialogue: 0,0:03:22.37,0:03:24.79,Main,Barcode,0,0,0,,Merku, Umeyo's assistant.
+Dialogue: 0,0:03:25.31,0:03:27.85,Main,Barcode,0,0,0,,Ferlandia, who's a skilled\N negotiator with humans
+Dialogue: 0,0:03:27.85,0:03:30.21,Main,Barcode,0,0,0,,and has a degree of influence \Nin the underworld.
+Dialogue: 0,0:03:30.21,0:03:34.03,Main,Barcode,0,0,0,,Meliano, who fled via an unauthorized flight.
+Dialogue: 0,0:03:34.03,0:03:36.09,Main,Barcode,0,0,0,,Kroft, who is skilled at subterranean travel.
+Dialogue: 0,0:03:36.09,0:03:38.78,Main,Barcode,0,0,0,,We've already confirmed\Nthat he dug tunnels to escape.
+Dialogue: 0,0:03:38.78,0:03:41.57,Main,Barcode,0,0,0,,Lastly are the Super Beefy Bros., \Nwho are worthless.
+Dialogue: 0,0:03:41.57,0:03:44.07,Main,Ysley,0,0,0,,Those four were obliterated \Nwithout a trace by Rin-san,
+Dialogue: 0,0:03:44.07,0:03:46.16,Main,Ysley,0,0,0,,so you can take them off the list.
+Dialogue: 0,0:03:46.16,0:03:48.21,Main,Barcode,0,0,0,,You have surveillance on your own allies?
+Dialogue: 0,0:03:48.21,0:03:51.37,Main,Barcode,0,0,0,,You're every bit as thorough \Nas the Demon Lord himself.
+Dialogue: 0,0:03:51.67,0:03:52.96,Main,Ysley,0,0,0,,Well, you know...
+Dialogue: 0,0:03:52.96,0:03:56.34,Main,Ysley,0,0,0,,General Piscalat, of the escaped demons, \Ndo any strike you as a particular threat?
+Dialogue: 0,0:03:56.34,0:03:58.62,Main,Piscalat,0,0,0,,Umeyo has the most combat prowess,
+Dialogue: 0,0:03:58.62,0:04:02.16,Main,Piscalat,0,0,0,,but I'd say Miku poses the greatest \Noverall threat given the situation.
+Dialogue: 0,0:04:02.16,0:04:04.06,Main,Ysley,0,0,0,,I thought as much...
+Dialogue: 0,0:04:04.06,0:04:06.22,Main,Piscalat,0,0,0,,An incident came to \Nmy attention three days ago.
+Dialogue: 0,0:04:06.77,0:04:10.35,Main,Piscalat,0,0,0,,It happened at the Frohz estate, home to \Na major noble family in the nation of Yakini.
+Dialogue: 0,0:04:10.61,0:04:14.72,Main,Piscalat,0,0,0,,Bodies were found slaughtered in a way\Nthat a human would've struggled to manage.
+Dialogue: 0,0:04:14.72,0:04:16.38,Main,Piscalat,0,0,0,,Raki seems the likely culprit.
+Dialogue: 0,0:04:16.80,0:04:21.53,Main,Piscalat,0,0,0,,The Frohz estate is a beautiful property, \Nso I suspect she just waltzed in.
+Dialogue: 0,0:04:21.90,0:04:24.36,Main,Ysley,0,0,0,,She just... waltzed into a pretty house\N while on the run
+Dialogue: 0,0:04:24.36,0:04:27.20,Main,Ysley,0,0,0,,and killed everyone who lives there?\N Is she a moron?
+Dialogue: 0,0:04:27.20,0:04:29.79,Main,Piscalat,0,0,0,,The fact that she vanished afterward
+Dialogue: 0,0:04:29.79,0:04:34.77,Main,Piscalat,0,0,0,,suggests she's traveling \Nwith someone who took her away.
+Dialogue: 0,0:04:34.77,0:04:38.34,Main,Piscalat,0,0,0,,Additionally, during the war, \NNeput killed a decoy of Kuraishi's.
+Dialogue: 0,0:04:39.94,0:04:43.47,Flashback,Neput,0,0,0,,That felt a little too fragile. \NMust be a human decoy.
+Dialogue: 0,0:04:43.47,0:04:49.11,Main,Piscalat,0,0,0,,It would suggest that my and Neput's betrayal\Nwas already discovered by the time they fled.
+Dialogue: 0,0:04:49.11,0:04:50.97,Main,Ysley,0,0,0,,What is this Kuraishi like?
+Dialogue: 0,0:04:51.40,0:04:52.77,Main,Piscalat,0,0,0,,The simplest way to describe him...
+Dialogue: 0,0:04:53.63,0:04:55.40,Main,Piscalat,0,0,0,,is to say he's like you.
+Dialogue: 0,0:04:57.40,0:05:01.22,Main,Mobsters,0,0,0,,So, you want use of this place for an \Nindefinite amount of time. Is that right?
+Dialogue: 0,0:05:01.22,0:05:05.40,Main,Mobsters,0,0,0,,That's a tall order, \Neven for you, Prince Kuraishi.
+Dialogue: 0,0:05:05.40,0:05:08.02,Main,Kuraishi,0,0,0,,Aw, don't be like that, Gibaccho!
+Dialogue: 0,0:05:08.02,0:05:09.92,Main,Kuraishi,0,0,0,,We're brothers who hit it rich\Nin weapon smuggling
+Dialogue: 0,0:05:09.92,0:05:11.29,Main,Kuraishi,0,0,0,,and human trafficking, aren't we?
+Dialogue: 0,0:05:12.29,0:05:15.34,Main,Mobsters,0,0,0,,Not sure I see a whole lot of reason\N to work with you
+Dialogue: 0,0:05:15.34,0:05:17.72,Main,Mobsters,0,0,0,,now that you don't have the \Nempire backing you up.
+Dialogue: 0,0:05:17.72,0:05:20.10,Main,Kuraishi,0,0,0,,Organ harvesting, human experimentation,
+Dialogue: 0,0:05:20.10,0:05:22.67,Main,Kuraishi,0,0,0,,anthrax cultivation, and bioweapons...
+Dialogue: 0,0:05:22.67,0:05:26.60,Main,Kuraishi,0,0,0,,It's no Zoble, but the plethora\N of facilities and secrets here
+Dialogue: 0,0:05:26.60,0:05:30.30,Main,Kuraishi,0,0,0,,makes it the perfect place to host \Nthe Demon Lord when he resurfaces.
+Dialogue: 0,0:05:30.30,0:05:33.70,Main,Mobsters,0,0,0,,What the hell are you going on about?
+Dialogue: 0,0:05:33.70,0:05:36.68,Main,Kuraishi,0,0,0,,Oh, right, right. You want \Na reason to work with me...
+Dialogue: 0,0:05:36.68,0:05:38.06,Main,Kuraishi,0,0,0,,You can bet I've got that.
+Dialogue: 0,0:05:38.30,0:05:42.94,Main,Kuraishi,0,0,0,,See, if you shut up and do as I say, \Nthen you won't all have to die.
+Dialogue: 0,0:05:42.94,0:05:48.09,Main,Piscalat,0,0,0,,He's used his influence as a prince \Nof Zoble and his power as a demon
+Dialogue: 0,0:05:48.09,0:05:51.53,Main,Piscalat,0,0,0,,to establish a variety of connections \Nin the human underworld.
+Dialogue: 0,0:05:52.17,0:05:55.52,Main,Piscalat,0,0,0,,Miku's got no real resources, \Nso when you consider Kuraishi's
+Dialogue: 0,0:05:55.52,0:05:59.04,Main,Piscalat,0,0,0,,potential havens and pawns to play, \Nhe's a pretty dangerous opponent.
+Dialogue: 0,0:05:59.04,0:06:03.09,Main,Merku,0,0,0,,Hey, Miku, are we seriously \Ngoing to stay here?
+Dialogue: 0,0:06:03.09,0:06:05.71,Main,Merku,0,0,0,,Couldn't we have stopped at an \Ninternet cafe that has a shower?
+Dialogue: 0,0:06:05.71,0:06:09.82,Main,Miku,0,0,0,,Sadly, there are no such cafes\N that don't check ID
+Dialogue: 0,0:06:09.82,0:06:11.20,Main,Miku,0,0,0,,or have security cameras.
+Dialogue: 0,0:06:11.20,0:06:13.97,Main,Miku,0,0,0,,Are you willing to risk your \Nlife for a shower, Merku?
+Dialogue: 0,0:06:15.04,0:06:18.58,Main,Merku,0,0,0,,You say that, but you've been staring \Nat social media for the past three days.
+Dialogue: 0,0:06:18.58,0:06:19.94,Main,Merku,0,0,0,,What are you looking at?
+Dialogue: 0,0:06:19.94,0:06:23.11,Main,Miku,0,0,0,,The blog posts and comments \Nof pathetic humans,
+Dialogue: 0,0:06:23.11,0:06:25.84,Main,Miku,0,0,0,,the times they were posted, \Nand their leaked personal information.
+Dialogue: 0,0:06:25.84,0:06:27.69,Main,Miku,0,0,0,,Their shopping histories, too.
+Dialogue: 0,0:06:27.69,0:06:32.98,Main,Miku,0,0,0,,It's enough info for me to figure out\N exactly who these people are.
+Dialogue: 0,0:06:32.98,0:06:35.58,Main,Miku,0,0,0,,First, I need to find the perfect prey...
+Dialogue: 0,0:06:35.58,0:06:38.96,Main,PIscalat,0,0,0,,Lastly, that nun has apparently woken up.
+Dialogue: 0,0:06:40.13,0:06:43.95,Main,Ysley,0,0,0,,She's definitely interesting \Nas a research subject...
+Dialogue: 0,0:06:43.95,0:06:46.96,Main,Ysley,0,0,0,,But for now, we'll just keep her in \Nprotective custody until things settle down.
+Dialogue: 0,0:06:47.50,0:06:49.04,Main,Piscalat,0,0,0,,Unnershtood...
+Dialogue: 0,0:06:49.36,0:06:51.93,Main,Ysley,0,0,0,,You should get some rest, too, General.
+Dialogue: 0,0:06:51.93,0:06:53.22,Main,Piscalat,0,0,0,,Right...
+Dialogue: 0,0:06:57.19,0:06:58.59,Main,Gill,0,0,0,,G-General Piscalat?!
+Dialogue: 0,0:06:58.59,0:07:02.40,Main,Piscalat,0,0,0,,You awake? Then hand over the bed, please.
+Dialogue: 0,0:07:02.74,0:07:05.80,Main,Piscalat,0,0,0,,If you're hungry, \Ngrab something out of the fridge.
+Dialogue: 0,0:07:05.80,0:07:08.23,Main,Piscalat,0,0,0,,You can throw on whatever \Nclothes you can find, too.
+Dialogue: 0,0:07:09.24,0:07:10.60,Main,Gill,0,0,0,,General Piscalat!
+Dialogue: 0,0:07:10.60,0:07:16.45,Main,Gill,0,0,0,,Y-You attacked our homeland, \Nkilling innocent people and kidnapping—
+Dialogue: 0,0:07:16.45,0:07:19.28,Main,Piscalat,0,0,0,,That's enough. Just let me get some sleep.
+Dialogue: 0,0:07:19.75,0:07:24.05,Main,Piscalat,0,0,0,,Zoble's gone now, anyway. No more invasions.
+Dialogue: 0,0:07:24.05,0:07:26.09,Main,Piscalat,0,0,0,,What more do you want?
+Dialogue: 0,0:07:27.59,0:07:32.59,Main,Piscalat,0,0,0,,Apologies? Reparations? Take it up with \NBiarov when the reconstruction is finished.
+Dialogue: 0,0:07:32.59,0:07:36.62,Main,Gill,0,0,0,,I'd like to help \Nwith the reconstruction, then.
+Dialogue: 0,0:07:36.62,0:07:38.74,Main,Gill,0,0,0,,I'll do whatever I can!
+Dialogue: 0,0:07:38.74,0:07:41.53,Main,Piscalat,0,0,0,,Can you drive a 18-wheeler?
+Dialogue: 0,0:07:41.53,0:07:42.48,Main,Gill,0,0,0,,Excuse me?
+Dialogue: 0,0:07:42.48,0:07:46.86,Main,Piscalat,0,0,0,,Do you have enough stamina \Nto clear rubble all day?
+Dialogue: 0,0:07:46.86,0:07:50.49,Main,Piscalat,0,0,0,,Enough medical knowledge\Nto treat the injured?
+Dialogue: 0,0:07:50.81,0:07:54.92,Main,Piscalat,0,0,0,,Have you ever prepared food\N to serve thousands efficiently?
+Dialogue: 0,0:07:54.92,0:07:58.24,Main,Piscalat,0,0,0,,Almost everyone in this country\N has military training.
+Dialogue: 0,0:07:58.60,0:08:01.37,Main,Piscalat,0,0,0,,You're just a "good person" \Nwho doesn't know how to do much
+Dialogue: 0,0:08:01.37,0:08:02.65,Main,Piscalat,0,0,0,,other than pray for people.
+Dialogue: 0,0:08:03.09,0:08:05.83,Main,Piscalat,0,0,0,,Which means you're essentially useless.
+Dialogue: 0,0:08:07.38,0:08:12.08,Main,Piscalat,0,0,0,,If you want to be helpful, then shut up and \Nlet me sleep so I can get back to work.
+Dialogue: 0,0:08:12.63,0:08:16.73,Main,Piscalat,0,0,0,,That'll accomplish more than if \Nyou literally worked yourself to death.
+Dialogue: 0,0:08:18.34,0:08:20.19,Italics,Gill,0,0,0,,I can't argue.
+Dialogue: 0,0:08:21.09,0:08:24.27,Italics,Gill,0,0,0,,I've been reminded of how \Npowerless I am so many times...
+Dialogue: 0,0:08:25.47,0:08:27.18,Main,Gill,0,0,0,,I want power.
+Dialogue: 0,0:08:27.90,0:08:30.60,Main,Gill,0,0,0,,The kind of power I need to protect people.
+Dialogue: 0,0:08:30.60,0:08:31.93,Main,Paula,0,0,0,,The thing is, Gill-san,
+Dialogue: 0,0:08:31.93,0:08:35.66,Main,Paula,0,0,0,,the training that Idaten go through \Nto get strong is super painful.
+Dialogue: 0,0:08:35.66,0:08:38.41,Main,Gill,0,0,0,,That's fine. I'll endure whatever it takes.
+Dialogue: 0,0:08:38.41,0:08:41.96,Main,Paula,0,0,0,,You sound kind of like Hayato, Gill-san.
+Dialogue: 0,0:08:42.42,0:08:45.67,Main,Paula,0,0,0,,I wonder if the person who pulls you out \Nhas an influence on your personality...
+Dialogue: 0,0:08:45.67,0:08:50.25,Narration,Narr,0,0,0,,Drawing out an Idaten involves adding your \Nown thoughts to a nascent existence
+Dialogue: 0,0:08:50.25,0:08:53.28,Narration,Narr,0,0,0,,in order to shorten the amount of time\N required for manifestation.
+Dialogue: 0,0:08:53.80,0:08:55.67,Narration,Narr,0,0,0,,As a result, the personality of the drawer
+Dialogue: 0,0:08:55.67,0:08:58.89,Narration,Narr,0,0,0,,has a certain degree of influence \Nin shaping the Idaten drawn.
+Dialogue: 0,0:08:59.17,0:09:03.22,Narration,Narr,0,0,0,,The desire of the nun, who was rocked \Nto the core by how powerless she felt,
+Dialogue: 0,0:09:03.22,0:09:05.29,Narration,Narr,0,0,0,,mixed with Hayato's own desire
+Dialogue: 0,0:09:05.29,0:09:08.90,Narration,Narr,0,0,0,,to create an Idaten who thirsted for strength\N that would allow her to defend others.
+Dialogue: 0,0:09:09.66,0:09:11.15,Main,Paula,0,0,0,,The thing is...
+Dialogue: 0,0:09:11.59,0:09:14.54,Main,Hayato,0,0,0,,Hey, you stupid old bitch. \NHow long are you gonna just sit there?
+Dialogue: 0,0:09:14.54,0:09:16.42,Main,Hayato,0,0,0,,Let's get training! Now!
+Dialogue: 0,0:09:20.28,0:09:22.11,Main,Hayato,0,0,0,,Damn it, Granny!
+Dialogue: 0,0:09:22.57,0:09:24.33,Main,Hayato,0,0,0,,Screw you, then! Like I give a shit!
+Dialogue: 0,0:09:24.33,0:09:26.16,Main,Hayato,0,0,0,,You can rot up there for all I care!
+Dialogue: 0,0:09:26.58,0:09:28.67,Italics,Ysley,0,0,0,,After learning the Demon Lord's identity,
+Dialogue: 0,0:09:28.98,0:09:31.42,Italics,Ysley,0,0,0,,Rin-san seems to have lost her will to live.
+Dialogue: 0,0:09:31.42,0:09:34.38,Italics,Ysley,0,0,0,,Here's hoping that doesn't \Nhave a negative outcome.
+Dialogue: 0,0:09:36.23,0:09:40.33,Main,Prontea,0,0,0,,Pete-kun, I've found the emperor's \Nadministrative password,
+Dialogue: 0,0:09:40.33,0:09:42.56,Main,Prontea,0,0,0,,so could you pull up his files \Nand organize them for me?
+Dialogue: 0,0:09:42.56,0:09:43.99,Main,Pete,0,0,0,,Huh?! O-Oh, right away!
+Dialogue: 0,0:09:43.99,0:09:46.23,Main,Prontea,0,0,0,,Pass everything you find \Nalong to General Piscalat.
+Dialogue: 0,0:09:46.23,0:09:50.48,Main,Troops,0,0,0,,How is he able to figure out \Npasswords just by sitting there?
+Dialogue: 0,0:09:50.48,0:09:54.23,Main,Ysley,0,0,0,,How's it going, Prontea-san? \NHave you found any clues?
+Dialogue: 0,0:09:54.23,0:09:56.49,Main,Prontea,0,0,0,,I've been poking around as best I can,
+Dialogue: 0,0:09:56.49,0:09:59.29,Main,Prontea,0,0,0,,but to be honest, I haven't \Nfound anything interesting.
+Dialogue: 0,0:09:59.29,0:10:00.99,Main,Ysley,0,0,0,,Nothing like the Demon Lord's research data?
+Dialogue: 0,0:10:01.55,0:10:04.20,Main,Prontea,0,0,0,,There's a major hitch with that...
+Dialogue: 0,0:10:04.50,0:10:07.63,Main,Prontea,0,0,0,,It won't display on a monitor \Nand can't be printed out.
+Dialogue: 0,0:10:07.63,0:10:11.36,Main,Prontea,0,0,0,,It's some sort of file format that can \Nonly be observed by those
+Dialogue: 0,0:10:11.36,0:10:14.69,Main,Prontea,0,0,0,,who link their consciousnesses to the computer.
+Dialogue: 0,0:10:14.69,0:10:17.47,Main,Prontea,0,0,0,,And I have no idea what it actually says.
+Dialogue: 0,0:10:17.97,0:10:19.99,Narration,SFX,0,0,0,,Prontea's intellect and \Nacademic accomplishments
+Dialogue: 0,0:10:19.99,0:10:23.13,Narration,SFX,0,0,0,,are on par with an average adult male.
+Dialogue: 0,0:10:23.13,0:10:25.79,Narration,SFX,0,0,0,,When confronted with \Nprofessorial-level research data,
+Dialogue: 0,0:10:25.79,0:10:28.60,Narration,SFX,0,0,0,,it appears little more than an \Nincomprehensible collection of symbols.
+Dialogue: 0,0:10:28.60,0:10:35.28,Main,SFX,0,0,0,,So I tried writing it out to show \Nsomeone like you or Professor Gachikama...
+Dialogue: 0,0:10:35.28,0:10:38.61,Main,SFX,0,0,0,,But diving in and out of cyber-consciousness \Nwhile jotting a bunch of technobabble
+Dialogue: 0,0:10:38.61,0:10:41.06,Main,SFX,0,0,0,,you don't understand is a real pain!
+Dialogue: 0,0:10:41.06,0:10:43.32,Main,SFX,0,0,0,,It took me four hours to get this little bit.
+Dialogue: 0,0:10:44.38,0:10:48.20,Main,Ysley,0,0,0,,Humans... demons... \Nand human-demon hybrids...
+Dialogue: 0,0:10:48.20,0:10:50.75,Main,Ysley,0,0,0,,It appears to be three \Npatterns of genetic code.
+Dialogue: 0,0:10:50.75,0:10:52.14,Main,Prontea,0,0,0,,Is that of any help?
+Dialogue: 0,0:10:52.14,0:10:54.82,Main,Ysley,0,0,0,,Since I've got access\N to Gyudo and Nickel's bodies,
+Dialogue: 0,0:10:54.82,0:10:56.69,Main,Ysley,0,0,0,,I would've learned it sooner or later.
+Dialogue: 0,0:10:56.69,0:11:00.38,Main,Prontea,0,0,0,,See what I mean? A total waste of four hours!
+Dialogue: 0,0:11:00.38,0:11:02.82,Main,Prontea,0,0,0,,And there are tens of thousands \Nof files like this.
+Dialogue: 0,0:11:02.82,0:11:06.10,Main,Prontea,0,0,0,,I'm sorry, but you'll have to give up\N on the Demon Lord's research.
+Dialogue: 0,0:11:06.10,0:11:07.81,Main,Prontea,0,0,0,,If you're dead set on getting access to it,
+Dialogue: 0,0:11:07.81,0:11:11.35,Main,Prontea,0,0,0,,we'll either need to invent a monitor \Nthat can display brain imagery...
+Dialogue: 0,0:11:11.35,0:11:15.67,Main,Prontea,0,0,0,,Or you'll have to train until you \Ncan use this kind of ability.
+Dialogue: 0,0:11:16.11,0:11:18.66,Main,Ysley,0,0,0,,You could always study until \Nyou understand what you're—
+Dialogue: 0,0:11:18.66,0:11:19.74,Main,Prontea,0,0,0,,Nope!
+Dialogue: 0,0:11:19.74,0:11:25.00,Main,Prontea,0,0,0,,I think any more would be a waste of time.\N I'm going to do something else.
+Dialogue: 0,0:11:25.00,0:11:26.74,Main,Prontea,0,0,0,,Any suggestions?
+Dialogue: 0,0:11:26.74,0:11:29.72,Main,Ysley,0,0,0,,We've been able to identify \Nthe nine demons who escaped.
+Dialogue: 0,0:11:29.72,0:11:32.61,Main,Ysley,0,0,0,,As soon as we confirm their locations, \Ngo ahead and eliminate them.
+Dialogue: 0,0:11:33.36,0:11:37.50,Main,Ysley,0,0,0,,And in the meantime, I'd like you \Nto help train the other Idaten.
+Dialogue: 0,0:11:37.50,0:11:41.10,Main,Ysley,0,0,0,,Go ahead and make them strong enough \Nto defeat the powerful demons
+Dialogue: 0,0:11:41.10,0:11:42.51,Main,Ysley,0,0,0,,on the scale of Brandy and Nickel.
+Dialogue: 0,0:11:42.51,0:11:44.76,Main,Ysley,0,0,0,,Anything less won't be of much use.
+Dialogue: 0,0:11:46.11,0:11:48.27,Main,Prontea,0,0,0,,That's a pretty big ask.
+Dialogue: 0,0:11:48.27,0:11:51.69,Main,Prontea,0,0,0,,Are we really going to need that \Nkind of firepower in the future?
+Dialogue: 0,0:11:51.69,0:11:55.44,Main,Ysley,0,0,0,,If the demons are able to continue \Nevading us for long enough...
+Dialogue: 0,0:11:55.84,0:11:57.69,Main,Ysley,0,0,0,,I get the feeling we will.
+Dialogue: 0,0:12:01.15,0:12:02.71,Main,Miku,0,0,0,,She looks good.
+Dialogue: 0,0:12:04.55,0:12:08.99,Caption base,Sign,0,0,0,,{\fad(1310,1)}Buzz & Meliano
+Dialogue: 0,0:12:06.15,0:12:08.43,Main,Meliano,0,0,0,,{\an8}More... More!
+Dialogue: 0,0:12:12.81,0:12:16.75,Caption base,Sign,0,0,0,,{\fad(460,1)\pos(320,231.692)}Hotel District \NRaki & Kroft
+Dialogue: 0,0:12:12.93,0:12:16.03,Main,Raki,0,0,0,,Hey, Kroft, I'm hungry.
+Dialogue: 0,0:12:16.03,0:12:16.75,Main,Kroft,0,0,0,,Right, right.
+Dialogue: 0,0:12:17.06,0:12:20.51,Main,Kroft,0,0,0,,Could you throw together twelve servings' \Nworth of food and bring it up?
+Dialogue: 0,0:12:22.34,0:12:23.76,Main,Kroft,0,0,0,,We're out of money...
+Dialogue: 0,0:12:23.76,0:12:26.34,Main,Kroft,0,0,0,,Raki, could you grab some more?
+Dialogue: 0,0:12:26.94,0:12:27.72,Main,Raki,0,0,0,,Here.
+Dialogue: 0,0:12:28.43,0:12:31.83,Italics,Kroft,0,0,0,,Raki's power is essentially \Nthe same as Brandy's.
+Dialogue: 0,0:12:31.83,0:12:33.86,Italics,Kroft,0,0,0,,She can extend her hair\N up to several kilometers,
+Dialogue: 0,0:12:33.86,0:12:35.46,Italics,Kroft,0,0,0,,so thin as to be invisible...
+Dialogue: 0,0:12:35.46,0:12:38.15,Italics,Kroft,0,0,0,,The difference is her \Nlack of strength when doing it.
+Dialogue: 0,0:12:39.01,0:12:43.68,Italics,Kroft,0,0,0,,But it's great at stealing money \Nfrom people without making a scene.
+Dialogue: 0,0:12:43.68,0:12:46.91,Italics,Kroft,0,0,0,,It's one reason I haven't ditched this idiot.
+Dialogue: 0,0:12:47.25,0:12:50.10,Italics,Kroft,0,0,0,,I'm going to need her power on the run.
+Dialogue: 0,0:12:50.10,0:12:52.65,Italics,Kroft,0,0,0,,That's become clear to me \Nduring this time.
+Dialogue: 0,0:12:53.61,0:12:55.19,Main,Prontea,0,0,0,,Room service!
+Dialogue: 0,0:12:55.19,0:12:56.88,Main,Kroft,0,0,0,,Ah, it's here.
+Dialogue: 0,0:12:57.35,0:12:59.13,Main,Raki,0,0,0,,Kroft, something's wrong!
+Dialogue: 0,0:12:59.90,0:13:03.09,Main,Raki,0,0,0,,The person delivering room service... \NHe doesn't weigh anything!
+Dialogue: 0,0:13:03.78,0:13:08.51,Main,Prontea,0,0,0,,Excuse me, sir? \NI brought the food you ordered...
+Dialogue: 0,0:13:09.78,0:13:11.52,Main,Prontea,0,0,0,,Sir?
+Dialogue: 0,0:13:15.78,0:13:18.50,Main,Prontea,0,0,0,,Strange. How'd they figure it out?
+Dialogue: 0,0:13:18.50,0:13:20.91,Main,Ysley,0,0,0,,The place is surrounded.
+Dialogue: 0,0:13:20.91,0:13:23.20,Main,Ysley,0,0,0,,There was no sign of anyone \Nsuspicious escaping.
+Dialogue: 0,0:13:23.20,0:13:25.40,Main,Ysley,0,0,0,,They have to be hiding somewhere.
+Dialogue: 0,0:13:28.99,0:13:30.92,Main,Prontea,0,0,0,,I don't see them anywhere.
+Dialogue: 0,0:13:31.65,0:13:32.91,Main,Ysley,0,0,0,,In that case...
+Dialogue: 0,0:13:33.36,0:13:34.25,Main,Ysley,0,0,0,,Underground!
+Dialogue: 0,0:13:34.25,0:13:37.37,Main,Ysley,0,0,0,,One of the escaped demons is \Nsupposedly good at subterranean travel!
+Dialogue: 0,0:13:38.38,0:13:39.38,Main,Prontea,0,0,0,,Bingo!
+Dialogue: 0,0:13:40.02,0:13:43.09,Main,Prontea,0,0,0,,They've barely got a minute's head start. \NShould be easy enough to catch up.
+Dialogue: 0,0:13:44.20,0:13:46.97,Main,Prontea,0,0,0,,Huh... that's a lot of branches.
+Dialogue: 0,0:13:48.00,0:13:50.97,Main,Prontea,0,0,0,,I hope you don't think that'll \Nbe enough to get away.
+Dialogue: 0,0:13:52.07,0:13:53.19,Main,Ysley,0,0,0,,Prontea-san!
+Dialogue: 0,0:13:54.22,0:13:56.18,Italics,Ysley,0,0,0,,I don't think he's going to find them...
+Dialogue: 0,0:13:56.31,0:14:03.34,Main,Sign,0,0,0,,{\fad(270,3333)\an8\b1\fs20\fnComic Sans MS\c&H071113&\pos(360.615,5.692)\3c&HBCDFDB&\4c&HBCDFDB&}Lots of branches
+Dialogue: 0,0:13:56.61,0:13:58.75,Italics,Ysley,0,0,0,,All you have to do to \Nseverely complicate a search
+Dialogue: 0,0:13:58.75,0:14:04.48,Italics,Ysley,0,0,0,,is create a bunch of dummy routes \Nwhile covering up the real one.
+Dialogue: 0,0:14:00.46,0:14:04.50,Main,Sign,0,0,0,,{\fad(1750,1)\b1\fs20\fnComic Sans MS\c&H071113&\3c&H40AD77&\4c&H40AD77&\pos(64,259.23)}Correct route
+Dialogue: 0,0:14:03.50,0:14:04.50,Main,Sign,0,0,0,,{\b1\fs20\fnComic Sans MS\c&H071113&\3c&H40AD77&\4c&H40AD77&\pos(231.385,274.615)}Buried
+Dialogue: 0,0:14:04.48,0:14:06.25,Main,Prontea,0,0,0,,I couldn't find them...
+Dialogue: 0,0:14:06.25,0:14:07.78,Main,Ysley,0,0,0,,I figured as much.
+Dialogue: 0,0:14:07.78,0:14:11.69,Italics,Ysley,0,0,0,,Damn... Why didn't I account for a \Nsubterranean escape in the first place?
+Dialogue: 0,0:14:12.24,0:14:15.70,Italics,Ysley,0,0,0,,We'll probably never get \Nanother chance like this.
+Dialogue: 0,0:14:15.70,0:14:16.95,Main,Kroft,0,0,0,,That was a close one!
+Dialogue: 0,0:14:16.95,0:14:19.17,Main,Raki,0,0,0,,But what's going on? How'd they find us?!
+Dialogue: 0,0:14:19.17,0:14:22.66,Main,Kroft,0,0,0,,We used an alias when we checked in.\N They must have looked into it.
+Dialogue: 0,0:14:22.66,0:14:26.73,Main,Kroft,0,0,0,,We may never be safe \Nentering a human town again.
+Dialogue: 0,0:14:26.73,0:14:28.65,Main,Raki,0,0,0,,Oh, no!
+Dialogue: 0,0:14:30.20,0:14:32.47,Main,Raki,0,0,0,,Does that mean we have to stay underground?
+Dialogue: 0,0:14:32.47,0:14:37.18,Main,Raki,0,0,0,,Without any beds or baths? No way!
+Dialogue: 0,0:14:39.84,0:14:44.41,Italics,Kroft,0,0,0,,Things are too dangerous to spend long \Nlistening to this moron's bullshit...
+Dialogue: 0,0:14:44.41,0:14:47.24,Italics,Kroft,0,0,0,,But that doesn't change the fact\N that I need her power.
+Dialogue: 0,0:14:48.54,0:14:49.57,Main,Raki,0,0,0,,Kroft...
+Dialogue: 0,0:14:49.94,0:14:53.20,Main,Kroft,0,0,0,,I don't want you to die, Raki.
+Dialogue: 0,0:14:53.88,0:14:56.73,Main,Kroft,0,0,0,,I'll try to comfort you \Nthrough the painful parts...
+Dialogue: 0,0:14:57.08,0:14:58.71,Main,Kroft,0,0,0,,So please, listen to me.
+Dialogue: 0,0:14:58.71,0:15:00.64,Main,Raki,0,0,0,,O-Okay...
+Dialogue: 0,0:15:00.64,0:15:02.96,Italics,Kroft,0,0,0,,Damn it. I hate to do this, \Nbut there's no other way.
+Dialogue: 0,0:15:05.66,0:15:08.60,Italics,Kroft,0,0,0,,I guess I'll love you.
+Dialogue: 0,0:15:11.68,0:15:13.20,Main,Sign,0,0,0,,{\an8\fnArial\fs14\b1\c&H2F1AC7&\3c&HDCE8C4&\4c&HDCE8C4&\pos(321.846,37.999)}Ultimate Ragnage Fantasy Online 14\N\N\N\N\NDoxxing Thread
+Dialogue: 0,0:15:11.68,0:15:13.20,Main,Sign,0,0,0,,{\fnArial\fs14\pos(142.769,320.462)\c&H32351F&\3c&HDDE5CA&\4c&HDDE5CA&\b1}Gineko Ouka
+Dialogue: 0,0:15:11.68,0:15:13.20,Main,Sign,0,0,0,,{\fnArial\fs12\shad0\an1\bord0\c&H64B71B&\b1\pos(261.538,213.384)}{\b0\c&H3B4032&}: she is such trash, everything she says is cringe\Nfor a shit support, always wants to take charge
+Dialogue: 0,0:15:11.68,0:15:13.20,Main,,0,0,0,,{\fnArial\fs12\shad0\an1\bord0\c&H64B71B&\b1\pos(259.076,269.384)}Mackerel Miso {\b0\c&H3B4032&}: your stereotypical e-girl
+Dialogue: 0,0:15:11.68,0:15:13.20,Main,,0,0,0,,{\fnArial\fs12\shad0\an1\bord0\c&HBD4A46&\b1\pos(257.845,332.769)\u1}ZobleWoo{\u0} {\b0\c&H3B4032&}: I partied with her for a bit and she was total shit~
+Dialogue: 0,0:15:13.20,0:15:14.12,Main,,0,0,0,,{\an7\fnArial\fs20\shad0\c&HBD4A46&\b1\bord4\shad4\u1\3c&HDDE7C4&\4c&HDDE7C4&}ZobleWoo{\u0} {\b0\c&H3B4032&}: \NI partied with her for a bit and she was total shit~
+Dialogue: 0,0:15:13.20,0:15:14.12,Main,,0,0,0,,{\an4\fnArial\fs20\shad0\c&H64B71B&\b1\bord4\shad4\3c&HDDE7C4&\4c&HDDE7C4&}Modest Monk {\b0\c&H3B4032&}: \Nbut all of her gear was pretty fancy lolol
+Dialogue: 0,0:15:14.12,0:15:15.33,Main,,0,0,0,,{\an7\fnArial\fs20\shad0\c&H64B71B&\b1\bord4\shad4\3c&HDDE7C4&\4c&HDDE7C4&}Obachan {\b0\c&H3B4032&}: probably pay2win\N gross how she has all of that cutesy gear that doesn't look good on her\N would look better with the pig tail and the shit hat
+Dialogue: 0,0:15:14.45,0:15:15.85,Main,,0,0,0,,{\an4\fnArial\fs20\shad0\c&H64B71B&\b1\bord4\shad4\3c&HDDE7C4&\4c&HDDE7C4&}Karma {\b0\c&H3B4032&}:\N G lol i lol n lol  e lol k lol o lol O lol u lol k lol a (roflmao)
+Dialogue: 0,0:15:15.33,0:15:15.85,Main,,0,0,0,,{\an1\fnArial\fs20\shad0\c&HBD4A46&\b1\bord4\shad4\u1\3c&HDDE7C4&\4c&HDDE7C4&}Anaryu{\b0\c&H3B4032&\u0} :\N I found this psycho's blog lol
+Dialogue: 0,0:15:15.85,0:15:17.39,Main,Bonnie,0,0,0,,Screw you assholes!
+Dialogue: 0,0:15:17.66,0:15:19.27,Main,Bonnie,0,0,0,,{\an8}You think I'm too slow with heals?
+Dialogue: 0,0:15:17.66,0:15:21.85,Caption base,Sign,0,0,0,,Gineko Ouka     Real Name: Bonnie (Female)
+Dialogue: 0,0:15:19.27,0:15:21.85,Main,Bonnie,0,0,0,,{\an8}You min/max burnouts \Nare screwed in the head.
+Dialogue: 0,0:15:21.85,0:15:23.98,Main,Bonnie,0,0,0,,God, they're so irritating and stupid!
+Dialogue: 0,0:15:23.98,0:15:26.55,Main,Bonnie,0,0,0,,I wouldn't party with you if you paid me!
+Dialogue: 0,0:15:27.57,0:15:29.36,Main,Miku,0,0,0,,Delivery!
+Dialogue: 0,0:15:29.70,0:15:31.86,Main,Bonnie,0,0,0,,Took them long enough.
+Dialogue: 0,0:15:31.86,0:15:34.57,Main,Bonnie,0,0,0,,Could you be any slower? Damn...
+Dialogue: 0,0:15:35.20,0:15:39.83,Main,Bonnie,0,0,0,,Hi... I'll sign for it right away, \Nso if you could just leave the—
+Dialogue: 0,0:15:40.75,0:15:43.83,Main,Miku,0,0,0,,Hi! Good afternoon. Nice to meet you.
+Dialogue: 0,0:15:43.83,0:15:46.71,Main,Miku,0,0,0,,We're just going to intrude \Nfor a couple of years.
+Dialogue: 0,0:15:48.38,0:15:52.83,Main,Merku,0,0,0,,This place is a dump! Couldn't you \Nhave found a nicer place, Miku?
+Dialogue: 0,0:15:52.83,0:15:54.84,Main,Miku,0,0,0,,It'll be a normal house, \Nonce it's all cleaned up.
+Dialogue: 0,0:15:55.23,0:15:58.76,Main,Miku,0,0,0,,This is actually on the nicer side of what \NI could find, so stop being so picky.
+Dialogue: 0,0:15:58.76,0:16:01.35,Main,Merku,0,0,0,,Hey, can I shower now?
+Dialogue: 0,0:16:02.11,0:16:04.60,Main,Miku,0,0,0,,You might want to hold off...
+Dialogue: 0,0:16:04.60,0:16:06.57,Main,Miku,0,0,0,,since things are about to get messy.
+Dialogue: 0,0:16:07.01,0:16:08.02,Main,Merku,0,0,0,,Good point.
+Dialogue: 0,0:16:13.82,0:16:16.77,Main,Miku,0,0,0,,You know, I'm pretty fragile,
+Dialogue: 0,0:16:16.77,0:16:21.48,Main,Miku,0,0,0,,so having a human stab me \Nlike that actually does hurt.
+Dialogue: 0,0:16:21.48,0:16:27.48,Main,Miku,0,0,0,,The thing is, I happen to love having \Na body that can feel pain so easily!
+Dialogue: 0,0:16:27.48,0:16:31.01,Main,Miku,0,0,0,,It lets me enjoy the most \Nbrutal pain and intense ecstasy...
+Dialogue: 0,0:16:31.01,0:16:33.84,Main,Miku,0,0,0,,A total visceral package!
+Dialogue: 0,0:16:35.24,0:16:38.00,Main,Miku,0,0,0,,Female. Lives alone. Recluse.
+Dialogue: 0,0:16:36.44,0:16:38.84,Main,Merku,0,0,0,,{\an8}Easy there. Don't make a fuss.
+Dialogue: 0,0:16:38.00,0:16:42.08,Main,Miku,0,0,0,,Does all shopping via delivery. \NNo friends or relatives, distant or otherwise.
+Dialogue: 0,0:16:42.08,0:16:43.54,Main,Miku,0,0,0,,Has assets thanks to her parents,
+Dialogue: 0,0:16:43.54,0:16:46.17,Main,Miku,0,0,0,,who died in an accident and left her\Nenough money to live like a shut-in.
+Dialogue: 0,0:16:46.17,0:16:49.73,Main,Miku,0,0,0,,Homeowner. And that's why we picked her.
+Dialogue: 0,0:16:50.00,0:16:52.95,Main,Miku,0,0,0,,Her passwords and account information \Nare all sitting in her inbox.
+Dialogue: 0,0:16:52.95,0:16:55.74,Main,Miku,0,0,0,,Uses her birthday for her cash\N and credit card PINs.
+Dialogue: 0,0:16:55.74,0:16:57.86,Main,Miku,0,0,0,,We won't even need to question her!
+Dialogue: 0,0:16:57.03,0:16:59.11,Main,Merku,0,0,0,,{\an8}It'll be okay.
+Dialogue: 0,0:16:58.25,0:17:00.67,Main,Miku,0,0,0,,Merku, go ahead and kill her.
+Dialogue: 0,0:17:00.67,0:17:02.45,Main,Merku,0,0,0,,What? Already?
+Dialogue: 0,0:17:02.45,0:17:04.30,Main,Miku,0,0,0,,This should be a piece of cake.
+Dialogue: 0,0:17:04.30,0:17:06.52,Main,Miku,0,0,0,,All I have to do is play the \Nrole of a nerd on the internet
+Dialogue: 0,0:17:06.52,0:17:09.04,Main,Miku,0,0,0,,and keep posting on a blog \Nthat no one is reading...
+Dialogue: 0,0:17:09.04,0:17:11.46,Main,Miku,0,0,0,,Then we just nibble through \Nher savings a bit at a time.
+Dialogue: 0,0:17:11.46,0:17:14.43,Main,Miku,0,0,0,,She'll be fully replaced.
+Dialogue: 0,0:17:14.43,0:17:17.36,Main,Miku,0,0,0,,If you want to get mad, maybe be mad \Nabout the fact that your hollow joke
+Dialogue: 0,0:17:17.36,0:17:19.97,Main,Miku,0,0,0,,of a life didn't amount \Nto much more than that.
+Dialogue: 0,0:17:21.97,0:17:23.72,Main,Merku,0,0,0,,Since the surgery is underway,
+Dialogue: 0,0:17:23.72,0:17:27.35,Main,Merku,0,0,0,,allow me to explain the powers of \Nthe devil in white, Merku-chan!
+Dialogue: 0,0:17:27.46,0:17:31.16,Main,Merku,0,0,0,,I can deftly control my tentacles \Nwithin a one-meter range.
+Dialogue: 0,0:17:31.16,0:17:34.14,Main,Merku,0,0,0,,They're not much use in a fight, \Nbut when it comes to surgery,
+Dialogue: 0,0:17:34.14,0:17:36.00,Main,Merku,0,0,0,,I can do the work of twelve doctors at once.
+Dialogue: 0,0:17:36.34,0:17:38.86,Main,Merku,0,0,0,,You want a prescription? Well, don't ask me!
+Dialogue: 0,0:17:38.97,0:17:42.39,Main,Merku,0,0,0,,I've assisted His Demonic Lordship \Nin addition to Dr. Umeyo,
+Dialogue: 0,0:17:42.39,0:17:44.88,Main,Merku,0,0,0,,but I actually know less \Nthan your typical nurse.
+Dialogue: 0,0:17:44.88,0:17:47.78,Main,Merku,0,0,0,,I'm just an assistant!
+Dialogue: 0,0:17:47.78,0:17:49.63,Main,Merku,0,0,0,,That about covers it!
+Dialogue: 0,0:17:50.71,0:17:52.05,Main,Merku,0,0,0,,What do you think, Miku?
+Dialogue: 0,0:17:53.65,0:17:57.73,Main,Miku,0,0,0,,I get the feeling your body and face \Nare both hotter than the original...
+Dialogue: 0,0:17:57.73,0:18:00.97,Main,Miku,0,0,0,,but since you'll just be accepting \Ndeliveries, it's probably fine.
+Dialogue: 0,0:18:00.97,0:18:03.49,Main,Merku,0,0,0,,I have to put on someone's \Nskin just to answer the door?
+Dialogue: 0,0:18:03.49,0:18:04.85,Main,Merku,0,0,0,,What a pain.
+Dialogue: 0,0:18:04.85,0:18:06.90,Main,Merku,0,0,0,,What about everything other \Nthan her face and fingerprints?
+Dialogue: 0,0:18:06.90,0:18:08.59,Main,Miku,0,0,0,,Everything else can go.
+Dialogue: 0,0:18:08.59,0:18:10.54,Main,Miku,0,0,0,,Umeyo, could you eat it up?
+Dialogue: 0,0:18:10.54,0:18:13.32,Main,Umeyo,0,0,0,,You want me to eat a human? Whole?!
+Dialogue: 0,0:18:13.32,0:18:17.28,Main,Umeyo,0,0,0,,I'd rather not. They don't taste very good.
+Dialogue: 0,0:18:21.51,0:18:23.97,Main,Merku,0,0,0,,So, what do we do now, Miku?
+Dialogue: 0,0:18:23.97,0:18:28.16,Main,Miku,0,0,0,,For now, it's probably best not \Nto do much other than live in peace.
+Dialogue: 0,0:18:28.16,0:18:30.19,Main,Merku,0,0,0,,I can take that shower, then?
+Dialogue: 0,0:18:30.19,0:18:31.17,Main,Miku,0,0,0,,Go on ahead.
+Dialogue: 0,0:18:31.63,0:18:35.59,Main,Miku,0,0,0,,And in a few years, we can \Nrendezvous with the Demon Lord...
+Dialogue: 0,0:18:36.34,0:18:39.34,Main,Ferlandia,0,0,0,,So, what the hell are we doing now, Kuraishi?
+Dialogue: 0,0:18:40.14,0:18:44.59,Main,Kuraishi,0,0,0,,Good question... I'm honestly not sure.
+Dialogue: 0,0:18:44.59,0:18:46.60,Main,Ferlandia,0,0,0,,What the shit is that supposed to mean?!
+Dialogue: 0,0:18:46.60,0:18:50.08,Main,Kuraishi,0,0,0,,I can't think of a way\N to contact the Demon Lord.
+Dialogue: 0,0:18:50.08,0:18:51.91,Main,Kuraishi,0,0,0,,And the Idaten are playing for keeps.
+Dialogue: 0,0:18:51.91,0:18:54.86,Main,Kuraishi,0,0,0,,You heard they've got Neput \Nand Piscalat on their side, right?
+Dialogue: 0,0:18:55.17,0:18:58.50,Main,Kuraishi,0,0,0,,Which means they know all about \Nour emergency contact methods.
+Dialogue: 0,0:18:58.50,0:19:01.61,Main,Kuraishi,0,0,0,,I tried passing along a \Nmessage using a human, but...
+Dialogue: 0,0:19:02.08,0:19:04.52,Flashback,Kuraishi,0,0,0,,Hey, wanna do a little job for me?
+Dialogue: 0,0:19:05.24,0:19:06.74,Flashback,Kuraishi,0,0,0,,I'll make it worth your while.
+Dialogue: 0,0:19:07.06,0:19:09.71,Flashback,Kuraishi,0,0,0,,Call this number in three hours.
+Dialogue: 0,0:19:10.23,0:19:10.75,Flashback,Guy,0,0,0,,Yeah?
+Dialogue: 0,0:19:10.75,0:19:13.92,Flashback,Kuraishi,0,0,0,,Then you just repeat \Nwhat I'm about to tell you...
+Dialogue: 0,0:19:16.75,0:19:17.76,Flashback_Italics,Obami,0,0,0,,Who is this?
+Dialogue: 0,0:19:17.76,0:19:21.53,Flashback,Guy,0,0,0,,W-Well, I'm just calling \Nbecause someone asked me to...
+Dialogue: 0,0:19:21.53,0:19:24.46,Flashback,Guy,0,0,0,,The guy who hired me is listening\Nand he wants me to tell you something.
+Dialogue: 0,0:19:25.22,0:19:29.23,Flashback_Italics,Obami,0,0,0,,A wise decision. They're listening \Nin on this as we speak.
+Dialogue: 0,0:19:29.61,0:19:34.11,Flashback_Italics,Obami,0,0,0,,Right now, the survivors are Miku, \NMerku, Kuraishi, Buzz, Raki,
+Dialogue: 0,0:19:34.11,0:19:37.93,Flashback_Italics,Obami,0,0,0,,Umeyo, Meliano, Kroft and \NFerlandia. Those nine.
+Dialogue: 0,0:19:37.93,0:19:39.89,Flashback_Italics,Obami,0,0,0,,They already know that, as well.
+Dialogue: 0,0:19:40.53,0:19:43.00,Flashback_Italics,Obami,0,0,0,,Seems time's up.
+Dialogue: 0,0:19:43.00,0:19:44.61,Flashback_Italics,Obami,0,0,0,,That was certainly fast...
+Dialogue: 0,0:19:45.49,0:19:47.50,Flashback,Cops,0,0,0,,We're with the police.
+Dialogue: 0,0:19:47.50,0:19:50.00,Flashback,Cops,0,0,0,,We'd like to talk to you for a minute.
+Dialogue: 0,0:19:52.00,0:19:55.22,Flashback,Guy,0,0,0,,W-Wait, I didn't do...
+Dialogue: 0,0:19:52.91,0:19:54.50,Flashback,Cops,0,0,0,,Now, now...
+Dialogue: 0,0:19:54.50,0:19:55.65,Flashback,Cops,0,0,0,,We just want to talk.
+Dialogue: 0,0:19:55.65,0:19:57.69,Flashback,Guy,0,0,0,,{\an8}But that guy asked me...
+Dialogue: 0,0:19:55.65,0:19:58.38,Flashback,Kuraishi,0,0,0,,Those are cops from another country... \Nand they got here so quickly.
+Dialogue: 0,0:19:58.61,0:20:01.62,Flashback,Kuraishi,0,0,0,,Just how deep in human \Nsociety are these guys?
+Dialogue: 0,0:20:02.25,0:20:09.12,Main,Ferlandia,0,0,0,,So if we tell His Lordship where we are,\N it's as good as telling the Idaten?
+Dialogue: 0,0:20:09.12,0:20:12.64,Main,Kuraishi,0,0,0,,The Demon Lord mentioned \Ndemons who managed to escape.
+Dialogue: 0,0:20:12.64,0:20:16.17,Main,Kuraishi,0,0,0,,And of those demons, the one most likely \Nto find a way out of this mess
+Dialogue: 0,0:20:16.17,0:20:17.32,Main,Kuraishi,0,0,0,,has to be Miku.
+Dialogue: 0,0:20:17.77,0:20:20.76,Main,Merku,0,0,0,,So, how are we going to \Ncontact the Demon Lord?
+Dialogue: 0,0:20:21.11,0:20:22.95,Main,Miku,0,0,0,,That's a secret.
+Dialogue: 0,0:20:23.27,0:20:26.13,Main,Miku,0,0,0,,If I wanted to, I could get \Nahold of him in a few days,
+Dialogue: 0,0:20:26.13,0:20:27.75,Main,Miku,0,0,0,,but it'd be best to wait a few years
+Dialogue: 0,0:20:27.75,0:20:31.19,Main,Miku,0,0,0,,until they're distracted \Nwith something else...
+Dialogue: 0,0:20:31.19,0:20:33.99,Main,Miku,0,0,0,,So, for now, let's just \Nenjoy the leisurely life.
+Dialogue: 0,0:20:34.81,0:20:37.21,Caption base,Sign,0,0,0,,{\fad(880,1)}A few years later, on a deserted island\NBuzz & Meliano
+Dialogue: 0,0:20:42.00,0:20:43.63,Main,Buzz,0,0,0,,You damned—
+Dialogue: 0,0:20:43.97,0:20:46.43,Main,Meliano,0,0,0,,Buzz, stop it! Please, stop!
+Dialogue: 0,0:20:46.80,0:20:49.86,Main,Buzz,0,0,0,,Let go of me, Meliano! \NThat thing is nothing but a monster!
+Dialogue: 0,0:20:49.86,0:20:53.18,Main,Meliano,0,0,0,,You're wrong! \NThat's no monster! It's a child!
+Dialogue: 0,0:20:53.18,0:20:55.65,Main,Meliano,0,0,0,,Our child!
+Dialogue: 0,0:20:55.65,0:20:59.26,Main,Meliano,0,0,0,,Luce, wait! Don't go! Please, come back!
+Dialogue: 0,0:20:59.26,0:21:02.53,Main,Buzz,0,0,0,,Don't get any closer!\N It'll eat more than your arm next!
+Dialogue: 0,0:21:07.96,0:21:13.12,Main,Buzz,0,0,0,,It's no use... Without the Demon Lord,\N we're totally worthless.
+Dialogue: 0,0:21:13.12,0:21:14.75,Main,Buzz,0,0,0,,Nothing more than monsters...

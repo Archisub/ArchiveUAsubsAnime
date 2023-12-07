@@ -1,0 +1,310 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback_Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback_Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Sign_Basic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Show_Title,Trebuchet MS,48,&H002901D4,&H000000FF,&H00881C84,&H00000000,-1,-1,0,0,100,100,0,0,1,3,0,8,10,10,13,1
+Style: sign_4605_28__1_Peacetime,Comic Sans MS,20,&H001C2A6A,&H000000FF,&H00538BC6,&H00538BC6,-1,0,0,0,100,100,0,0,1,0,1,2,506,13,96,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:06.84,0:00:11.00,Main,Sign,0,0,0,,{\an8\fad(1630,1)\bord0\shad0\fnTimes New Roman\b1\pos(320,20)}Long ago, {\alpha&FF&}demons {\alpha&00&}existed in this world...
+Dialogue: 0,0:00:06.84,0:00:11.00,Main,Sign,0,0,0,,{\an8\fad(1840,1)\bord0\shad0\fnTimes New Roman\b1\alpha&FF&\pos(320,20)}Long ago, {\alpha&00&\c&H0D00DB&}demons {\alpha&FF&\c&HFFFFFF&}existed in this world...
+Dialogue: 0,0:00:11.39,0:00:15.23,Narration,Narr,0,0,0,,Faced with monsters \Nimmune to modern weaponry,
+Dialogue: 0,0:00:15.56,0:00:18.54,Narration,Narr,0,0,0,,humanity was pushed to \Nthe brink of extinction.
+Dialogue: 0,0:00:18.91,0:00:20.62,Main,Puppets,0,0,0,,Dear God, please...
+Dialogue: 0,0:00:20.62,0:00:23.38,Main,Puppets,0,0,0,,Please save us.
+Dialogue: 0,0:00:23.38,0:00:26.64,Main,Sign,0,0,0,,{\an8\fad(1630,1)\bord0\shad0\fnTimes New Roman\b1\pos(320,20)}Thus, {\alpha&FF&}gods {\alpha&00&}appeared.
+Dialogue: 0,0:00:23.38,0:00:26.64,Main,Sign,0,0,0,,{\an8\fad(1840,1)\bord0\shad0\fnTimes New Roman\b1\pos(320,20)\alpha&FF&}Thus, {\alpha&00&\c&HB5FBFC&}gods {\alpha&FF&\c&HFFFFFF&}appeared.
+Dialogue: 0,0:00:26.64,0:00:29.14,Italics,Narr,0,0,0,,They were battle deities called Idaten.
+Dialogue: 0,0:00:32.64,0:00:37.10,Italics,Narr,0,0,0,,They arrived suddenly, \Ndefeating the demons...
+Dialogue: 0,0:00:39.52,0:00:41.27,Main,Grandfather,0,0,0,,Give it a rest.
+Dialogue: 0,0:00:43.24,0:00:44.53,Italics,Narr,0,0,0,,...and then sealing them away.
+Dialogue: 0,0:00:45.61,0:00:49.19,Italics,Narr,0,0,0,,These events occurred over 800 years ago.
+Dialogue: 0,0:00:49.19,0:00:54.33,Main,Rin,0,0,0,,Grandfather! Why do you all \Nhave to sacrifice yourselves?!
+Dialogue: 0,0:00:54.33,0:00:57.46,Main,Grandfather,0,0,0,,There's no other way to ensure \Nthe seal is effective.
+Dialogue: 0,0:00:57.86,0:01:02.96,Main,Grandfather,0,0,0,,We will travel to the other side, \Nsouls and all, and become part of it.
+Dialogue: 0,0:01:02.96,0:01:04.99,Main,Friend,0,0,0,,Rin, you're still young.
+Dialogue: 0,0:01:04.99,0:01:06.71,Main,Friend,0,0,0,,Keep living and watch over the seal.
+Dialogue: 0,0:01:06.71,0:01:10.93,Main,Friend,0,0,0,,Share your strength with the gods\N who have yet to be born.
+Dialogue: 0,0:01:11.79,0:01:16.81,Main,Sukis,0,0,0,,And if anything happens to the seal, \Nit's your job to deal with it.
+Dialogue: 0,0:01:16.81,0:01:17.94,Main,Sukis,0,0,0,,Don't forget that!
+Dialogue: 0,0:01:17.94,0:01:20.86,Main,Rin,0,0,0,,No... No!
+Dialogue: 0,0:01:21.30,0:01:23.84,Main,Grandfather,0,0,0,,We're counting on you, Rin.
+Dialogue: 0,0:01:24.36,0:01:25.59,Main,Grandfather,0,0,0,,Goodbye.
+Dialogue: 0,0:01:32.11,0:01:38.39,Main,Rin,0,0,0,,No! Grandfather!
+Dialogue: 0,0:01:47.16,0:01:53.05,Show_Title,,0,0,0,,{\fad(4409,938)\fscy140}The Idaten {\c&H21FCFB&}Dei{\c&H2601D4&}ties\N{\fs24\c&H19F7D8&\i0\3c&H3E679B&\fscy100}\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hKn{\c&HD6E1F9&}ow {\c&H19F7D8&}On{\c&HD6E1F9&}ly {\c&H19F7D8&}Pe{\c&HD6E1F9&}ac{\c&H19F7D8&}e
+Dialogue: 0,0:03:09.04,0:03:09.96,Show_Title,,0,0,0,,{\3c&H6C171A&}The Idaten {\c&H21FCFB&}Dei{\c&H2601D4&}ties\N{\c&H3FCC78&\fs24\i0\fscy100}\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hKn{\c&HC29AE7&}ow {\c&H3FCC78&}On{\c&HC29AE7&}ly {\c&H3FCC78&}Pe{\c&HC29AE7&}ac{\c&H3FCC78&}e
+Dialogue: 0,0:03:12.58,0:03:16.46,sign_4605_28__1_Peacetime,Eptitle Sign,0,0,0,,{\be.25\pos(588,284)}#1\NPeacetime
+Dialogue: 0,0:03:25.03,0:03:27.34,Main,Woman,0,0,0,,Wh-What was that sudden gust?
+Dialogue: 0,0:03:27.34,0:03:29.10,Main,Woman,0,0,0,,Gosh, that really startled me...
+Dialogue: 0,0:03:29.46,0:03:34.85,Main,Man,0,0,0,,Is it just me, or did it feel more like\N {\i1}something{\i0} blew by rather than just wind?
+Dialogue: 0,0:03:34.85,0:03:38.33,Main,Hayato,0,0,0,,Hey, didn't we just pass some humans?
+Dialogue: 0,0:03:38.64,0:03:39.74,Main,Rin,0,0,0,,Never you mind.
+Dialogue: 0,0:03:39.74,0:03:41.23,Main,Rin,0,0,0,,There's no way they saw us.
+Dialogue: 0,0:03:41.23,0:03:43.40,Main,Rin,0,0,0,,Focus more on moving faster, Hayato.
+Dialogue: 0,0:03:44.78,0:03:47.78,Main,Hayato,0,0,0,,D-Damn it! Get back here!
+Dialogue: 0,0:03:47.78,0:03:50.41,Main,Hayato,0,0,0,,You hag in a kid's body!
+Dialogue: 0,0:04:13.02,0:04:15.78,Main,Rin,0,0,0,,Nine hours for a lap around the earth...
+Dialogue: 0,0:04:16.09,0:04:18.70,Main,Rin,0,0,0,,That's much slower than you usually manage.
+Dialogue: 0,0:04:18.70,0:04:19.98,Main,Rin,0,0,0,,Are you slacking?
+Dialogue: 0,0:04:19.98,0:04:24.44,Main,Hayato,0,0,0,,Did you forget the part where you beat \Nthe shit out of me, you senile old bitch?!
+Dialogue: 0,0:04:26.80,0:04:29.11,Main,Rin,0,0,0,,What arrogance when you're still half-baked.
+Dialogue: 0,0:04:29.11,0:04:32.41,Main,Rin,0,0,0,,Do you think that'll help \Nyou become a proper Idaten?
+Dialogue: 0,0:04:32.41,0:04:35.36,Main,Hayato,0,0,0,,What exactly is a "proper" \NIdaten supposed to be anyway?
+Dialogue: 0,0:04:35.36,0:04:37.66,Main,Hayato,0,0,0,,How does being fast even matter?
+Dialogue: 0,0:04:37.66,0:04:42.41,Main,Hayato,0,0,0,,You drag me out here every day, \Nwork me to the bone... And for what?
+Dialogue: 0,0:04:46.19,0:04:51.37,Main,Rin,0,0,0,,In the old days, endless hordes \Nof monsters ran rampant across the land.
+Dialogue: 0,0:04:51.92,0:04:54.74,Main,Rin,0,0,0,,We are deities called forth to do battle.
+Dialogue: 0,0:04:54.74,0:04:58.02,Main,Rin,0,0,0,,We used our speed to fight, and—
+Dialogue: 0,0:04:56.73,0:05:00.36,Main,Hayato,0,0,0,,Yeah, yeah, I've heard this story.
+Dialogue: 0,0:05:00.69,0:05:04.33,Main,Hayato,0,0,0,,But it's been eighty years since \NI popped up in this world.
+Dialogue: 0,0:05:04.33,0:05:06.28,Main,Hayato,0,0,0,,And when were these monsters sealed away?
+Dialogue: 0,0:05:06.91,0:05:08.90,Main,Rin,0,0,0,,About 800 years ago.
+Dialogue: 0,0:05:08.90,0:05:12.90,Main,Hayto,0,0,0,,See? So when's this seal busting open?
+Dialogue: 0,0:05:12.90,0:05:15.66,Main,Hayto,0,0,0,,The world looks peaceful enough to me.
+Dialogue: 0,0:05:16.07,0:05:17.20,Main,Rin,0,0,0,,Where are you going?
+Dialogue: 0,0:05:17.20,0:05:20.88,Main,Hayato,0,0,0,,To have some fun. \NI've hit my training quota for the day.
+Dialogue: 0,0:05:20.88,0:05:22.50,Main,Hayato,0,0,0,,What's the problem?
+Dialogue: 0,0:05:26.60,0:05:32.14,Main,Rin,0,0,0,,Grandfather, it seems like 800 \Nyears of peace was too long...
+Dialogue: 0,0:05:39.78,0:05:41.81,Main,Hayato,0,0,0,,Hey, sorry about the holdup, Ysley.
+Dialogue: 0,0:05:42.78,0:05:45.06,Main,Ysley,0,0,0,,You're as swift as ever, Hayato.
+Dialogue: 0,0:05:45.06,0:05:48.43,Main,Hayato,0,0,0,,Not as swift as old Rin, though...
+Dialogue: 0,0:05:48.43,0:05:50.19,Main,Ysley,0,0,0,,Well, she's a freak of nature.
+Dialogue: 0,0:05:50.19,0:05:52.74,Main,Hayato,0,0,0,,I'll still outdo her one day.
+Dialogue: 0,0:05:53.15,0:05:58.29,Main,Hayato,0,0,0,,All you ever do is read those human books. \NWould it kill you to train a little?
+Dialogue: 0,0:05:58.68,0:06:02.00,Main,Ysley,0,0,0,,I'd really rather not. I'd die.
+Dialogue: 0,0:06:02.00,0:06:03.75,Main,Ysley,0,0,0,,Besides...
+Dialogue: 0,0:06:04.11,0:06:06.04,Main,Ysley,0,0,0,,I love studying.
+Dialogue: 0,0:06:06.04,0:06:11.51,Main,Ysley,0,0,0,,And I'm able to learn more than \Nany human can in their limited lifespan.
+Dialogue: 0,0:06:12.00,0:06:15.76,Main,Ysley,0,0,0,,Since the world's at peace, what's the \Nharm in having an Idaten like that?
+Dialogue: 0,0:06:15.76,0:06:19.29,Main,Hayato,0,0,0,,Hey, I'm not the old bag, \Nso I've got no problem with it.
+Dialogue: 0,0:06:19.85,0:06:22.25,Main,Hayato,0,0,0,,Come on. Let's go see what Paula's doing.
+Dialogue: 0,0:06:37.41,0:06:42.41,Main,Paula,0,0,0,,Jeez, couldn't you guys be a little quieter?\N You scared them all away!
+Dialogue: 0,0:06:42.41,0:06:46.67,Main,Hayato,0,0,0,,We're not you. We can't run \Nlike dainty princesses.
+Dialogue: 0,0:06:47.31,0:06:50.60,Main,Hayato,0,0,0,,Did the birds tell you anything interesting?
+Dialogue: 0,0:06:51.74,0:06:52.88,Main,Paula,0,0,0,,Come to think of it,
+Dialogue: 0,0:06:52.88,0:06:56.73,Main,Paula,0,0,0,,they said there's a bunch of humans \Ngathering by the glaciers up north.
+Dialogue: 0,0:06:56.73,0:06:59.24,Main,Hayato,0,0,0,,What the hell are the humans doing there?
+Dialogue: 0,0:06:59.24,0:07:01.18,Main,Paula,0,0,0,,How am I supposed to know?
+Dialogue: 0,0:07:01.18,0:07:04.12,Main,Paula,0,0,0,,They mentioned giant green birds, too.
+Dialogue: 0,0:07:04.12,0:07:06.60,Main,Paula,0,0,0,,But those are probably airplanes.
+Dialogue: 0,0:07:06.92,0:07:10.19,Main,Ysley,0,0,0,,Sounds like a military transport\N for the Zoble Empire.
+Dialogue: 0,0:07:10.19,0:07:11.98,Main,Hayato,0,0,0,,When you say Zoble...
+Dialogue: 0,0:07:12.37,0:07:13.98,Main,Hayato,0,0,0,,You mean the weaponized industrial country
+Dialogue: 0,0:07:13.98,0:07:16.88,Main,Hayato,0,0,0,,whose air and water have gone to shit?
+Dialogue: 0,0:07:16.88,0:07:18.98,Main,Ysley,0,0,0,,What does their military \Nwant in a glacial region?
+Dialogue: 0,0:07:18.98,0:07:19.91,Main,Hayato,0,0,0,,No clue.
+Dialogue: 0,0:07:20.27,0:07:22.99,Main,Hayato,0,0,0,,It'll be faster to go see \Nthan stand around and guess.
+Dialogue: 0,0:07:22.99,0:07:26.88,Main,Hayato,0,0,0,,It's only 400 kilometers away. \NEven you two can make that in 20 minutes.
+Dialogue: 0,0:07:28.71,0:07:30.15,Main,Ysley,0,0,0,,I guess we should get going.
+Dialogue: 0,0:07:30.15,0:07:31.15,Main,Paula,0,0,0,,You're right.
+Dialogue: 0,0:07:42.88,0:07:45.95,Italics,Hayato,0,0,0,,That sure is a lot of humans...
+Dialogue: 0,0:07:46.61,0:07:47.37,Main,Ysley,0,0,0,,Hayato!
+Dialogue: 0,0:07:48.78,0:07:50.15,Main,Ysley,0,0,0,,How are things looking?
+Dialogue: 0,0:07:50.15,0:07:51.44,Main,Hayato,0,0,0,,Hey, you made it.
+Dialogue: 0,0:07:51.98,0:07:56.78,Main,Hayato,0,0,0,,I dunno what they're after, \Nbut that's a hell of a lot of security.
+Dialogue: 0,0:07:57.25,0:07:59.46,Main,Hayato,0,0,0,,Whatever they want is probably over there,
+Dialogue: 0,0:07:59.46,0:08:03.04,Main,Hayato,0,0,0,,but with this many people, \NI can't get closer without them noticing.
+Dialogue: 0,0:08:03.04,0:08:05.49,Main,Ysley,0,0,0,,Then could you check it out, Paula?
+Dialogue: 0,0:08:05.90,0:08:06.75,Main,Paula,0,0,0,,Me?
+Dialogue: 0,0:08:06.75,0:08:09.22,Main,Ysley,0,0,0,,Put this in when you go.
+Dialogue: 0,0:08:17.82,0:08:20.17,Main,Captain,0,0,0,,Something the matter, Dr. Obami?
+Dialogue: 0,0:08:20.17,0:08:22.26,Main,Obami,0,0,0,,No, I must've imagined it.
+Dialogue: 0,0:08:22.26,0:08:24.67,Main,Captain,0,0,0,,How is the thawing proceeding?
+Dialogue: 0,0:08:24.67,0:08:28.77,Main,Obami,0,0,0,,It's 98 percent complete! Basically finished.
+Dialogue: 0,0:08:29.10,0:08:32.48,Italics,Obami,0,0,0,,He'll be ready to move out \Nas soon as he's awake.
+Dialogue: 0,0:08:40.32,0:08:43.24,Main,Paula,0,0,0,,Wh-What is this thing?
+Dialogue: 0,0:08:43.24,0:08:47.25,Main,Obami,0,0,0,,One of the demons who left a blazing \Ntrail of carnage 800 years ago,
+Dialogue: 0,0:08:47.84,0:08:52.16,Main,Obami,0,0,0,,and with a little elbow grease, he's still \Nfully capable of destroying the world...
+Dialogue: 0,0:08:52.16,0:08:54.42,Main,Obami,0,0,0,,Gyudo-kun the demon beast!
+Dialogue: 0,0:08:54.42,0:09:00.43,Italics,Obami,0,0,0,,A bottom feeder as far as demons go, \Nbut more than a match for any human military.
+Dialogue: 0,0:09:00.43,0:09:02.48,Main,Obami,0,0,0,,What do you think? Is that cool, or what?
+Dialogue: 0,0:09:02.48,0:09:08.20,Main,Captain,0,0,0,,And with that power under our control, \NHotaena and Sarabael will be easy targets?
+Dialogue: 0,0:09:08.59,0:09:11.44,Main,Obami,0,0,0,,Humans were never a consideration \Nin the first place.
+Dialogue: 0,0:09:11.44,0:09:16.27,Main,Obami,0,0,0,,The question is how the gods\N may have changed...
+Dialogue: 0,0:09:16.61,0:09:17.38,Main,Captain,0,0,0,,Gods?
+Dialogue: 0,0:09:18.62,0:09:20.14,Main,Obami,0,0,0,,Don't you worry about it!
+Dialogue: 0,0:09:20.14,0:09:21.28,Main,Captain,0,0,0,,Right...
+Dialogue: 0,0:09:21.28,0:09:24.18,Italics,Captain,0,0,0,,This old timer's as strange as ever.
+Dialogue: 0,0:09:24.18,0:09:27.91,Italics,Captain,0,0,0,,And how is he not cold, dressed like that?
+Dialogue: 0,0:09:29.92,0:09:33.11,Main,Hayato,0,0,0,,So this is one of those demons that\Nthe old bag never shuts up about...
+Dialogue: 0,0:09:33.70,0:09:34.90,Main,Hayato,0,0,0,,This was the worth the trip!
+Dialogue: 0,0:09:34.90,0:09:36.68,Main,Ysley,0,0,0,,I wouldn't be so pleased if I were you.
+Dialogue: 0,0:09:36.68,0:09:42.16,Main,Hayato,0,0,0,,Why not? It's just one leftover small fry.
+Dialogue: 0,0:09:43.20,0:09:46.72,Main,Ysley,0,0,0,,Well, I'm sure Rin-san could defeat \Nit in the worst case scenario...
+Dialogue: 0,0:09:47.18,0:09:51.66,Main,Ysley,0,0,0,,But how does this Dr. Obami \Nknow about 800 years ago?
+Dialogue: 0,0:09:52.16,0:09:54.23,Main,Ysley,0,0,0,,About us or the name of this demon?
+Dialogue: 0,0:09:54.23,0:09:58.23,Main,Ysley,0,0,0,,There shouldn't be any humans left \Nwith that kind of knowledge...
+Dialogue: 0,0:09:58.23,0:10:02.24,Main,Hayato,0,0,0,,Maybe he's been kicking \Nfor 800 years like Granny.
+Dialogue: 0,0:10:03.47,0:10:06.24,Main,Hayato,0,0,0,,I mean, not that any human's capable of that.
+Dialogue: 0,0:10:06.24,0:10:08.35,Italics,Ysley,0,0,0,,It's true no human is capable of that...
+Dialogue: 0,0:10:08.83,0:10:12.25,Italics,Ysley,0,0,0,,But what if this doctor isn't human?
+Dialogue: 0,0:10:12.64,0:10:15.25,Italics,Ysley,0,0,0,,What if he's a surviving demon
+Dialogue: 0,0:10:15.25,0:10:17.38,Italics,Ysley,0,0,0,,who's been working for eight centuries
+Dialogue: 0,0:10:18.59,0:10:21.21,Italics,Ysley,0,0,0,,toward the revival of demonkind?
+Dialogue: 0,0:10:34.68,0:10:38.34,Main,Obami,0,0,0,,Hell, yeah! Free after 800 years!
+Dialogue: 0,0:10:38.34,0:10:44.10,Main,Obami,0,0,0,,Hip hip hooray! \NHip hip hooray! Hip hip hooray!
+Dialogue: 0,0:10:40.36,0:10:43.46,Main,Captain,0,0,0,,{\an8}Doctor! Is it safe to be standing here?
+Dialogue: 0,0:10:44.10,0:10:47.56,Main,Obami,0,0,0,,Don't you worry. Gyudo-kun is \Npretty docile, generally speaking.
+Dialogue: 0,0:10:47.56,0:10:50.18,Main,Obami,0,0,0,,As long as you don't provoke him, \Nhe won't attack.
+Dialogue: 0,0:10:50.18,0:10:54.62,Main,Obami,0,0,0,,Though that doesn't apply to gods...
+Dialogue: 0,0:10:58.79,0:11:00.52,Main,Captain,0,0,0,,Doctor! What is this?!
+Dialogue: 0,0:11:00.52,0:11:04.42,Main,Obami,0,0,0,,Could the accelerated thawing \Nhave driven him mad?
+Dialogue: 0,0:11:20.22,0:11:21.11,Main,Ysley,0,0,0,,Paula!
+Dialogue: 0,0:11:21.44,0:11:24.40,Main,Captain,0,0,0,,Enough! Fire at will!
+Dialogue: 0,0:11:27.52,0:11:31.91,Main,Obami,0,0,0,,Stop that, you fool!\N He'll come after us next!
+Dialogue: 0,0:11:37.22,0:11:41.01,Main,Obami,0,0,0,,Damn it... What's gotten into him?
+Dialogue: 0,0:11:44.06,0:11:45.55,Italics,Obami,0,0,0,,A girl?
+Dialogue: 0,0:12:01.33,0:12:02.02,Main,Obami,0,0,0,,Wow!
+Dialogue: 0,0:12:06.91,0:12:11.34,Main,Hayato,0,0,0,,Huh, I let him have with that kick, \Nbut he seems to be fine.
+Dialogue: 0,0:12:11.34,0:12:12.97,Main,Hayato,0,0,0,,You can run if you want, y'know.
+Dialogue: 0,0:12:12.97,0:12:17.79,Main,Ysley,0,0,0,,And that's exactly what I'll do\N if I think we can't beat him.
+Dialogue: 0,0:12:17.79,0:12:20.51,Main,Obami,0,0,0,,I'm sure of it! They must be Idaten!
+Dialogue: 0,0:12:20.51,0:12:22.87,Main,Obami,0,0,0,,This is the perfect opportunity...
+Dialogue: 0,0:12:24.46,0:12:28.77,Italics,Obami,0,0,0,,A generation of Idaten softened \Nby the comfort of peacetime...
+Dialogue: 0,0:12:28.77,0:12:32.64,Italics,Obami,0,0,0,,This should be good. \NLet's see what you can manage.
+Dialogue: 0,0:12:37.22,0:12:39.81,Main,Captain,0,0,0,,Who are you boys? Where did you come from?!
+Dialogue: 0,0:12:39.81,0:12:44.02,Main,Hayato,0,0,0,,Your odds are better staying buried \Nand fighting the cold, pops.
+Dialogue: 0,0:12:44.02,0:12:45.17,Main,Captain,0,0,0,,You little...
+Dialogue: 0,0:12:46.08,0:12:48.07,Main,Captain,0,0,0,,Who do you think you're talking to?!
+Dialogue: 0,0:12:48.07,0:12:49.29,Main,Hayato,0,0,0,,Ow! Hey!
+Dialogue: 0,0:12:52.44,0:12:53.74,Main,,0,0,0,,Why you...
+Dialogue: 0,0:12:53.74,0:12:56.96,Main,Hayato,0,0,0,,The hell was that for, asshole?! That hurt!
+Dialogue: 0,0:12:56.96,0:12:58.10,Main,Captain,0,0,0,,What the—?!
+Dialogue: 0,0:12:58.54,0:12:59.50,Main,Ysley,0,0,0,,Uh, behind you!
+Dialogue: 0,0:13:03.46,0:13:04.79,Main,Ysley,0,0,0,,Hayato!
+Dialogue: 0,0:13:09.24,0:13:11.51,Main,Obami,0,0,0,,He's probably dead.
+Dialogue: 0,0:13:15.49,0:13:18.47,Italics,Obami,0,0,0,,An attack at the speed of sound \Nthat can generate a sonic boom?
+Dialogue: 0,0:13:18.47,0:13:22.39,Italics,Obami,0,0,0,,That'd be enough to demolish a tank, but...
+Dialogue: 0,0:13:25.23,0:13:26.36,Main,Ysley,0,0,0,,Um...
+Dialogue: 0,0:13:31.28,0:13:35.22,Main,Obami,0,0,0,,It's not enough to hurt Gyudo-kun.
+Dialogue: 0,0:13:35.22,0:13:36.28,Main,Obami,0,0,0,,That makes two.
+Dialogue: 0,0:13:43.95,0:13:45.37,Main,Obami,0,0,0,,And we're done.
+Dialogue: 0,0:13:45.37,0:13:48.38,Main,Obami,0,0,0,,I must say, peace does nothing\N for resilience...
+Dialogue: 0,0:14:01.56,0:14:03.62,Main,Obami,0,0,0,,What?! Impossible!
+Dialogue: 0,0:14:03.62,0:14:06.60,Main,Obami,0,0,0,,His heart was gouged out!
+Dialogue: 0,0:14:10.98,0:14:13.23,Italics,Ysley,0,0,0,,He's not very fast.
+Dialogue: 0,0:14:13.23,0:14:15.69,Italics,Ysley,0,0,0,,If we focus on evasion, \Nwe should easily be able to escape.
+Dialogue: 0,0:14:17.59,0:14:21.24,Italics,Ysley,0,0,0,,It's like he's only attacking \NIdaten on instinct.
+Dialogue: 0,0:14:21.70,0:14:25.96,Italics,Ysley,0,0,0,,Lashing out at us, before anything else,\N after being thawed out...
+Dialogue: 0,0:14:25.96,0:14:29.00,Italics,Ysley,0,0,0,,That suggests the cognitive \Ncapacity of an insect.
+Dialogue: 0,0:14:29.76,0:14:32.01,Main,Obami,0,0,0,,What's going on here?!
+Dialogue: 0,0:14:32.01,0:14:37.60,Italics,Obami,0,0,0,,Was it some kind of trick? Or is piercing \Ntheir hearts not enough to kill them?!
+Dialogue: 0,0:14:39.78,0:14:40.92,Main,Paula,0,0,0,,Ysley?
+Dialogue: 0,0:14:40.92,0:14:42.11,Main,Ysley,0,0,0,,You're awake?
+Dialogue: 0,0:14:42.11,0:14:44.40,Main,Paula,0,0,0,,Whoa, you're injured! Are you okay?!
+Dialogue: 0,0:14:45.58,0:14:48.50,Main,Ysley,0,0,0,,It does hurt pretty badly, \Nso can you stand on your own?
+Dialogue: 0,0:14:49.62,0:14:51.84,Main,Paula,0,0,0,,It only hurts? You're not gonna die?
+Dialogue: 0,0:14:51.84,0:14:54.86,Main,Ysley,0,0,0,,You'll understand if you ever \Nget your heart gouged out.
+Dialogue: 0,0:14:54.86,0:14:58.32,Main,Ysley,0,0,0,,More importantly, this exchange \Nhas made three things clear.
+Dialogue: 0,0:14:58.94,0:15:03.68,Main,,0,0,0,,First, that monster is incredibly \Ntough and powerful,
+Dialogue: 0,0:15:03.68,0:15:06.64,Main,First,0,0,0,,but it can't compare to us \NIdaten in terms of speed.
+Dialogue: 0,0:15:06.64,0:15:08.67,Main,First,0,0,0,,If we need to flee, \Nthat shouldn't be a problem.
+Dialogue: 0,0:15:09.20,0:15:10.84,Main,,0,0,0,,Second...
+Dialogue: 0,0:15:11.54,0:15:15.57,Main,,0,0,0,,It seems the good doctor \Ndoesn't know much about us,
+Dialogue: 0,0:15:15.57,0:15:19.34,Main,,0,0,0,,considering how surprised he was that \NI survived having my heart pierced...
+Dialogue: 0,0:15:19.34,0:15:21.99,Main,Paula,0,0,0,,That surprised me, too!
+Dialogue: 0,0:15:21.99,0:15:24.64,Main,Ysley,0,0,0,,I suppose it would.
+Dialogue: 0,0:15:24.64,0:15:27.31,Main,Ysley,0,0,0,,To be honest, the first time\N I had my heart pulped
+Dialogue: 0,0:15:27.31,0:15:30.50,Main,Ysley,0,0,0,,and my neck broken, \NI thought I was a goner, too...
+Dialogue: 0,0:15:35.89,0:15:38.24,Main,Obami,0,0,0,,What's this? An earthquake?
+Dialogue: 0,0:15:38.24,0:15:43.49,Main,Ysley,0,0,0,,As for the third thing,\N that monster is strong.
+Dialogue: 0,0:15:43.50,0:15:44.20,Main,Ysley,0,0,0,,However...
+Dialogue: 0,0:15:48.00,0:15:51.33,Main,Hayato,0,0,0,,You think I'm gonna let that slide, \Nyou piece of shit?!
+Dialogue: 0,0:15:51.33,0:15:53.46,Main,Hayato,0,0,0,,Hope you're ready for payback a millionfold!
+Dialogue: 0,0:15:53.46,0:15:57.12,Main,Ysley,0,0,0,,Hayato, who has been training \Nwith Rin-san for 80 years,
+Dialogue: 0,0:15:57.12,0:15:58.76,Main,Ysley,0,0,0,,should have no problem fighting him.
+Dialogue: 0,0:15:59.47,0:16:01.48,Main,Hayato,0,0,0,,Eat this!
+Dialogue: 0,0:16:10.98,0:16:11.87,Main,Hayato,0,0,0,,Hey.
+Dialogue: 0,0:16:13.23,0:16:17.03,Main,Hayato,0,0,0,,You left your body wide open,\N you beefy dumbass!
+Dialogue: 0,0:16:27.00,0:16:29.21,Main,Ysley,0,0,0,,Nice! Get him, Hayato!
+Dialogue: 0,0:16:36.03,0:16:38.92,Main,Obami,0,0,0,,He's nothing like the one in glasses.
+Dialogue: 0,0:16:38.92,0:16:41.69,Main,Obami,0,0,0,,This doesn't look good...
+Dialogue: 0,0:17:04.20,0:17:07.42,Main,Hayato,0,0,0,,Okay! On your feet, big boy!
+Dialogue: 0,0:17:07.42,0:17:09.58,Main,Hayato,0,0,0,,This time, I'm blowing your head clean off—
+Dialogue: 0,0:17:13.14,0:17:14.98,Main,Hayato,0,0,0,,What? Is he dead?
+Dialogue: 0,0:17:22.09,0:17:23.59,Italics,Ysley,0,0,0,,He {\i0}is{\i1} dead...
+Dialogue: 0,0:17:24.20,0:17:29.35,Italics,Ysley,0,0,0,,Immediate death following destructive \Norgan trauma is a trait of organisms.
+Dialogue: 0,0:17:29.97,0:17:33.85,Italics,Ysley,0,0,0,,Meaning demons are closer \Nto living creatures than us Idaten...
+Dialogue: 0,0:17:37.57,0:17:40.23,Main,Obami,0,0,0,,I wasn't able to retrieve Gyudo-kun,
+Dialogue: 0,0:17:40.23,0:17:43.82,Main,Obami,0,0,0,,but I've obtained data that more \Nthan makes up for that loss.
+Dialogue: 0,0:17:44.15,0:17:46.57,Italics,Obami,0,0,0,,Now, you'll have to excuse \Nme as I make my exit.
+Dialogue: 0,0:17:46.91,0:17:50.51,Italics,Obami,0,0,0,,Farewell to you, new generation of Idaten!
+Dialogue: 0,0:17:52.53,0:17:53.41,Main,Ysley,0,0,0,,That's...
+Dialogue: 0,0:17:53.41,0:17:55.22,Main,Ysley,0,0,0,,the new high-speed VTOL fighter jet
+Dialogue: 0,0:17:55.30,0:17:57.73,Main,Ysley,0,0,0,,that can maintain a cruising speed of Mach 2!
+Dialogue: 0,0:17:59.17,0:18:01.67,Main,Ysley,0,0,0,,Although, that said...
+Dialogue: 0,0:18:02.31,0:18:04.09,Main,Obami,0,0,0,,Wh-What... What was that?
+Dialogue: 0,0:18:04.09,0:18:04.80,Main,Hayato,0,0,0,,Yo.
+Dialogue: 0,0:18:04.80,0:18:06.09,Main,Obami,0,0,0,,Yo, {\i1}what{\i0}?!
+Dialogue: 0,0:18:06.09,0:18:09.10,Main,Ysley,0,0,0,,It can't escape Hayato.
+Dialogue: 0,0:18:09.10,0:18:12.18,Main,Hayato,0,0,0,,All right, Gramps, quit panicking.
+Dialogue: 0,0:18:12.18,0:18:14.56,Main,Hayato,0,0,0,,Let's land this thing and have a little chat.
+Dialogue: 0,0:18:15.09,0:18:16.19,Main,Hayato,0,0,0,,Here we go...
+Dialogue: 0,0:18:16.19,0:18:18.69,Main,Obami,0,0,0,,S-Stop! Don't do anything drastic!
+Dialogue: 0,0:18:25.64,0:18:28.06,Main,Hayato,0,0,0,,Wait, humans die from falls, right?
+Dialogue: 0,0:18:29.11,0:18:31.08,Main,Hayato,0,0,0,,Did I do that wrong?
+Dialogue: 0,0:18:33.72,0:18:35.91,Main,Hayato,0,0,0,,Hey, Gramps?
+Dialogue: 0,0:18:35.91,0:18:37.57,Main,Hayato,0,0,0,,You still alive?
+Dialogue: 0,0:18:42.24,0:18:46.80,Main,Paula,0,0,0,,Say, Ysley, how long are you \Ngoing to study that dead monster?
+Dialogue: 0,0:18:48.39,0:18:50.08,Main,Paula,0,0,0,,Huh? Ysley?
+Dialogue: 0,0:18:50.95,0:18:53.06,Main,Paula,0,0,0,,The monster's body is gone, too...
+Dialogue: 0,0:18:53.89,0:18:56.67,Main,Ysley,0,0,0,,Yes, that's right. A dead monster specimen.
+Dialogue: 0,0:18:56.99,0:18:58.81,Main,Ysley,0,0,0,,Retrieve it as quickly as possible, please.
+Dialogue: 0,0:18:59.30,0:19:01.63,Main,Ysley,0,0,0,,It's near where we first found it.
+Dialogue: 0,0:19:01.63,0:19:04.78,Main,Ysley,0,0,0,,I'll send the specific \Ncoordinates in a moment.
+Dialogue: 0,0:19:05.18,0:19:07.03,Main,Ysley,0,0,0,,Listen, you need to hurry.
+Dialogue: 0,0:19:07.96,0:19:10.03,Main,Ysley,0,0,0,,Don't let Zoble get it first.
+Dialogue: 0,0:19:12.03,0:19:15.04,Main,Obami,0,0,0,,Damn you, boy...
+Dialogue: 0,0:19:15.04,0:19:17.04,Main,Obami,0,0,0,,I can't believe you wrecked it!
+Dialogue: 0,0:19:17.04,0:19:20.16,Main,Obami,0,0,0,,Do you realize how much of a pain\N it is to fix these bodies?!
+Dialogue: 0,0:19:20.16,0:19:25.27,Main,Obami,0,0,0,,{\an8}You doof! Dunce! Dumb-dumb! \NStupid, stupid stupidhead!
+Dialogue: 0,0:19:21.42,0:19:24.12,Main,Hayato,0,0,0,,So you're a robot, Gramps?
+Dialogue: 0,0:19:24.12,0:19:29.68,Main,Hayato,0,0,0,,Man, Ysley is gonna have a lot \Nof fun taking you apart.
+Dialogue: 0,0:19:25.27,0:19:27.54,Main,Obami,0,0,0,,{\an8}Big old stupid stupidhead!
+Dialogue: 0,0:19:30.59,0:19:32.95,Main,Obami,0,0,0,,You think this is a game, boy?!
+Dialogue: 0,0:19:32.95,0:19:35.82,Main,Obami,0,0,0,,Try this on for size! The device all men \Ndream about making use of...
+Dialogue: 0,0:19:33.68,0:19:37.94,Main,Sign,0,0,0,,{\frz-12\fax-.05\fnArial\bord0\pos(368.572,45.714)\fs20\b1\c&H2B2D23&\4c&H594E51&\shad1\3c&H242819&}Self-Destruct
+Dialogue: 0,0:19:35.82,0:19:37.00,Main,Obami,0,0,0,,A self-destruct switch!
+Dialogue: 0,0:19:37.00,0:19:37.94,Main,Obami,0,0,0,,And a-boop!
+Dialogue: 0,0:19:43.50,0:19:45.65,Main,Hayato,0,0,0,,Damn, guess he's a goner...
+Dialogue: 0,0:20:04.96,0:20:07.42,Main,Troop A,0,0,0,,Well, we're in for a treat.
+Dialogue: 0,0:20:07.42,0:20:09.22,Main,Troop B,0,0,0,,She sure doesn't look like an old lady...
+Dialogue: 0,0:20:10.08,0:20:12.52,Main,Gill,0,0,0,,What are you men thinking?!
+Dialogue: 0,0:20:12.52,0:20:16.75,Main,Gill,0,0,0,,You must realize God will not \Nforgive this kind of pillaging!
+Dialogue: 0,0:20:17.75,0:20:21.02,Main,Gill,0,0,0,,When the world was on the \Nverge of destruction,
+Dialogue: 0,0:20:21.02,0:20:23.25,Main,Gill,0,0,0,,God the creator descended from Heaven
+Dialogue: 0,0:20:23.25,0:20:26.19,Main,Gill,0,0,0,,and brought salvation to \Nthe world and its people!
+Dialogue: 0,0:20:26.53,0:20:31.06,Main,Gill,0,0,0,,What you're doing is blasphemy \Nin the eyes of our merciful—
+Dialogue: 0,0:20:35.54,0:20:37.90,Main,Troop A,0,0,0,,God? What's that?
+Dialogue: 0,0:20:37.90,0:20:39.54,Main,Troop C,0,0,0,,Tissues work better than \Nblessings for sneezes!
+Dialogue: 0,0:20:39.54,0:20:42.28,Main,Troop B,0,0,0,,They've got other uses, too...
+Dialogue: 0,0:20:42.28,0:20:44.67,Main,Troop A,0,0,0,,Well, God, we're gonna help ourselves.
+Dialogue: 0,0:20:44.67,0:20:46.02,Main,Gill,0,0,0,,O Lord...
+Dialogue: 0,0:21:13.57,0:21:16.41,Italics,Gill,0,0,0,,Dear Lord, please...
+Dialogue: 0,0:21:17.21,0:21:21.30,Italics,Gill,0,0,0,,Please... grant us salvation...
+Dialogue: 0,0:21:22.22,0:21:23.49,Italics,Gill,0,0,0,,God!

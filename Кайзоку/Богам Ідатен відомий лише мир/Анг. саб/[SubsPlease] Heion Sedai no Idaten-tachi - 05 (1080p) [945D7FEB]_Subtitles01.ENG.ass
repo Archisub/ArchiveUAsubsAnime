@@ -1,0 +1,474 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Default - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback_Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: OP_ED,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,2,2,10,10,18,0
+Style: Show_Title,Trebuchet MS,48,&H002901D4,&H000000FF,&H00881C84,&H00000000,-1,-1,0,0,100,100,0,0,1,3,0,8,10,10,13,1
+Style: Caption base,Arial,20,&H00060A07,&H000000FF,&H00F1F5F2,&H00560954,-1,0,0,0,100,100,0,0,3,2,2,2,10,10,100,1
+Style: sign_4605_28__1_Peacetime,Comic Sans MS,24,&H00010077,&H000000FF,&H005DFFFA,&H005FFFFA,-1,0,0,0,100,100,0,0,1,0,0,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:11.57,0:00:15.28,Main,Cory,0,0,0,,Is the idea here that you can \Nbeat me by working together?
+Dialogue: 0,0:00:20.91,0:00:21.70,Main,Paula,0,0,0,,Hayato!
+Dialogue: 0,0:00:22.50,0:00:24.25,Main,Cory,0,0,0,,I'm gonna chew you up now!
+Dialogue: 0,0:00:24.25,0:00:25.79,Main,Paula,0,0,0,,Let go of Hayato!
+Dialogue: 0,0:00:26.35,0:00:28.54,Main,Cory,0,0,0,,Hey, whoa! Hold up! T-Time out!
+Dialogue: 0,0:00:29.55,0:00:32.17,Main,Paula,0,0,0,,Wait, can you not see in front of you?
+Dialogue: 0,0:00:32.17,0:00:34.09,Main,Paula,0,0,0,,Then even I can handle this!
+Dialogue: 0,0:00:37.69,0:00:40.44,Italics,Paula,0,0,0,,Huh? That worked really well for some reason.
+Dialogue: 0,0:00:48.71,0:00:54.60,Show_Title,,0,0,0,,{\fad(4409,938)\fscy140}The Idaten {\c&H21FCFB&}Dei{\c&H2601D4&}ties\N{\fs24\c&H19F7D8&\i0\3c&H3E679B&\fscy100}\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hKn{\c&HD6E1F9&}ow {\c&H19F7D8&}On{\c&HD6E1F9&}ly {\c&H19F7D8&}Pe{\c&HD6E1F9&}ac{\c&H19F7D8&}e
+Dialogue: 0,0:02:10.08,0:02:10.98,Show_Title,,0,0,0,,{\3c&H6C171A&}The Idaten {\c&H21FCFB&}Dei{\c&H2601D4&}ties\N{\c&H3FCC78&\fs24\i0\fscy100}\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hKn{\c&HC29AE7&}ow {\c&H3FCC78&}On{\c&HC29AE7&}ly {\c&H3FCC78&}Pe{\c&HC29AE7&}ac{\c&H3FCC78&}e
+Dialogue: 0,0:02:15.18,0:02:17.44,Main,Cory,0,0,0,,Wh-What is wrong with you?!
+Dialogue: 0,0:02:18.45,0:02:19.74,Main,Hayato,0,0,0,,No one cares!
+Dialogue: 0,0:02:19.74,0:02:20.94,Main,Hayato,0,0,0,,Now die!
+Dialogue: 0,0:02:23.10,0:02:24.70,Main,Prontea,0,0,0,,Looks like a pretty even fight.
+Dialogue: 0,0:02:28.19,0:02:30.29,Main,Prontea,0,0,0,,Now then, my demon friend...
+Dialogue: 0,0:02:30.52,0:02:33.78,Main,Prontea,0,0,0,,You know how you're not supposed \Nto look at the sun with a telescope
+Dialogue: 0,0:02:33.78,0:02:35.46,Main,Prontea,0,0,0,,or a magnifying glass?
+Dialogue: 0,0:02:36.32,0:02:40.05,Main,Prontea,0,0,0,,I never did understand {\i1}why{\i0} they say that.
+Dialogue: 0,0:02:42.73,0:02:45.10,Main,Piscalat,0,0,0,,Damn it, of all the stupid tricks...
+Dialogue: 0,0:02:45.68,0:02:48.82,Italics,Ysley,0,0,0,,The flash grenade seems effective enough.
+Dialogue: 0,0:02:49.37,0:02:51.60,Italics,Ysley,0,0,0,,She's blocked off the exit...
+Dialogue: 0,0:02:52.21,0:02:56.15,Main,Ysley,0,0,0,,Now then, it's going to take a second\N for you to recover your vision...
+Dialogue: 0,0:02:56.15,0:02:58.15,Main,Ysley,0,0,0,,Why don't we chat a bit?
+Dialogue: 0,0:02:59.61,0:03:02.84,Main,Ysley,0,0,0,,General Piscalat, you're rather sharp.
+Dialogue: 0,0:03:03.23,0:03:05.20,Main,Ysley,0,0,0,,The fact that you were thorough enough
+Dialogue: 0,0:03:05.20,0:03:08.94,Main,Ysley,0,0,0,,to lure a weak opponent like me\Ninto such a vulnerable position...
+Dialogue: 0,0:03:08.94,0:03:12.75,Main,Ysley,0,0,0,,It's proof of how well you \Nunderstand the position you're in.
+Dialogue: 0,0:03:13.47,0:03:17.84,Main,Ysley,0,0,0,,You appreciate that demonkind has next \Nto no chance of winning this conflict.
+Dialogue: 0,0:03:18.99,0:03:21.21,Main,Ysley,0,0,0,,I know what your goal is.
+Dialogue: 0,0:03:21.66,0:03:24.62,Main,Ysley,0,0,0,,You intend to eliminate the three \Nof us, who are still immature,
+Dialogue: 0,0:03:24.62,0:03:27.12,Main,Ysley,0,0,0,,and then figure out a way\N to deal with Rin-san
+Dialogue: 0,0:03:27.12,0:03:29.09,Main,Ysley,0,0,0,,once you've taken appropriate precautions.
+Dialogue: 0,0:03:29.09,0:03:30.50,Main,Ysley,0,0,0,,Does that about cover it?
+Dialogue: 0,0:03:32.31,0:03:35.23,Main,Piscalat,0,0,0,,Speculate about dream scenarios all you want,
+Dialogue: 0,0:03:35.57,0:03:39.36,Main,Piscalat,0,0,0,,but you're all going to die today.\N It's that simple.
+Dialogue: 0,0:03:39.36,0:03:42.36,Main,Ysley,0,0,0,,I'll concede that my death\N isn't out of the question.
+Dialogue: 0,0:03:42.72,0:03:45.44,Main,Ysley,0,0,0,,But the demons you sent after my friends
+Dialogue: 0,0:03:45.44,0:03:47.53,Main,Ysley,0,0,0,,will all die by Prontea-san's hand.
+Dialogue: 0,0:04:05.32,0:04:08.04,Main,Prontea,0,0,0,,That's your full power, then?
+Dialogue: 0,0:04:09.53,0:04:11.45,Main,Prontea,0,0,0,,I think I've gotten a good grasp of it.
+Dialogue: 0,0:04:11.80,0:04:13.83,Main,Prontea,0,0,0,,And now it's my turn!
+Dialogue: 0,0:04:20.41,0:04:23.94,Main,Prontea,0,0,0,,In the end, it seems straight-up punching \Nthem is the most powerful after all.
+Dialogue: 0,0:04:26.52,0:04:29.87,Main,Ysley,0,0,0,,Rin-san isn't the only Idaten \Ncapable of defeating demons.
+Dialogue: 0,0:04:29.87,0:04:32.91,Main,Ysley,0,0,0,,I'm afraid you all are the ones \Nspeculating about dream scenarios.
+Dialogue: 0,0:04:34.12,0:04:36.53,Main,Ysley,0,0,0,,You don't seem to realize that \Ndemons only posed a threat before
+Dialogue: 0,0:04:36.53,0:04:40.46,Main,Ysley,0,0,0,,because tens of thousands of you\Nwent on a mindless, frenzied rampage.
+Dialogue: 0,0:04:41.07,0:04:42.68,Main,Piscalat,0,0,0,,I don't see your point.
+Dialogue: 0,0:04:42.68,0:04:45.36,Main,Piscalat,0,0,0,,And whatever it is,\N you're still going to die.
+Dialogue: 0,0:04:45.36,0:04:48.49,Italics,Piscalat,0,0,0,,Idiot. Keep running your mouth.
+Dialogue: 0,0:04:49.03,0:04:50.74,Main,Ysley,0,0,0,,Are you sure about that?
+Dialogue: 0,0:04:50.74,0:04:54.36,Main,Ysley,0,0,0,,If I can escape from this room, \NI can contact Prontea-san.
+Dialogue: 0,0:04:54.68,0:04:56.52,Main,Ysley,0,0,0,,That will ensure {\i1}you{\i0} die.
+Dialogue: 0,0:04:56.52,0:05:01.23,Italics,Piscalat,0,0,0,,I'm sure it would. \NJust keep talking, scum.
+Dialogue: 0,0:05:01.23,0:05:07.16,Main,Ysley,0,0,0,,There's one other thing to consider:\Nintelligence can sometimes be a hindrance.
+Dialogue: 0,0:05:09.51,0:05:11.29,Italics,Piscalat,0,0,0,,He can't be stupid enough \Nto think that'll work again!
+Dialogue: 0,0:05:16.09,0:05:20.96,Main,Piscalat,0,0,0,,What were you trying to do? \NDid you really think that would damage me?
+Dialogue: 0,0:05:21.59,0:05:25.53,Main,Ysley,0,0,0,,I guess not. All I could manage \Nwas to rip your clothes.
+Dialogue: 0,0:05:26.28,0:05:29.35,Main,Ysley,0,0,0,,And I have to say, you have a fantastic rack.
+Dialogue: 0,0:05:33.10,0:05:35.76,Main,Piscalat,0,0,0,,Y-Y-Y-You bastard!
+Dialogue: 0,0:05:35.76,0:05:38.83,Main,Ysley,0,0,0,,This is what I meant. You've restricted \Nyour movements, and for what?
+Dialogue: 0,0:05:38.83,0:05:40.27,Main,Ysley,0,0,0,,Some asinine notion of embarrassment?
+Dialogue: 0,0:05:40.27,0:05:42.91,Main,Ysley,0,0,0,,I'm fairly certain that \Ndemonkind's primary objective
+Dialogue: 0,0:05:42.91,0:05:45.51,Main,Ysley,0,0,0,,is to find a way to propagate the species,
+Dialogue: 0,0:05:45.51,0:05:46.90,Main,Ysley,0,0,0,,which made me realize something.
+Dialogue: 0,0:05:47.21,0:05:50.86,Main,Ysley,0,0,0,,Your elevated intelligence has resulted \Nin an elevated sense of pride,
+Dialogue: 0,0:05:50.86,0:05:52.41,Main,Ysley,0,0,0,,leading you astray\N from the goal of reproduction
+Dialogue: 0,0:05:52.41,0:05:55.51,Main,Ysley,0,0,0,,and giving rise to shame \Nat being stripped naked...
+Dialogue: 0,0:05:55.51,0:05:58.17,Main,Ysley,0,0,0,,Why, you're acting like \Na sweet little virgin.
+Dialogue: 0,0:05:59.26,0:06:01.46,Italics,Piscalat,0,0,0,,Y-You... You piece of shit!
+Dialogue: 0,0:06:01.46,0:06:03.96,Italics,Piscalat,0,0,0,,You're dead! I'm going to kill you!
+Dialogue: 0,0:06:03.96,0:06:06.65,Italics,Piscalat,0,0,0,,I swear I'll kill you!
+Dialogue: 0,0:06:07.29,0:06:08.13,Main,Piscalat,0,0,0,,Die!
+Dialogue: 0,0:06:09.83,0:06:10.39,Main,Piscalat,0,0,0,,What?!
+Dialogue: 0,0:06:11.98,0:06:14.11,Main,Yslsey,0,0,0,,I'm afraid that trick won't work.
+Dialogue: 0,0:06:14.11,0:06:18.39,Main,Yslsey,0,0,0,,The first demon that came \Nafter us already tried it.
+Dialogue: 0,0:06:19.13,0:06:20.34,Main,Piscalat,0,0,0,,Nickel...
+Dialogue: 0,0:06:21.98,0:06:24.03,Main,Piscalat,0,0,0,,Damn! What is he up to now?
+Dialogue: 0,0:06:28.49,0:06:32.43,Italics,Piscalat,0,0,0,,What is this? He's just standing there?\N And not doing anything?
+Dialogue: 0,0:06:32.84,0:06:34.43,Italics,Piscalat,0,0,0,,What's his game?
+Dialogue: 0,0:06:39.75,0:06:40.42,Italics,Piscalat,0,0,0,,Poison?!
+Dialogue: 0,0:06:40.90,0:06:46.12,Italics,Piscalat,0,0,0,,Don't tell me this is why he was rambling \Nall entire time?! But what's the point?
+Dialogue: 0,0:06:46.12,0:06:48.11,Italics,Piscalat,0,0,0,,Poison doesn't have any effect on...
+Dialogue: 0,0:06:51.50,0:06:52.73,Main,Ysley,0,0,0,,In pure demons,
+Dialogue: 0,0:06:52.73,0:06:55.10,Main,Ysley,0,0,0,,no substance causes a\Nphysiological reaction this quickly.
+Dialogue: 0,0:06:55.10,0:06:59.15,Main,Ysley,0,0,0,,But... you all have human brains.
+Dialogue: 0,0:06:59.85,0:07:03.54,Main,Ysley,0,0,0,,And while the human brain can \Nresist pain to some degree,
+Dialogue: 0,0:07:03.54,0:07:06.33,Main,Ysley,0,0,0,,it has no real defense against pleasure.
+Dialogue: 0,0:07:06.33,0:07:10.59,Main,Ysley,0,0,0,,Yes, this is a highly potent \Nnarcotic and aphrodisiac cocktail.
+Dialogue: 0,0:07:11.22,0:07:15.70,Main,Ysley,0,0,0,,If you had simply struck without hesitation \Nat the start, you could've killed me.
+Dialogue: 0,0:07:15.70,0:07:17.85,Main,Ysley,0,0,0,,But that streak of intelligence you have
+Dialogue: 0,0:07:17.85,0:07:20.99,Main,Ysley,0,0,0,,inspired fear of the risks involved,\N hesitation, and failure.
+Dialogue: 0,0:07:22.85,0:07:24.28,Main,Ysley,0,0,0,,I guess you're not listening anymore.
+Dialogue: 0,0:07:29.47,0:07:33.64,Italics,Prontea,0,0,0,,The enemy can't overcome Hayato's \Ndefenses and regenerative speed...
+Dialogue: 0,0:07:33.64,0:07:37.10,Italics,Prontea,0,0,0,,But Hayato's own attack power is lacking, eh?
+Dialogue: 0,0:07:33.64,0:07:37.64,Main,Hayato,0,0,0,,{\an8}Holy shit, you are gross-looking!
+Dialogue: 0,0:07:37.89,0:07:41.45,Italics,Prontea,0,0,0,,At this rate, Hayato-kun \Nwill win within a few hours.
+Dialogue: 0,0:07:41.86,0:07:44.35,Italics,Prontea,0,0,0,,But that'd be a bit too dull.
+Dialogue: 0,0:07:44.38,0:07:47.35,Italics,Prontea,0,0,0,,Let's try one last experiment.
+Dialogue: 0,0:07:48.69,0:07:50.64,Italics,Prontea,0,0,0,,Paula, can you hear me?
+Dialogue: 0,0:07:51.65,0:07:53.16,Main,Paula,0,0,0,,Prontea-san?
+Dialogue: 0,0:07:55.47,0:07:57.58,Italics,Prontea,0,0,0,,Try fighting with that sword.
+Dialogue: 0,0:07:57.58,0:08:02.85,Main,Prontea,0,0,0,,It's the same as what Master uses, \Nbut I can actually separate mine from my hand.
+Dialogue: 0,0:08:02.85,0:08:06.84,Main,Prontea,0,0,0,,Think of it as me lending you my strength.
+Dialogue: 0,0:08:06.84,0:08:09.17,Main,Paula,0,0,0,,O-Okay!
+Dialogue: 0,0:08:23.57,0:08:27.23,Main,Prontea,0,0,0,,It's like a character at the start \Nof the game getting end-game gear!
+Dialogue: 0,0:08:27.23,0:08:30.11,Italics,Prontea,0,0,0,,Paula, give it to Hayato.
+Dialogue: 0,0:08:30.11,0:08:31.48,Main,Paula,0,0,0,,Here, Hayato.
+Dialogue: 0,0:08:31.48,0:08:32.21,Main,Hayato,0,0,0,,Okay...
+Dialogue: 0,0:08:32.21,0:08:33.74,Main,Cory,0,0,0,,Wh-Whoa!
+Dialogue: 0,0:08:35.23,0:08:38.20,Main,Cory,0,0,0,,Whoa, wait a sec! \NI give up! I surrender! So stop!
+Dialogue: 0,0:08:38.20,0:08:40.81,Main,Cory,0,0,0,,I'm begging you, just don't kill me—
+Dialogue: 0,0:08:43.75,0:08:47.47,Main,Hayato,0,0,0,,Winning wouldn't feel right\Nif I had to use that to do it.
+Dialogue: 0,0:08:47.84,0:08:51.42,Main,Hayato,0,0,0,,Bring it. Let's settle this the normal way.
+Dialogue: 0,0:08:52.95,0:08:58.19,Main,Prontea,0,0,0,,So he's truly interested in getting stronger\N without using any cheats, huh?
+Dialogue: 0,0:08:58.64,0:09:03.60,Main,Piscalat,0,0,0,,What... are you going to do with me?
+Dialogue: 0,0:09:03.60,0:09:06.85,Main,Ysley,0,0,0,,Well, since I did manage \Nto capture you alive,
+Dialogue: 0,0:09:06.85,0:09:09.86,Main,Ysley,0,0,0,,I have a few things in mind \Nthat I'm bound to enjoy.
+Dialogue: 0,0:09:10.83,0:09:15.28,Main,Piscalat,0,0,0,,Don't! Just... kill me instead.
+Dialogue: 0,0:09:15.28,0:09:19.39,Main,Ysley,0,0,0,,I get the feeling you're imagining something \Nlascivious, but you don't need to worry.
+Dialogue: 0,0:09:20.22,0:09:23.29,Main,Ysley,0,0,0,,Although you might have \Npreferred that, considering...
+Dialogue: 0,0:09:24.19,0:09:25.71,Main,Ysley,0,0,0,,I'm a scientist.
+Dialogue: 0,0:09:26.25,0:09:28.73,Main,Ysley,0,0,0,,The bed I fool around on \Nis of a surgical nature.
+Dialogue: 0,0:09:28.73,0:09:31.25,Main,Ysley,0,0,0,,The only insertions I make \Ninvolve sharpened scalpels.
+Dialogue: 0,0:09:31.92,0:09:33.81,Main,Ysley,0,0,0,,Because I came into existence naturally,
+Dialogue: 0,0:09:33.81,0:09:37.01,Main,Ysley,0,0,0,,I didn't understand my nature \Nuntil I met Hayato...
+Dialogue: 0,0:09:38.34,0:09:41.56,Main,Ysley,0,0,0,,And before that happened, I dissected
+Dialogue: 0,0:09:41.56,0:09:45.23,Main,Ysley,0,0,0,,an innumerable number of humans \Nto understand what I was.
+Dialogue: 0,0:09:45.70,0:09:49.06,Main,Ysley,0,0,0,,I've got a knack for tweaking \Nthe human brain, you see.
+Dialogue: 0,0:09:49.06,0:09:52.96,sign_4605_28__1_Peacetime,Eptitle sign,0,0,0,,#5\NColor
+Dialogue: 0,0:09:56.67,0:09:59.26,Main,Monitor,0,0,0,,{\an8}First fleet is reporting \Nno changes with the target!
+Dialogue: 0,0:09:59.26,0:10:01.12,Main,Takeshita,0,0,0,,What do you think, Brandy?
+Dialogue: 0,0:09:59.59,0:10:01.74,Main,Monitor,0,0,0,,{\an8}Second fleet is reporting \Nno changes with the target!
+Dialogue: 0,0:10:01.12,0:10:05.33,Main,Brandy,0,0,0,,She's not budging, that's for sure. \NIt's getting boring to watch.
+Dialogue: 0,0:10:02.17,0:10:04.56,Main,Monitor,0,0,0,,{\an8}Third fleet is reporting \Nno changes with the target!
+Dialogue: 0,0:10:05.08,0:10:06.62,Main,Monitor,0,0,0,,{\an8}
+Dialogue: 0,0:10:05.33,0:10:08.82,Main,Takeshita,0,0,0,,Maybe I'll have Miku take a look instead.
+Dialogue: 0,0:10:08.82,0:10:10.17,Main,Brandy,0,0,0,,Miku?
+Dialogue: 0,0:10:10.49,0:10:17.30,Main,Miku,0,0,0,,Wow, you're still looking feisty after \Nwhat those soldiers did to you, huh?
+Dialogue: 0,0:10:17.30,0:10:19.67,Main,Gill,0,0,0,,I will not be shamed into submission!
+Dialogue: 0,0:10:19.67,0:10:22.51,Main,Gill,0,0,0,,But you people need to stop \Nthis travesty before—
+Dialogue: 0,0:10:23.08,0:10:25.27,Main,Gill,0,0,0,,What are you... Stop it!
+Dialogue: 0,0:10:26.48,0:10:29.87,Main,Miku,0,0,0,,I can tell you won't submit to violence.
+Dialogue: 0,0:10:29.87,0:10:31.87,Main,Miku,0,0,0,,You've got a strong heart, \None that held up in spite
+Dialogue: 0,0:10:31.87,0:10:33.98,Main,Miku,0,0,0,,of how you were humiliated for days on end.
+Dialogue: 0,0:10:34.68,0:10:37.69,Main,Miku,0,0,0,,But I'm pretty sure that \Ntwice yesterday... you know?
+Dialogue: 0,0:10:37.69,0:10:39.11,Main,Gill,0,0,0,,N-No!
+Dialogue: 0,0:10:40.16,0:10:42.58,Main,Miku,0,0,0,,You're afraid...
+Dialogue: 0,0:10:42.58,0:10:47.12,Main,Miku,0,0,0,,Deathly afraid ever since you \Nfelt the first twinge of pleasure!
+Dialogue: 0,0:10:48.12,0:10:50.79,Main,Miku,0,0,0,,You're scared that even though you can \Nwithstand any amount of suffering,
+Dialogue: 0,0:10:50.79,0:10:54.88,Main,Miku,0,0,0,,ecstasy might be what finally \Ngets you to give in!
+Dialogue: 0,0:10:54.88,0:10:58.61,Main,Gill,0,0,0,,Stop it! Just stop!
+Dialogue: 0,0:10:56.76,0:10:58.61,Main,Miku,0,0,0,,Okay. I will.
+Dialogue: 0,0:11:00.72,0:11:02.01,Main,Miku,0,0,0,,I stopped.
+Dialogue: 0,0:11:04.08,0:11:07.22,Main,Miku,0,0,0,,"You didn't have to stop right away."
+Dialogue: 0,0:11:04.08,0:11:07.22,Italics,Gill(internally),0,0,0,,{\an8}You didn't have to stop right away...
+Dialogue: 0,0:11:09.02,0:11:12.41,Italics,Gill(internally),0,0,0,,Y-You're wrong!
+Dialogue: 0,0:11:13.90,0:11:17.18,Main,Brandy,0,0,0,,Miku, could you come with me\N to the monitor room?
+Dialogue: 0,0:11:17.18,0:11:21.07,Main,Miku,0,0,0,,Brandy? C'mon, things were\N finally getting good.
+Dialogue: 0,0:11:21.07,0:11:22.27,Main,Miku,0,0,0,,What about her training?
+Dialogue: 0,0:11:22.66,0:11:26.55,Main,Miku,0,0,0,,I was going to have her eyes rolling around \Nin her head from consecutive climaxes!
+Dialogue: 0,0:11:26.55,0:11:29.41,Main,Brandy,0,0,0,,Well, your plans are canceled, \Nso get a move on!
+Dialogue: 0,0:11:30.13,0:11:31.45,Main,Miku,0,0,0,,'Kay...
+Dialogue: 0,0:11:32.75,0:11:35.38,Main,Brandy,0,0,0,,You were lucky this time.
+Dialogue: 0,0:11:35.38,0:11:37.13,Main,Gill,0,0,0,,Empress Brandy!
+Dialogue: 0,0:11:37.13,0:11:40.88,Main,Gill,0,0,0,,Your nation treats people like toys!
+Dialogue: 0,0:11:40.88,0:11:43.14,Main,Gill,0,0,0,,You will suffer divine punishment for this!
+Dialogue: 0,0:11:43.14,0:11:45.27,Main,Gill,0,0,0,,Have you no fear of God?!
+Dialogue: 0,0:11:48.00,0:11:51.15,Main,Brandy,0,0,0,,God, huh? That's certainly a scary prospect.
+Dialogue: 0,0:11:51.98,0:11:54.96,Main,Brandy,0,0,0,,I wasn't expecting them to be on that level.
+Dialogue: 0,0:11:56.70,0:11:59.03,Main,Gill,0,0,0,,What exactly do you mean...?
+Dialogue: 0,0:11:59.03,0:12:00.39,Main,Brandy,0,0,0,,Good question.
+Dialogue: 0,0:12:00.83,0:12:05.78,Main,Brandy,0,0,0,,If you really think you serve a god, \Nmaybe you should ask one yourself?
+Dialogue: 0,0:12:20.67,0:12:24.43,Main,Hayato,0,0,0,,Already worn out? Looks like I win, then.
+Dialogue: 0,0:12:25.93,0:12:27.68,Main,Cory,0,0,0,,Damn it...
+Dialogue: 0,0:12:27.68,0:12:31.13,Main,Prontea,0,0,0,,Six hours, huh? That was \Nfaster than I expected.
+Dialogue: 0,0:12:31.81,0:12:33.06,Main,Prontea,0,0,0,,Okay, got it.
+Dialogue: 0,0:12:33.59,0:12:36.06,Main,Piscalat,0,0,0,,Welcome, Neput, Cory.
+Dialogue: 0,0:12:36.06,0:12:39.45,Main,Piscalat,0,0,0,,The two of you will also \Nbe undergoing Ysley-sama's
+Dialogue: 0,0:12:39.45,0:12:42.57,Main,Piscalat,0,0,0,,wonderful brainwashing surgery to join me!
+Dialogue: 0,0:12:42.59,0:12:44.32,Main,Sign,0,0,0,,{\pos(328,38.667)\fnArial\b1\fs16\c&HAD947E&\3c&H030081&\4c&H231044&}Surgery
+Dialogue: 0,0:12:45.58,0:12:47.66,Main,Neput,0,0,0,,{\an8}Somebody help!
+Dialogue: 0,0:12:45.58,0:12:50.06,Main,Cory,0,0,0,,No! Don't touch me! Not there!
+Dialogue: 0,0:12:48.34,0:12:51.70,Main,Sign,0,0,0,,{\pos(314,68.667)\fnTimes New Roman\b1\c&H040C00&\3c&H983F8D&\4c&H983F8D&\bord1}Demon Trio
+Dialogue: 0,0:12:49.51,0:12:51.70,Main,Sign,0,0,0,,{\fad(1000,1)\fnTimes New Roman\b1\fs30\c&H0000E5&\3c&H000412&\4c&H000412&\bord2\shad3\pos(310.667,216)}ELIMINATED
+Dialogue: 0,0:12:53.71,0:12:55.81,Main,Pete,0,0,0,,No changes on any of the monitors.
+Dialogue: 0,0:12:53.71,0:12:57.71,Caption base,Sign,0,0,0,,{\pos(124.667,79.333)}Rookie Seaman\NPete (Human)
+Dialogue: 0,0:12:55.81,0:12:57.71,Main,Pete,0,0,0,,The target hasn't moved.
+Dialogue: 0,0:12:57.71,0:13:00.60,Main,Miku,0,0,0,,Hi! You called?
+Dialogue: 0,0:13:00.60,0:13:03.14,Main,Takeshita,0,0,0,,Miku, what's your take on this situation?
+Dialogue: 0,0:13:03.47,0:13:07.55,Main,Miku,0,0,0,,I'm glad you asked! It's nice to have \Na couple of young ones around, y'know?
+Dialogue: 0,0:13:07.55,0:13:09.51,Main,Miku,0,0,0,,How old are you, anyway?
+Dialogue: 0,0:13:10.85,0:13:12.22,Main,Pete,0,0,0,,Hey!
+Dialogue: 0,0:13:13.85,0:13:16.59,Main,Takeshita,0,0,0,,Let me ask you again.\NWhat do you think, Miku?
+Dialogue: 0,0:13:17.57,0:13:20.10,Main,Miku,0,0,0,,I'll need to watch a bit longer.
+Dialogue: 0,0:13:20.61,0:13:23.82,Italics,Pete,0,0,0,,I'm amazed she can screw around like \Nthat in front of the emperor...
+Dialogue: 0,0:13:23.82,0:13:26.08,Italics,Pete,0,0,0,,But why did they bring in the trainer?
+Dialogue: 0,0:13:28.38,0:13:30.28,Main,Ysley,0,0,0,,Okay, they're ready!
+Dialogue: 0,0:13:32.79,0:13:35.62,Main,Piscalat,0,0,0,,A-Are they going to be okay?
+Dialogue: 0,0:13:35.62,0:13:38.57,Main,Ysley,0,0,0,,Oh, they'll settle down in a bit. \NDon't you worry.
+Dialogue: 0,0:13:39.69,0:13:41.82,Main,Prontea,0,0,0,,So, why don't you tell us all about
+Dialogue: 0,0:13:41.82,0:13:45.13,Main,Prontea,0,0,0,,the remaining demons and \Nwhat they're doing in Zoble?
+Dialogue: 0,0:13:45.76,0:13:47.41,Main,Piscalat,0,0,0,,Right. Very well.
+Dialogue: 0,0:13:48.80,0:13:50.38,Main,Piscalat,0,0,0,,There are 359 of us left.
+Dialogue: 0,0:13:49.11,0:13:49.59,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\pos(117.143,58.571)\shad0\c&H351AA6&\3c&HECF7FC&}Fast Forward Explanation in Progress
+Dialogue: 0,0:13:50.12,0:13:50.60,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\pos(117.143,58.571)\shad0\c&H351AA6&\3c&HECF7FC&}Fast Forward Explanation in Progress
+Dialogue: 0,0:13:50.38,0:13:51.57,Main,,0,0,0,,Among them, only three pose an actual threat:
+Dialogue: 0,0:13:51.12,0:13:51.60,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\pos(117.143,58.571)\shad0\c&H351AA6&\3c&HECF7FC&}Fast Forward Explanation in Progress
+Dialogue: 0,0:13:51.57,0:13:54.05,Main,,0,0,0,,Empress Brandy, Emperor Takeshita,\N and Umeyo the midwife.
+Dialogue: 0,0:13:52.12,0:13:52.60,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\pos(117.143,58.571)\shad0\c&H351AA6&\3c&HECF7FC&}Fast Forward Explanation in Progress
+Dialogue: 0,0:13:53.12,0:13:53.60,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\pos(117.143,58.571)\shad0\c&H351AA6&\3c&HECF7FC&}Fast Forward Explanation in Progress
+Dialogue: 0,0:13:54.05,0:13:55.74,Main,,0,0,0,,The three of them are stronger \Nthan Neput or myself.
+Dialogue: 0,0:13:54.12,0:13:54.60,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\pos(117.143,58.571)\shad0\c&H351AA6&\3c&HECF7FC&}Fast Forward Explanation in Progress
+Dialogue: 0,0:13:55.12,0:13:55.60,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\pos(117.143,58.571)\shad0\c&H351AA6&\3c&HECF7FC&}Fast Forward Explanation in Progress
+Dialogue: 0,0:13:55.74,0:13:56.85,Main,,0,0,0,,Brandy is particularly powerful.
+Dialogue: 0,0:13:56.12,0:13:56.60,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\pos(117.143,58.571)\shad0\c&H351AA6&\3c&HECF7FC&}Fast Forward Explanation in Progress
+Dialogue: 0,0:13:56.85,0:13:57.53,Main,,0,0,0,,Umeyo is dangerous
+Dialogue: 0,0:13:57.12,0:13:57.60,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\pos(117.143,58.571)\shad0\c&H351AA6&\3c&HECF7FC&}Fast Forward Explanation in Progress
+Dialogue: 0,0:13:57.53,0:13:59.52,Main,,0,0,0,,because she can act as an\N incubator for newly born demons.
+Dialogue: 0,0:13:58.12,0:13:58.60,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\pos(117.143,58.571)\shad0\c&H351AA6&\3c&HECF7FC&}Fast Forward Explanation in Progress
+Dialogue: 0,0:13:59.12,0:13:59.60,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\pos(117.143,58.571)\shad0\c&H351AA6&\3c&HECF7FC&}Fast Forward Explanation in Progress
+Dialogue: 0,0:13:59.52,0:14:00.36,Main,,0,0,0,,She can also take in humans.
+Dialogue: 0,0:14:00.13,0:14:00.61,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\pos(117.143,58.571)\shad0\c&H351AA6&\3c&HECF7FC&}Fast Forward Explanation in Progress
+Dialogue: 0,0:14:00.36,0:14:01.63,Main,,0,0,0,,The human and demon then fuse within her,
+Dialogue: 0,0:14:01.13,0:14:01.61,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\pos(117.143,58.571)\shad0\c&H351AA6&\3c&HECF7FC&}Fast Forward Explanation in Progress
+Dialogue: 0,0:14:01.63,0:14:02.67,Main,,0,0,0,,creating a demon with a human's \Nform and intelligence.
+Dialogue: 0,0:14:02.13,0:14:02.61,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\pos(117.143,58.571)\shad0\c&H351AA6&\3c&HECF7FC&}Fast Forward Explanation in Progress
+Dialogue: 0,0:14:02.67,0:14:04.71,Main,,0,0,0,,The reason Zoble abducts \Nand reeducates women is to that end.
+Dialogue: 0,0:14:03.13,0:14:03.61,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\pos(117.143,58.571)\shad0\c&H351AA6&\3c&HECF7FC&}Fast Forward Explanation in Progress
+Dialogue: 0,0:14:04.71,0:14:06.14,Main,,0,0,0,,Soldiers were simply allowed \Nto assault women at first,
+Dialogue: 0,0:14:05.13,0:14:05.61,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\pos(117.143,58.571)\shad0\c&H351AA6&\3c&HECF7FC&}Fast Forward Explanation in Progress
+Dialogue: 0,0:14:06.13,0:14:06.61,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\pos(117.143,58.571)\shad0\c&H351AA6&\3c&HECF7FC&}Fast Forward Explanation in Progress
+Dialogue: 0,0:14:06.14,0:14:07.73,Main,,0,0,0,,but that often resulted in women\N being killed, or killing themselves,
+Dialogue: 0,0:14:07.13,0:14:07.61,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\pos(117.143,58.571)\shad0\c&H351AA6&\3c&HECF7FC&}Fast Forward Explanation in Progress
+Dialogue: 0,0:14:07.73,0:14:09.38,Main,,0,0,0,,afterward instead of having children.\N It thus served no purpose.
+Dialogue: 0,0:14:08.13,0:14:08.61,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\pos(117.143,58.571)\shad0\c&H351AA6&\3c&HECF7FC&}Fast Forward Explanation in Progress
+Dialogue: 0,0:14:09.13,0:14:09.61,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\pos(117.143,58.571)\shad0\c&H351AA6&\3c&HECF7FC&}Fast Forward Explanation in Progress
+Dialogue: 0,0:14:09.38,0:14:11.20,Main,,0,0,0,,Now that kind of thing is only \Nallowed on active battlefields.
+Dialogue: 0,0:14:10.14,0:14:10.62,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\pos(117.143,58.571)\shad0\c&H351AA6&\3c&HECF7FC&}Fast Forward Explanation in Progress
+Dialogue: 0,0:14:11.14,0:14:11.62,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\pos(117.143,58.571)\shad0\c&H351AA6&\3c&HECF7FC&}Fast Forward Explanation in Progress
+Dialogue: 0,0:14:11.20,0:14:12.66,Main,,0,0,0,,So much that soldiers who \Nvolunteer for front-line duty
+Dialogue: 0,0:14:12.14,0:14:12.62,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\pos(117.143,58.571)\shad0\c&H351AA6&\3c&HECF7FC&}Fast Forward Explanation in Progress
+Dialogue: 0,0:14:12.66,0:14:14.12,Main,,0,0,0,,typically do so with that in mind...
+Dialogue: 0,0:14:13.14,0:14:13.64,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\pos(117.143,58.571)\shad0\c&H351AA6&\3c&HECF7FC&}Fast Forward Explanation in Progress
+Dialogue: 0,0:14:16.47,0:14:17.61,Main,Paula,0,0,0,,What's wrong?
+Dialogue: 0,0:14:17.61,0:14:23.77,Main,Piscalat,0,0,0,,Er, I just thought you'd be\Na bit disgusted after hearing that...
+Dialogue: 0,0:14:23.77,0:14:25.59,Main,Piscalat,0,0,0,,But you don't seem to mind at all.
+Dialogue: 0,0:14:25.95,0:14:28.62,Main,Piscalat,0,0,0,,I thought the Idaten were \Nsupposed to protect humans.
+Dialogue: 0,0:14:29.72,0:14:31.98,Main,Prontea,0,0,0,,Well, we're on their side,
+Dialogue: 0,0:14:31.98,0:14:36.10,Main,Prontea,0,0,0,,but we're also pretty ambivalent when it \Ncomes to their notions of rights and ethics.
+Dialogue: 0,0:14:36.10,0:14:38.81,Main,Neput,0,0,0,,Doesn't that mean you've won, though?
+Dialogue: 0,0:14:38.81,0:14:40.31,Main,Neput,0,0,0,,Couldn't Long-Locks here
+Dialogue: 0,0:14:40.31,0:14:45.61,Main,Neput,0,0,0,,and that monster on the island team up\N and just kill everyone in Zoble?
+Dialogue: 0,0:14:45.61,0:14:48.49,Main,Ysley,0,0,0,,No, destroying Zoble \Nwithout some sort of plan
+Dialogue: 0,0:14:48.49,0:14:50.57,Main,Ysley,0,0,0,,could throw human society into chaos.
+Dialogue: 0,0:14:51.01,0:14:53.58,Main,Ysley,0,0,0,,A war between Hotaena and \NSarabael would be trouble.
+Dialogue: 0,0:14:54.55,0:14:58.04,Main,Ysley,0,0,0,,Regardless, I'll manage something \Nas far as the humans go.
+Dialogue: 0,0:14:58.73,0:15:02.65,Main,Ysley,0,0,0,,I want the three of you to \Nact as though you've killed us
+Dialogue: 0,0:15:02.65,0:15:04.13,Main,Ysley,0,0,0,,and return to Zoble as spies.
+Dialogue: 0,0:15:04.91,0:15:06.57,Main,Piscalat,0,0,0,,I'm afraid that won't work.
+Dialogue: 0,0:15:07.31,0:15:11.14,Main,Hayato,0,0,0,,Why not? They tell you \Nto bring back our bodies?
+Dialogue: 0,0:15:11.14,0:15:12.98,Main,Piscalat,0,0,0,,There is that...
+Dialogue: 0,0:15:13.53,0:15:15.76,Main,Piscalat,0,0,0,,But the main issue is that \NMiku is still in Zoble.
+Dialogue: 0,0:15:15.76,0:15:18.17,Main,Piscalat,0,0,0,,She's a threat of a different variety.
+Dialogue: 0,0:15:19.14,0:15:24.33,Main,Miku,0,0,0,,Hey, could you have the sixth fleet move\N 15 kilometers back from the coast?
+Dialogue: 0,0:15:24.33,0:15:27.53,Main,Miku,0,0,0,,And then have the first through \Nfifth fleets move closer by two clicks?
+Dialogue: 0,0:15:28.03,0:15:31.03,Main,Takeshita,0,0,0,,Miku, what's that going to accomplish?
+Dialogue: 0,0:15:31.03,0:15:34.53,Main,Miku,0,0,0,,Well, it's just a guess at this point, but...
+Dialogue: 0,0:15:34.53,0:15:39.04,Main,Miku,0,0,0,,I think she'll unfold her arms \Nand switch up her stance a little.
+Dialogue: 0,0:15:39.84,0:15:43.12,Italics,Pete,0,0,0,,What the heck? I don't get it.
+Dialogue: 0,0:15:43.58,0:15:45.84,Main,Prontea,0,0,0,,Miku? Who's that?
+Dialogue: 0,0:15:45.84,0:15:47.47,Main,Hayato,0,0,0,,Is she strong?
+Dialogue: 0,0:15:47.47,0:15:49.15,Main,Piscalat,0,0,0,,Not exactly, no.
+Dialogue: 0,0:15:49.15,0:15:52.88,Main,Piscalat,0,0,0,,She's normally in charge of reeducating \Nthe women we capture.
+Dialogue: 0,0:15:52.88,0:15:56.11,Main,Piscalat,0,0,0,,I'm pretty sure even the girl \Nwith the pigtails could beat her.
+Dialogue: 0,0:15:56.11,0:15:57.14,Main,Paula,0,0,0,,Me?
+Dialogue: 0,0:15:57.59,0:15:59.24,Main,Piscalat,0,0,0,,I should start at the beginning...
+Dialogue: 0,0:15:59.89,0:16:00.39,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\pos(117.143,58.571)\shad0\c&H351AA6&\3c&HECF7FC&}Fast Forward Explanation in Progress
+Dialogue: 0,0:15:59.89,0:16:00.98,Main,Piscalat,0,0,0,,The way we fuse humans and demons
+Dialogue: 0,0:16:00.91,0:16:01.39,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\pos(117.143,58.571)\shad0\c&H351AA6&\3c&HECF7FC&}Fast Forward Explanation in Progress
+Dialogue: 0,0:16:00.98,0:16:02.87,Main,Piscalat,0,0,0,,involves taking an infant of each species \Nspecies and letting them combine.
+Dialogue: 0,0:16:01.91,0:16:02.39,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\pos(117.143,58.571)\shad0\c&H351AA6&\3c&HECF7FC&}Fast Forward Explanation in Progress
+Dialogue: 0,0:16:02.87,0:16:03.40,Main,Piscalat,0,0,0,,It's mostly hand-off.
+Dialogue: 0,0:16:02.92,0:16:03.40,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\pos(117.143,58.571)\shad0\c&H351AA6&\3c&HECF7FC&}Fast Forward Explanation in Progress
+Dialogue: 0,0:16:03.40,0:16:04.90,Main,Piscalat,0,0,0,,This results in wildly varying mutations,
+Dialogue: 0,0:16:03.92,0:16:04.40,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\pos(117.143,58.571)\shad0\c&H351AA6&\3c&HECF7FC&}Fast Forward Explanation in Progress
+Dialogue: 0,0:16:04.90,0:16:07.20,Main,Piscalat,0,0,0,,both in terms of form and power.
+Dialogue: 0,0:16:04.92,0:16:05.40,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\pos(117.143,58.571)\shad0\c&H351AA6&\3c&HECF7FC&}Fast Forward Explanation in Progress
+Dialogue: 0,0:16:05.92,0:16:06.40,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\pos(117.143,58.571)\shad0\c&H351AA6&\3c&HECF7FC&}Fast Forward Explanation in Progress
+Dialogue: 0,0:16:06.92,0:16:07.40,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\pos(117.143,58.571)\shad0\c&H351AA6&\3c&HECF7FC&}Fast Forward Explanation in Progress
+Dialogue: 0,0:16:07.20,0:16:08.58,Main,Piscalat,0,0,0,,Miku and Barcode were created after
+Dialogue: 0,0:16:07.92,0:16:08.40,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\pos(117.143,58.571)\shad0\c&H351AA6&\3c&HECF7FC&}Fast Forward Explanation in Progress
+Dialogue: 0,0:16:08.58,0:16:10.78,Main,Piscalat,0,0,0,,an effort was made to remove the \Nrandomness from the process.
+Dialogue: 0,0:16:08.92,0:16:09.40,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\pos(117.143,58.571)\shad0\c&H351AA6&\3c&HECF7FC&}Fast Forward Explanation in Progress
+Dialogue: 0,0:16:09.92,0:16:10.40,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\pos(117.143,58.571)\shad0\c&H351AA6&\3c&HECF7FC&}Fast Forward Explanation in Progress
+Dialogue: 0,0:16:10.78,0:16:11.98,Main,Piscalat,0,0,0,,It was ultimately a failure, though,
+Dialogue: 0,0:16:10.92,0:16:11.40,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\pos(117.143,58.571)\shad0\c&H351AA6&\3c&HECF7FC&}Fast Forward Explanation in Progress
+Dialogue: 0,0:16:11.92,0:16:12.40,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\pos(117.143,58.571)\shad0\c&H351AA6&\3c&HECF7FC&}Fast Forward Explanation in Progress
+Dialogue: 0,0:16:11.98,0:16:13.72,Main,Piscalat,0,0,0,,as they're severely lacking in \Nboth strength and shapeshifting ability.
+Dialogue: 0,0:16:12.93,0:16:13.41,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\pos(117.143,58.571)\shad0\c&H351AA6&\3c&HECF7FC&}Fast Forward Explanation in Progress
+Dialogue: 0,0:16:13.72,0:16:14.91,Main,Piscalat,0,0,0,,But it wasn't a total loss.
+Dialogue: 0,0:16:13.93,0:16:14.41,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\pos(117.143,58.571)\shad0\c&H351AA6&\3c&HECF7FC&}Fast Forward Explanation in Progress
+Dialogue: 0,0:16:14.91,0:16:16.64,Main,Piscalat,0,0,0,,As a side effect, they have \Nremarkable nervous systems.
+Dialogue: 0,0:16:14.93,0:16:15.41,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\pos(117.143,58.571)\shad0\c&H351AA6&\3c&HECF7FC&}Fast Forward Explanation in Progress
+Dialogue: 0,0:16:15.93,0:16:16.41,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\pos(117.143,58.571)\shad0\c&H351AA6&\3c&HECF7FC&}Fast Forward Explanation in Progress
+Dialogue: 0,0:16:16.64,0:16:18.16,Main,Piscalat,0,0,0,,Barcode can process \Nincredible amounts of information,
+Dialogue: 0,0:16:16.93,0:16:17.41,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\pos(117.143,58.571)\shad0\c&H351AA6&\3c&HECF7FC&}Fast Forward Explanation in Progress
+Dialogue: 0,0:16:17.93,0:16:18.41,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\pos(117.143,58.571)\shad0\c&H351AA6&\3c&HECF7FC&}Fast Forward Explanation in Progress
+Dialogue: 0,0:16:18.16,0:16:20.66,Main,Piscalat,0,0,0,,and Miku has an abnormal level \Nof observational insight.
+Dialogue: 0,0:16:18.93,0:16:19.41,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\pos(117.143,58.571)\shad0\c&H351AA6&\3c&HECF7FC&}Fast Forward Explanation in Progress
+Dialogue: 0,0:16:19.93,0:16:20.43,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\pos(117.143,58.571)\shad0\c&H351AA6&\3c&HECF7FC&}Fast Forward Explanation in Progress
+Dialogue: 0,0:16:26.00,0:16:28.34,Main,Miku,0,0,0,,See, she moved just like I thought!
+Dialogue: 0,0:16:28.62,0:16:34.34,Main,Piscalat,0,0,0,,She'll notice that our brains were \Ntampered with as soon as she sees us.
+Dialogue: 0,0:16:34.34,0:16:36.92,Main,Takeshita,0,0,0,,She did, but I'm not sure why.
+Dialogue: 0,0:16:36.92,0:16:38.90,Main,Takeshita,0,0,0,,And what was the point?
+Dialogue: 0,0:16:38.90,0:16:42.14,Main,Miku,0,0,0,,Let's see... How about \Nwe discuss this outside?
+Dialogue: 0,0:16:43.50,0:16:45.28,Main,Miku,0,0,0,,See, she'd taken up a position
+Dialogue: 0,0:16:45.28,0:16:49.76,Main,Miku,0,0,0,,that would let her wipe out the \Nentire fleet in an instant.
+Dialogue: 0,0:16:50.14,0:16:52.78,Main,Miku,0,0,0,,That's why I had them switch to \Na formation that would make it harder
+Dialogue: 0,0:16:52.78,0:16:54.45,Main,Miku,0,0,0,,for her to eliminate them where she stood.
+Dialogue: 0,0:16:54.45,0:16:57.66,Main,Miku,0,0,0,,But don't you think it's funny, Your Majesty?
+Dialogue: 0,0:16:58.55,0:17:00.16,Main,Takeshita,0,0,0,,No, I'm not sure I understand.
+Dialogue: 0,0:17:00.16,0:17:02.97,Main,Miku,0,0,0,,Well, if she doesn't want to kill humans,
+Dialogue: 0,0:17:02.97,0:17:06.09,Main,Miku,0,0,0,,couldn't she just run away instead \Nof getting ready to attack?
+Dialogue: 0,0:17:06.09,0:17:08.20,Main,Miku,0,0,0,,Why would she stand her ground like that?
+Dialogue: 0,0:17:08.51,0:17:10.17,Main,,0,0,0,,There's only one reason.
+Dialogue: 0,0:17:10.67,0:17:14.66,Main,,0,0,0,,There must be something there\Nthat she wants to keep safe.
+Dialogue: 0,0:17:15.00,0:17:18.60,Main,,0,0,0,,I wonder what it could be...
+Dialogue: 0,0:17:19.30,0:17:22.52,Main,Obami,0,0,0,,How's it going? Any new developments?
+Dialogue: 0,0:17:23.27,0:17:26.87,Main,Miku,0,0,0,,Oh, Your Lordship! \NAre you feeling any better?
+Dialogue: 0,0:17:26.87,0:17:29.60,Main,Obami,0,0,0,,Yes, I just finished repairs a minute ago.
+Dialogue: 0,0:17:30.06,0:17:33.99,Main,Obami,0,0,0,,That stupid brat just had to smash my body...
+Dialogue: 0,0:17:35.93,0:17:38.24,Main,Obami,0,0,0,,She's protecting something, is she?
+Dialogue: 0,0:17:38.24,0:17:41.62,Main,Obami,0,0,0,,I'd wager it's the seal keeping \Nthe old demons at bay.
+Dialogue: 0,0:17:41.62,0:17:43.87,Main,Miku,0,0,0,,The old demons are sealed away?
+Dialogue: 0,0:17:44.10,0:17:48.79,Main,Obami,0,0,0,,Eight hundred years ago,\Nall of demonkind were trapped behind a seal.
+Dialogue: 0,0:17:48.79,0:17:53.08,Main,Takeshita,0,0,0,,If we can break that seal, \Nwouldn't the tables turn instantly?
+Dialogue: 0,0:17:53.08,0:17:54.84,Main,Obami,0,0,0,,Is that what you're thinking, Miku?
+Dialogue: 0,0:17:54.84,0:17:56.25,Main,Miku,0,0,0,,Not at all!
+Dialogue: 0,0:17:56.25,0:18:00.10,Main,Miku,0,0,0,,Y'know, Your Majesty, you're a good study,\N but you're not too clever.
+Dialogue: 0,0:18:01.87,0:18:04.02,Main,Obami,0,0,0,,There are three problems.
+Dialogue: 0,0:18:04.02,0:18:08.65,Main,Sign,0,0,0,,{\an8\fnArial\c&H000000&\3c&H0DC0D7&\4c&H0DC0D7&\fs20\pos(322.667,70)}"Problem 1"
+Dialogue: 0,0:18:05.59,0:18:08.65,Main,Obami,0,0,0,,Firstly, we don't know how to break the seal.
+Dialogue: 0,0:18:08.65,0:18:12.00,Main,Obami,0,0,0,,How do we destroy the island \Nwith Rin defending it?
+Dialogue: 0,0:18:08.65,0:18:14.65,Main,Sign,0,0,0,,{\an8\fnArial\c&H000000&\3c&H0DC0D7&\4c&H0DC0D7&\fs20\pos(539.334,19.333)}"Problem 2"
+Dialogue: 0,0:18:12.00,0:18:14.65,Main,Obami,0,0,0,,I'm not sure we have the means to do so.
+Dialogue: 0,0:18:15.98,0:18:17.75,Main,Takeshita,0,0,0,,Those are good points...
+Dialogue: 0,0:18:19.74,0:18:23.35,Main,Obami,0,0,0,,{\an8}The return of the wild, unintelligent demons
+Dialogue: 0,0:18:19.74,0:18:27.68,Main,Sign,0,0,0,,{\fad(1,870)\an8\fnArial\c&H000000&\3c&H0DC0D7&\4c&H0DC0D7&\fs20\pos(330,268.667)}"Problem 3"
+Dialogue: 0,0:18:23.35,0:18:26.43,Main,Obami,0,0,0,,{\an8}would be as much of an issue for us\Nas it would the Idaten.
+Dialogue: 0,0:18:26.43,0:18:30.00,Main,Obami,0,0,0,,{\an8}They can't differentiate friend and foe.
+Dialogue: 0,0:18:30.00,0:18:31.12,Main,Takeshita,0,0,0,,True enough.
+Dialogue: 0,0:18:31.55,0:18:36.76,Main,Obami,0,0,0,,Knowing the location of the \Nseal is interesting, however.
+Dialogue: 0,0:18:37.92,0:18:39.98,Main,Takeshita,0,0,0,,I thought we were onto something...
+Dialogue: 0,0:18:40.38,0:18:42.85,Main,Takeshita,0,0,0,,But I guess we'll have to \Nthink of something else.
+Dialogue: 0,0:18:44.25,0:18:47.44,Flashback,Obami,0,0,0,,How do we destroy the island \Nwith Rin defending it?
+Dialogue: 0,0:18:48.10,0:18:48.97,Italics,Miku,0,0,0,,"Rin"?
+Dialogue: 0,0:18:50.41,0:18:54.69,Italics,Miku,0,0,0,,How does the Demon Lord \Nknow that Idaten's name?
+Dialogue: 0,0:18:56.47,0:19:00.61,Main,Ysley,0,0,0,,Who exactly is this doctor... \Nthis Demon Lord Over-M?
+Dialogue: 0,0:19:01.15,0:19:02.53,Main,Piscalat,0,0,0,,The Demon Lord...
+Dialogue: 0,0:19:03.16,0:19:03.66,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\shad0\c&H351AA6&\3c&HECF7FC&\pos(525.81,58.571)}Fast Forward Explanation in Progress
+Dialogue: 0,0:19:03.16,0:19:04.64,Main,Piscalat,0,0,0,,He was the one who granted us \Nhuman forms and intelligence,
+Dialogue: 0,0:19:04.18,0:19:04.66,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\shad0\c&H351AA6&\3c&HECF7FC&\pos(525.81,58.571)}Fast Forward Explanation in Progress
+Dialogue: 0,0:19:04.64,0:19:06.24,Main,Piscalat,0,0,0,,and he's maneuvering to \Ntake control of society.
+Dialogue: 0,0:19:05.18,0:19:05.66,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\shad0\c&H351AA6&\3c&HECF7FC&\pos(525.81,58.571)}Fast Forward Explanation in Progress
+Dialogue: 0,0:19:06.18,0:19:06.66,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\shad0\c&H351AA6&\3c&HECF7FC&\pos(525.81,58.571)}Fast Forward Explanation in Progress
+Dialogue: 0,0:19:06.24,0:19:08.18,Main,Piscalat,0,0,0,,But because he always contacts \Nus via android proxies,
+Dialogue: 0,0:19:07.18,0:19:07.66,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\shad0\c&H351AA6&\3c&HECF7FC&\pos(525.81,58.571)}Fast Forward Explanation in Progress
+Dialogue: 0,0:19:08.18,0:19:08.66,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\shad0\c&H351AA6&\3c&HECF7FC&\pos(525.81,58.571)}Fast Forward Explanation in Progress
+Dialogue: 0,0:19:08.18,0:19:09.29,Main,Piscalat,0,0,0,,we're not completely certain \Nabout his identity.
+Dialogue: 0,0:19:09.18,0:19:09.66,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\shad0\c&H351AA6&\3c&HECF7FC&\pos(525.81,58.571)}Fast Forward Explanation in Progress
+Dialogue: 0,0:19:09.29,0:19:11.17,Main,Neput,0,0,0,,Seventy years ago, \Nwhen Takeshita and I were kids,
+Dialogue: 0,0:19:10.19,0:19:10.67,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\shad0\c&H351AA6&\3c&HECF7FC&\pos(525.81,58.571)}Fast Forward Explanation in Progress
+Dialogue: 0,0:19:11.17,0:19:13.17,Main,Neput,0,0,0,,the Demon Lord seemed to rule \Nover Zoble as Emperor Obama.
+Dialogue: 0,0:19:11.19,0:19:11.67,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\shad0\c&H351AA6&\3c&HECF7FC&\pos(525.81,58.571)}Fast Forward Explanation in Progress
+Dialogue: 0,0:19:12.19,0:19:12.67,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\shad0\c&H351AA6&\3c&HECF7FC&\pos(525.81,58.571)}Fast Forward Explanation in Progress
+Dialogue: 0,0:19:13.17,0:19:14.32,Main,Neput,0,0,0,,We all had to wonder if
+Dialogue: 0,0:19:13.19,0:19:13.67,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\shad0\c&H351AA6&\3c&HECF7FC&\pos(525.81,58.571)}Fast Forward Explanation in Progress
+Dialogue: 0,0:19:14.19,0:19:14.67,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\shad0\c&H351AA6&\3c&HECF7FC&\pos(525.81,58.571)}Fast Forward Explanation in Progress
+Dialogue: 0,0:19:14.32,0:19:17.55,Main,Neput,0,0,0,,he was actually just a human using\N us demons for world conquest.
+Dialogue: 0,0:19:15.19,0:19:15.67,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\shad0\c&H351AA6&\3c&HECF7FC&\pos(525.81,58.571)}Fast Forward Explanation in Progress
+Dialogue: 0,0:19:16.19,0:19:16.67,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\shad0\c&H351AA6&\3c&HECF7FC&\pos(525.81,58.571)}Fast Forward Explanation in Progress
+Dialogue: 0,0:19:17.19,0:19:17.67,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\shad0\c&H351AA6&\3c&HECF7FC&\pos(525.81,58.571)}Fast Forward Explanation in Progress
+Dialogue: 0,0:19:17.55,0:19:19.48,Main,Neput,0,0,0,,But one day, after he'd reached \Nan age most humans would be dead at,
+Dialogue: 0,0:19:18.19,0:19:18.67,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\shad0\c&H351AA6&\3c&HECF7FC&\pos(525.81,58.571)}Fast Forward Explanation in Progress
+Dialogue: 0,0:19:19.19,0:19:19.67,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\shad0\c&H351AA6&\3c&HECF7FC&\pos(525.81,58.571)}Fast Forward Explanation in Progress
+Dialogue: 0,0:19:19.48,0:19:21.39,Main,Neput,0,0,0,,he abdicated the throne to Takeshita \Nand faked his own death
+Dialogue: 0,0:19:20.20,0:19:20.68,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\shad0\c&H351AA6&\3c&HECF7FC&\pos(525.81,58.571)}Fast Forward Explanation in Progress
+Dialogue: 0,0:19:21.20,0:19:21.68,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\shad0\c&H351AA6&\3c&HECF7FC&\pos(525.81,58.571)}Fast Forward Explanation in Progress
+Dialogue: 0,0:19:21.39,0:19:23.30,Main,Neput,0,0,0,,before returning as a scientist named \NObami that worked in military R&D.
+Dialogue: 0,0:19:22.20,0:19:22.68,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\shad0\c&H351AA6&\3c&HECF7FC&\pos(525.81,58.571)}Fast Forward Explanation in Progress
+Dialogue: 0,0:19:23.20,0:19:23.68,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\shad0\c&H351AA6&\3c&HECF7FC&\pos(525.81,58.571)}Fast Forward Explanation in Progress
+Dialogue: 0,0:19:23.30,0:19:25.32,Main,Neput,0,0,0,,He said it was so that he could dedicate \Nmore time to the prosperity of demons,
+Dialogue: 0,0:19:24.20,0:19:24.68,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\shad0\c&H351AA6&\3c&HECF7FC&\pos(525.81,58.571)}Fast Forward Explanation in Progress
+Dialogue: 0,0:19:25.20,0:19:25.68,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\shad0\c&H351AA6&\3c&HECF7FC&\pos(525.81,58.571)}Fast Forward Explanation in Progress
+Dialogue: 0,0:19:25.32,0:19:26.14,Main,Neput,0,0,0,,but the job would take over a century.
+Dialogue: 0,0:19:26.14,0:19:28.06,Main,Neput,0,0,0,,If he were human, he'd never live that long.
+Dialogue: 0,0:19:26.20,0:19:26.68,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\shad0\c&H351AA6&\3c&HECF7FC&\pos(525.81,58.571)}Fast Forward Explanation in Progress
+Dialogue: 0,0:19:27.20,0:19:27.68,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\shad0\c&H351AA6&\3c&HECF7FC&\pos(525.81,58.571)}Fast Forward Explanation in Progress
+Dialogue: 0,0:19:28.06,0:19:29.20,Main,Piscalat,0,0,0,,There {\i1}is{\i0} a possibility \Nthe person controlling
+Dialogue: 0,0:19:28.20,0:19:28.68,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\shad0\c&H351AA6&\3c&HECF7FC&\pos(525.81,58.571)}Fast Forward Explanation in Progress
+Dialogue: 0,0:19:29.20,0:19:29.68,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\shad0\c&H351AA6&\3c&HECF7FC&\pos(525.81,58.571)}Fast Forward Explanation in Progress
+Dialogue: 0,0:19:29.20,0:19:30.43,Main,Piscalat,0,0,0,,the android may have changed at some point,
+Dialogue: 0,0:19:30.21,0:19:30.69,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\shad0\c&H351AA6&\3c&HECF7FC&\pos(525.81,58.571)}Fast Forward Explanation in Progress
+Dialogue: 0,0:19:30.43,0:19:31.73,Main,Piscalat,0,0,0,,but even if there's an \Norganized effort behind it,
+Dialogue: 0,0:19:31.21,0:19:31.69,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\shad0\c&H351AA6&\3c&HECF7FC&\pos(525.81,58.571)}Fast Forward Explanation in Progress
+Dialogue: 0,0:19:31.73,0:19:33.80,Main,Piscalat,0,0,0,,I can't imagine why humans \Nwould expend multiple lifetimes
+Dialogue: 0,0:19:33.21,0:19:33.69,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\shad0\c&H351AA6&\3c&HECF7FC&\pos(525.81,58.571)}Fast Forward Explanation in Progress
+Dialogue: 0,0:19:33.80,0:19:34.69,Main,Piscalat,0,0,0,,devoted to helping demonkind.
+Dialogue: 0,0:19:34.21,0:19:34.69,Main,Sign,0,0,0,,{\an8\fnArial\fs12\b1\shad0\c&H351AA6&\3c&HECF7FC&\pos(525.81,58.571)}Fast Forward Explanation in Progress
+Dialogue: 0,0:19:35.33,0:19:37.28,Main,Ysley,0,0,0,,Hang on a second, maybe he's...
+Dialogue: 0,0:19:38.06,0:19:39.19,Main,Ysley,0,0,0,,No, it can't be...
+Dialogue: 0,0:19:39.86,0:19:43.65,Italics,Miku,0,0,0,,If the Demon Lord is a human, \Nhis lifespan doesn't make any sense.
+Dialogue: 0,0:19:44.41,0:19:48.73,Italics,Miku,0,0,0,,But if he's a pure demon, then where \Ndoes his intelligence come from?
+Dialogue: 0,0:19:49.82,0:19:53.58,Main,Paula,0,0,0,,Maybe the Demon Lord is an Idaten?
+Dialogue: 0,0:19:55.49,0:19:58.38,Main,Piscalat,0,0,0,,Then why would he oppose the rest of you?
+Dialogue: 0,0:19:58.38,0:20:01.84,Main,Paula,0,0,0,,I-I dunno about the details, but...
+Dialogue: 0,0:20:01.84,0:20:05.76,Main,Paula,0,0,0,,Oh, you know how we're mostly \Nmade up of human thoughts?
+Dialogue: 0,0:20:05.76,0:20:09.33,Main,Paula,0,0,0,,The Demon Lord could be an Idaten who \Nwas created from the thoughts of demons!
+Dialogue: 0,0:20:09.33,0:20:11.52,Main,Paula,0,0,0,,That'd explain everything, right?
+Dialogue: 0,0:20:11.52,0:20:13.23,Main,Ysley,0,0,0,,I seriously doubt that.
+Dialogue: 0,0:20:13.23,0:20:18.76,Main,Ysley,0,0,0,,If he were an Idaten, he'd have to know \Nmore about us than he does, wouldn't he?
+Dialogue: 0,0:20:20.70,0:20:22.74,Main,Ysley,0,0,0,,I think we've been at this for too long.
+Dialogue: 0,0:20:23.14,0:20:24.74,Main,Ysley,0,0,0,,Let's have a little break.
+Dialogue: 0,0:20:24.74,0:20:27.02,Main,Hayato,0,0,0,,I'm down for that.
+Dialogue: 0,0:20:27.02,0:20:29.45,Main,Hayato,0,0,0,,Actually, I kind of want to ditch altogether.
+Dialogue: 0,0:20:29.45,0:20:31.86,Main,Hayato,0,0,0,,Hey, man, let's train some more.
+Dialogue: 0,0:20:32.46,0:20:35.71,Main,Ysley,0,0,0,,Oh, I actually need to talk with Prontea-san.
+Dialogue: 0,0:20:36.26,0:20:37.84,Main,Ysley,0,0,0,,Could we address that first?
+Dialogue: 0,0:20:38.83,0:20:40.96,Main,Prontea,0,0,0,,Yeah, all right.
+Dialogue: 0,0:20:40.96,0:20:43.77,Main,Hayato,0,0,0,,Hey! What about my training?
+Dialogue: 0,0:20:43.77,0:20:46.93,Main,Prontea,0,0,0,,No need to worry. \NI'll give you something to work on.
+Dialogue: 0,0:20:47.26,0:20:50.93,Main,Prontea,0,0,0,,First, try to defeat these three.
+Dialogue: 0,0:20:51.30,0:20:54.31,Main,Hayato,0,0,0,,Okay, then. Now that's my kind of homework.
+Dialogue: 0,0:20:54.56,0:20:55.79,Main,Ysley,0,0,0,,General Piscalat.
+Dialogue: 0,0:20:56.30,0:20:57.06,Main,Piscalat,0,0,0,,Yes?
+Dialogue: 0,0:20:57.87,0:21:00.11,Main,Ysley,0,0,0,,About the Demon Lord...
+Dialogue: 0,0:21:02.41,0:21:04.18,Main,Piscalat,0,0,0,,You're exactly right.
+Dialogue: 0,0:21:05.55,0:21:07.84,Main,Prontea,0,0,0,,That wasn't like you, Ysley-kun.
+Dialogue: 0,0:21:07.84,0:21:11.29,Main,Prontea,0,0,0,,Why call for a break when we \Nhaven't made any headway?
+Dialogue: 0,0:21:11.29,0:21:13.50,Main,Prontea,0,0,0,,Did you pick up on something?
+Dialogue: 0,0:21:16.11,0:21:18.43,Main,Ysley,0,0,0,,Yes. I understand what's going on now.
+Dialogue: 0,0:21:18.96,0:21:21.71,Main,Ysley,0,0,0,,This doctor that they call the Demon Lord...
+Dialogue: 0,0:21:22.68,0:21:24.23,Main,Ysley,0,0,0,,I know who he really is.
